@@ -1,15 +1,15 @@
 {
   "schema": "champions-mc-read-model/v0",
-  "generatedAt": "2026-09-14T23:09:50.279Z",
+  "generatedAt": "2026-09-14T23:11:32.718Z",
   "provenance": {
     "source": "committed generation index",
     "generationIndex": "mc-generations/index.json",
-    "lastCommittedGeneration": 30,
-    "committedGenerations": 27,
+    "lastCommittedGeneration": 31,
+    "committedGenerations": 28,
     "lineageId": "7428a95979e17ef2c6d7a3de34e4fccde32f77870323f87fe6ce42685cf87e26",
     "learningPolicy": "mc-bounded-memory/v1",
-    "commitDigest": "4c2269e3643439ae3f9ac71e7680b86cd84b1a54905c07273c1d6ccbc62a2a9f",
-    "checkpointDigest": "e317559e687ccfa04887ab6ddd2953a43e222e4c61d85a79c34d9172a86d3f8f",
+    "commitDigest": "756434cf54b0a6e5d17dbab06461edce6b6b3b0459d7afdf7606d6341b701d21",
+    "checkpointDigest": "801d7aa44e788c5ac7fb7eddec9b556d259b570d11976a4f087c8cb2573ae896",
     "policyViewDigest": null,
     "generations": [
       {
@@ -200,10 +200,17 @@
         "games": 80,
         "qualified": 80,
         "committedAt": "2026-09-14T23:09:35.194Z"
+      },
+      {
+        "generation": 31,
+        "bundle": "generation-31",
+        "games": 80,
+        "qualified": 80,
+        "committedAt": "2026-09-14T23:11:18.878Z"
       }
     ],
     "startedAt": "2026-09-14T20:53:05.476Z",
-    "finishedAt": "2026-09-14T23:09:35.194Z"
+    "finishedAt": "2026-09-14T23:11:18.878Z"
   },
   "regulation": null,
   "lineage": {
@@ -220,9 +227,9 @@
   },
   "archiveSlice": null,
   "counts": {
-    "publishable": 135,
+    "publishable": 140,
     "unpublishable": 0,
-    "qualifiedGames": 2160
+    "qualifiedGames": 2240
   },
   "historicalBoard": {
     "regulation": "M-B",
@@ -22252,6 +22259,378 @@
       "lineageId": "7428a95979e17ef2c6d7a3de34e4fccde32f77870323f87fe6ce42685cf87e26"
     },
     {
+      "id": "g31-c0-c1b8dc4a",
+      "identity": "c1b8dc4a8061a80c0a86ffdbffeb9fbd552af2fb855d132830c2827c00b9f77f",
+      "searchKey": "ed62fef740672e7d",
+      "generation": 31,
+      "generations": [
+        31
+      ],
+      "candidateIds": [
+        "g31-c0-c1b8dc4a"
+      ],
+      "origin": "mc-steered",
+      "provisional": true,
+      "sets": [
+        {
+          "species": "Salamence",
+          "battleForme": "Salamence-Mega",
+          "nature": "Jolly",
+          "sps": {
+            "hp": 2,
+            "atk": 32,
+            "spe": 32
+          },
+          "item": "salamencite",
+          "ability": "intimidate",
+          "moves": [
+            "outrage",
+            "fireblast",
+            "ironhead",
+            "protect"
+          ],
+          "meta": {
+            "usage": 0,
+            "auto": true
+          }
+        },
+        {
+          "species": "Golisopod",
+          "battleForme": "Golisopod",
+          "nature": "Adamant",
+          "sps": {
+            "hp": 32,
+            "atk": 32,
+            "def": 2
+          },
+          "item": "sitrusberry",
+          "ability": "emergencyexit",
+          "moves": [
+            "liquidation",
+            "firstimpression",
+            "gunkshot",
+            "protect"
+          ],
+          "meta": {
+            "usage": 0,
+            "auto": true
+          }
+        },
+        {
+          "species": "Gardevoir",
+          "battleForme": "Gardevoir",
+          "nature": "Modest",
+          "sps": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "item": "choicescarf",
+          "ability": "telepathy",
+          "moves": [
+            "dazzlinggleam",
+            "moonblast",
+            "psychic",
+            "icywind"
+          ],
+          "meta": {
+            "usage": 0.001168,
+            "rawCount": 12654,
+            "topSpreads": [
+              {
+                "key": "Modest:2/0/0/32/0/32",
+                "share": 0.3989188447342898
+              },
+              {
+                "key": "Timid:2/0/0/32/0/32",
+                "share": 0.19308785650593327
+              },
+              {
+                "key": "Timid:10/0/2/32/0/22",
+                "share": 0.10906539968520729
+              }
+            ],
+            "topItems": [
+              {
+                "key": "choicescarf",
+                "share": 0.5492549998247903
+              },
+              {
+                "key": "focussash",
+                "share": 0.25530568154729527
+              },
+              {
+                "key": "kebiaberry",
+                "share": 0.050312173104382296
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "dazzlinggleam",
+                "share": 0.19975455792004182
+              },
+              {
+                "key": "moonblast",
+                "share": 0.1484643310569219
+              },
+              {
+                "key": "psychic",
+                "share": 0.11249932593815858
+              },
+              {
+                "key": "icywind",
+                "share": 0.10707642991068286
+              },
+              {
+                "key": "psyshock",
+                "share": 0.09128954904556653
+              },
+              {
+                "key": "protect",
+                "share": 0.08700515930338763
+              },
+              {
+                "key": "thunderbolt",
+                "share": 0.04395677911148662
+              },
+              {
+                "key": "shadowball",
+                "share": 0.04167408065590333
+              },
+              {
+                "key": "trickroom",
+                "share": 0.023667962575731175
+              },
+              {
+                "key": "trick",
+                "share": 0.023567457414099484
+              }
+            ],
+            "viability": [
+              1023,
+              75,
+              68,
+              55
+            ]
+          }
+        },
+        {
+          "species": "Typhlosion",
+          "battleForme": "Typhlosion",
+          "nature": "Modest",
+          "sps": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "item": "lifeorb",
+          "ability": "flashfire",
+          "moves": [
+            "eruption",
+            "scorchingsands",
+            "heatwave",
+            "solarbeam"
+          ],
+          "meta": {
+            "usage": 0.0002673,
+            "rawCount": 5101,
+            "topSpreads": [
+              {
+                "key": "Modest:2/0/0/32/0/32",
+                "share": 0.527470178376305
+              },
+              {
+                "key": "Timid:2/0/0/32/0/32",
+                "share": 0.2944914459472455
+              },
+              {
+                "key": "Modest:0/0/2/32/0/32",
+                "share": 0.08662084264415922
+              }
+            ],
+            "topItems": [
+              {
+                "key": "choicescarf",
+                "share": 0.5630872147812592
+              },
+              {
+                "key": "charcoal",
+                "share": 0.429391458124351
+              },
+              {
+                "key": "expertbelt",
+                "share": 0.006432656837684192
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "eruption",
+                "share": 0.2499996797734579
+              },
+              {
+                "key": "scorchingsands",
+                "share": 0.14508397477112472
+              },
+              {
+                "key": "heatwave",
+                "share": 0.12148965360348231
+              },
+              {
+                "key": "protect",
+                "share": 0.1093112751608702
+              },
+              {
+                "key": "solarbeam",
+                "share": 0.1070170970649586
+              },
+              {
+                "key": "overheat",
+                "share": 0.0717050426370708
+              },
+              {
+                "key": "extrasensory",
+                "share": 0.047237744060983036
+              },
+              {
+                "key": "flamethrower",
+                "share": 0.04052450407248013
+              },
+              {
+                "key": "shadowball",
+                "share": 0.03690984240189783
+              },
+              {
+                "key": "focusblast",
+                "share": 0.03224605550158469
+              }
+            ],
+            "viability": [
+              451,
+              74,
+              68,
+              54
+            ]
+          }
+        },
+        {
+          "species": "Salazzle",
+          "battleForme": "Salazzle",
+          "item": "focussash",
+          "ability": "corrosion",
+          "nature": "Timid",
+          "sps": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "moves": [
+            "fakeout",
+            "sludgebomb",
+            "heatwave",
+            "toxic"
+          ]
+        },
+        {
+          "species": "Flareon",
+          "battleForme": "Flareon",
+          "item": "charcoal",
+          "ability": "flashfire",
+          "nature": "Adamant",
+          "sps": {
+            "hp": 32,
+            "atk": 32,
+            "def": 2
+          },
+          "moves": [
+            "flareblitz",
+            "wish",
+            "quickattack",
+            "detect"
+          ]
+        }
+      ],
+      "paste": "Salamence @ Salamencite\nAbility: Intimidate\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nJolly Nature\n- Outrage\n- Fire Blast\n- Iron Head\n- Protect\n\nGolisopod @ Sitrus Berry\nAbility: Emergency Exit\nLevel: 50\nEVs: 32 HP / 32 Atk / 2 Def\nAdamant Nature\n- Liquidation\n- First Impression\n- Gunk Shot\n- Protect\n\nGardevoir @ Choice Scarf\nAbility: Telepathy\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nModest Nature\n- Dazzling Gleam\n- Moonblast\n- Psychic\n- Icy Wind\n\nTyphlosion @ Life Orb\nAbility: Flash Fire\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nModest Nature\n- Eruption\n- Scorching Sands\n- Heat Wave\n- Solar Beam\n\nSalazzle @ Focus Sash\nAbility: Corrosion\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Fake Out\n- Sludge Bomb\n- Heat Wave\n- Toxic\n\nFlareon @ Charcoal\nAbility: Flash Fire\nLevel: 50\nEVs: 32 HP / 32 Atk / 2 Def\nAdamant Nature\n- Flare Blitz\n- Wish\n- Quick Attack\n- Detect",
+      "roster": [
+        "Salamence",
+        "Golisopod",
+        "Gardevoir",
+        "Typhlosion",
+        "Salazzle",
+        "Flareon"
+      ],
+      "formes": [
+        "Salamence-Mega",
+        "Golisopod",
+        "Gardevoir",
+        "Typhlosion",
+        "Salazzle",
+        "Flareon"
+      ],
+      "semanticHash": "2262d383727d2e83ed5aeef05ba824bafc2c674550f93637beec86ffa58ca056",
+      "record": {
+        "wins": 14,
+        "losses": 2,
+        "draws": 0,
+        "games": 16,
+        "winRate": 0.875
+      },
+      "diagnostics": {
+        "unqualifiedGames": 0,
+        "incomplete": 0,
+        "note": null
+      },
+      "opposition": {
+        "distinctOpponents": 4,
+        "opponentIds": [
+          "panel-0-11eb1084902a0e641bb91a76b384590fbf88cac3647eed36f716962b2ac3fa72",
+          "panel-1-mc-addition-a",
+          "panel-2-e976e7e462f3973f55a41a56cf67cf6a4eceef61fe606b9705fb91d680e61776",
+          "panel-3-carried-fixture-b"
+        ],
+        "opponentHashes": [
+          "6d2c3fdf5fcbb1ba2a991a1a312529ec766de09f4b02516629ec649c453f2e0b",
+          "7d1f4902c00c7849184300a1ae37d19a93893665258d2a20e22feb520eb04cbd",
+          "097fb17fd58f42a5850f3f86df96acc726b87f4e20dc57d1d1e253793236ca7e",
+          "6aeff201844d690c93c80a774bfb7b8f9de0dbe12ab68269ff04f644d74afd47"
+        ],
+        "declaredPanel": 4,
+        "aliasedOpponentIds": [],
+        "opponentsWithUnqualifiedGamesOnly": 0,
+        "opponentsWithIncompleteAttemptsOnly": 0,
+        "frozenBeforeResults": true,
+        "basis": "distinctOpponents counts opponents supporting the QUALIFIED record, deduplicated by semantic team identity so aliases of one team count once; declaredPanel is the size of the declared training panel; the two \"...Only\" counts exclude opponents that also have qualified games"
+      },
+      "thin": false,
+      "provisionalBasis": "16 qualified games vs 4 distinct opponents (declared panel of 4)",
+      "mcEvidence": {
+        "qualifiedGames": 16,
+        "qualifiedOpponents": 4,
+        "declaredPanel": 4,
+        "unqualifiedGames": 0,
+        "incomplete": 0,
+        "generations": [
+          31
+        ],
+        "thin": false,
+        "narrow": true,
+        "thinReason": null
+      },
+      "elo": null,
+      "games": 16,
+      "player": "champions-incumbent-open-sheet-v1",
+      "informationMode": "open-sheet",
+      "lineageId": "7428a95979e17ef2c6d7a3de34e4fccde32f77870323f87fe6ce42685cf87e26"
+    },
+    {
       "id": "g4-c2-b3d1efa2",
       "identity": "b3d1efa2d59055eb0ebeebb6c513110d1848237898ceac8f4df52ffdd2516045",
       "searchKey": "56e0865c69dfb12c",
@@ -31093,6 +31472,741 @@
       "lineageId": "7428a95979e17ef2c6d7a3de34e4fccde32f77870323f87fe6ce42685cf87e26"
     },
     {
+      "id": "g31-c2-5e2b98a8",
+      "identity": "5e2b98a81701afa8c20e5e4adf9a5143349956f4626ead25f66f0f6ab26ff6db",
+      "searchKey": "be1881a30adbadb4",
+      "generation": 31,
+      "generations": [
+        31
+      ],
+      "candidateIds": [
+        "g31-c2-5e2b98a8"
+      ],
+      "origin": "mc-steered",
+      "provisional": true,
+      "sets": [
+        {
+          "species": "Orthworm",
+          "battleForme": "Orthworm",
+          "nature": "Relaxed",
+          "sps": {
+            "hp": 31,
+            "def": 5,
+            "spd": 30
+          },
+          "item": "roseliberry",
+          "ability": "eartheater",
+          "moves": [
+            "bodypress",
+            "shedtail",
+            "heavyslam",
+            "helpinghand"
+          ]
+        },
+        {
+          "species": "Krookodile",
+          "battleForme": "Krookodile",
+          "item": "choicescarf",
+          "ability": "intimidate",
+          "nature": "Adamant",
+          "sps": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "moves": [
+            "earthquake",
+            "knockoff",
+            "rockslide",
+            "protect"
+          ]
+        },
+        {
+          "species": "Samurott-Hisui",
+          "battleForme": "Samurott-Hisui",
+          "nature": "Jolly",
+          "sps": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "item": "lifeorb",
+          "ability": "sharpness",
+          "moves": [
+            "sacredsword",
+            "nightslash",
+            "suckerpunch",
+            "aquacutter"
+          ],
+          "meta": {
+            "usage": 0.0057135,
+            "rawCount": 36647,
+            "topSpreads": [
+              {
+                "key": "Jolly:2/32/0/0/0/32",
+                "share": 0.4234510353369917
+              },
+              {
+                "key": "Adamant:2/32/0/0/0/32",
+                "share": 0.12252925743543618
+              },
+              {
+                "key": "Adamant:32/32/0/0/2/0",
+                "share": 0.10257849581982688
+              }
+            ],
+            "topItems": [
+              {
+                "key": "choicescarf",
+                "share": 0.4573357524324629
+              },
+              {
+                "key": "blackglasses",
+                "share": 0.24310320477467146
+              },
+              {
+                "key": "lifeorb",
+                "share": 0.10513638372176493
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "sacredsword",
+                "share": 0.2210957211135705
+              },
+              {
+                "key": "nightslash",
+                "share": 0.1298198554152194
+              },
+              {
+                "key": "suckerpunch",
+                "share": 0.11474269410450932
+              },
+              {
+                "key": "aquacutter",
+                "share": 0.1075924279999782
+              },
+              {
+                "key": "ceaselessedge",
+                "share": 0.0982699849013363
+              },
+              {
+                "key": "flipturn",
+                "share": 0.09722100741797868
+              },
+              {
+                "key": "protect",
+                "share": 0.0911036501341749
+              },
+              {
+                "key": "razorshell",
+                "share": 0.0868649436706293
+              },
+              {
+                "key": "detect",
+                "share": 0.01958738906396803
+              },
+              {
+                "key": "swordsdance",
+                "share": 0.00883266605520044
+              }
+            ],
+            "viability": [
+              2960,
+              78,
+              71,
+              58
+            ]
+          }
+        },
+        {
+          "species": "Malamar",
+          "battleForme": "Malamar",
+          "nature": "Brave",
+          "sps": {
+            "hp": 32,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 2,
+            "spe": 0
+          },
+          "item": "muscleband",
+          "ability": "contrary",
+          "moves": [
+            "superpower",
+            "trickroom",
+            "knockoff",
+            "protect"
+          ],
+          "meta": {
+            "usage": 0.0018842,
+            "rawCount": 17467,
+            "topSpreads": [
+              {
+                "key": "Brave:32/32/0/0/2/0",
+                "share": 0.34539651450293385
+              },
+              {
+                "key": "Brave:32/32/1/0/1/0",
+                "share": 0.30850665255990256
+              },
+              {
+                "key": "Adamant:32/32/0/0/2/0",
+                "share": 0.09586060817993644
+              }
+            ],
+            "topItems": [
+              {
+                "key": "roseliberry",
+                "share": 0.4002931060460743
+              },
+              {
+                "key": "sitrusberry",
+                "share": 0.34790061121547405
+              },
+              {
+                "key": "focussash",
+                "share": 0.13185068984697473
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "superpower",
+                "share": 0.24496000406358456
+              },
+              {
+                "key": "trickroom",
+                "share": 0.21862889279978304
+              },
+              {
+                "key": "knockoff",
+                "share": 0.19216438399507077
+              },
+              {
+                "key": "protect",
+                "share": 0.08368837738835064
+              },
+              {
+                "key": "destinybond",
+                "share": 0.07736565300607638
+              },
+              {
+                "key": "topsyturvy",
+                "share": 0.06559212398503728
+              },
+              {
+                "key": "rockslide",
+                "share": 0.04483291377211922
+              },
+              {
+                "key": "psychocut",
+                "share": 0.020196085861044145
+              },
+              {
+                "key": "batonpass",
+                "share": 0.016140848163594297
+              },
+              {
+                "key": "skillswap",
+                "share": 0.013290894625352066
+              }
+            ],
+            "viability": [
+              1377,
+              76,
+              70,
+              54
+            ]
+          }
+        },
+        {
+          "species": "Noivern",
+          "battleForme": "Noivern",
+          "item": "focussash",
+          "ability": "infiltrator",
+          "nature": "Timid",
+          "sps": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "moves": [
+            "tailwind",
+            "dracometeor",
+            "airslash",
+            "protect"
+          ]
+        },
+        {
+          "species": "Skarmory",
+          "battleForme": "Skarmory-Mega",
+          "item": "skarmorite",
+          "ability": "sturdy",
+          "nature": "Adamant",
+          "sps": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "moves": [
+            "ironhead",
+            "bravebird",
+            "protect",
+            "tailwind"
+          ]
+        }
+      ],
+      "paste": "Orthworm @ Roseli Berry\nAbility: Earth Eater\nLevel: 50\nEVs: 31 HP / 5 Def / 30 SpD\nRelaxed Nature\n- Body Press\n- Shed Tail\n- Heavy Slam\n- Helping Hand\n\nKrookodile @ Choice Scarf\nAbility: Intimidate\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nAdamant Nature\n- Earthquake\n- Knock Off\n- Rock Slide\n- Protect\n\nSamurott-Hisui @ Life Orb\nAbility: Sharpness\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nJolly Nature\n- Sacred Sword\n- Night Slash\n- Sucker Punch\n- Aqua Cutter\n\nMalamar @ Muscle Band\nAbility: Contrary\nLevel: 50\nEVs: 32 HP / 32 Atk / 2 SpD\nBrave Nature\n- Superpower\n- Trick Room\n- Knock Off\n- Protect\n\nNoivern @ Focus Sash\nAbility: Infiltrator\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Tailwind\n- Draco Meteor\n- Air Slash\n- Protect\n\nSkarmory @ Skarmorite\nAbility: Sturdy\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nAdamant Nature\n- Iron Head\n- Brave Bird\n- Protect\n- Tailwind",
+      "roster": [
+        "Orthworm",
+        "Krookodile",
+        "Samurott-Hisui",
+        "Malamar",
+        "Noivern",
+        "Skarmory"
+      ],
+      "formes": [
+        "Orthworm",
+        "Krookodile",
+        "Samurott-Hisui",
+        "Malamar",
+        "Noivern",
+        "Skarmory-Mega"
+      ],
+      "semanticHash": "8636dfae081dbd1b2deca8b6a305485a326cfc4242830635c5eb1e15978ae649",
+      "record": {
+        "wins": 13,
+        "losses": 3,
+        "draws": 0,
+        "games": 16,
+        "winRate": 0.8125
+      },
+      "diagnostics": {
+        "unqualifiedGames": 0,
+        "incomplete": 0,
+        "note": null
+      },
+      "opposition": {
+        "distinctOpponents": 4,
+        "opponentIds": [
+          "panel-0-11eb1084902a0e641bb91a76b384590fbf88cac3647eed36f716962b2ac3fa72",
+          "panel-1-mc-addition-a",
+          "panel-2-e976e7e462f3973f55a41a56cf67cf6a4eceef61fe606b9705fb91d680e61776",
+          "panel-3-carried-fixture-b"
+        ],
+        "opponentHashes": [
+          "6d2c3fdf5fcbb1ba2a991a1a312529ec766de09f4b02516629ec649c453f2e0b",
+          "7d1f4902c00c7849184300a1ae37d19a93893665258d2a20e22feb520eb04cbd",
+          "097fb17fd58f42a5850f3f86df96acc726b87f4e20dc57d1d1e253793236ca7e",
+          "6aeff201844d690c93c80a774bfb7b8f9de0dbe12ab68269ff04f644d74afd47"
+        ],
+        "declaredPanel": 4,
+        "aliasedOpponentIds": [],
+        "opponentsWithUnqualifiedGamesOnly": 0,
+        "opponentsWithIncompleteAttemptsOnly": 0,
+        "frozenBeforeResults": true,
+        "basis": "distinctOpponents counts opponents supporting the QUALIFIED record, deduplicated by semantic team identity so aliases of one team count once; declaredPanel is the size of the declared training panel; the two \"...Only\" counts exclude opponents that also have qualified games"
+      },
+      "thin": false,
+      "provisionalBasis": "16 qualified games vs 4 distinct opponents (declared panel of 4)",
+      "mcEvidence": {
+        "qualifiedGames": 16,
+        "qualifiedOpponents": 4,
+        "declaredPanel": 4,
+        "unqualifiedGames": 0,
+        "incomplete": 0,
+        "generations": [
+          31
+        ],
+        "thin": false,
+        "narrow": true,
+        "thinReason": null
+      },
+      "elo": null,
+      "games": 16,
+      "player": "champions-incumbent-open-sheet-v1",
+      "informationMode": "open-sheet",
+      "lineageId": "7428a95979e17ef2c6d7a3de34e4fccde32f77870323f87fe6ce42685cf87e26"
+    },
+    {
+      "id": "g31-c3-09b0ba32",
+      "identity": "09b0ba3209a5bd5af435e91f2cb4316e28c94d79b1f6cd6ea2912a983f5c50fa",
+      "searchKey": "78f0875ed6b19a51",
+      "generation": 31,
+      "generations": [
+        31
+      ],
+      "candidateIds": [
+        "g31-c3-09b0ba32"
+      ],
+      "origin": "mc-unsteered",
+      "provisional": true,
+      "sets": [
+        {
+          "species": "Swampert",
+          "battleForme": "Swampert-Mega",
+          "nature": "Careful",
+          "sps": {
+            "hp": 32,
+            "def": 14,
+            "spd": 20
+          },
+          "item": "swampertite",
+          "ability": "torrent",
+          "moves": [
+            "protect",
+            "wavecrash",
+            "earthquake",
+            "icepunch"
+          ]
+        },
+        {
+          "species": "Noivern",
+          "battleForme": "Noivern",
+          "nature": "Timid",
+          "sps": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "item": "focussash",
+          "ability": "frisk",
+          "moves": [
+            "tailwind",
+            "dracometeor",
+            "protect",
+            "airslash"
+          ],
+          "meta": {
+            "usage": 0.0009706,
+            "rawCount": 14169,
+            "topSpreads": [
+              {
+                "key": "Timid:2/0/0/32/0/32",
+                "share": 0.17718893213685316
+              },
+              {
+                "key": "Timid:0/0/1/32/1/32",
+                "share": 0.17414217800681503
+              },
+              {
+                "key": "Timid:31/0/0/3/0/32",
+                "share": 0.13733124422631787
+              }
+            ],
+            "topItems": [
+              {
+                "key": "focussash",
+                "share": 0.6649135606828883
+              },
+              {
+                "key": "expertbelt",
+                "share": 0.1780464268773596
+              },
+              {
+                "key": "choicescarf",
+                "share": 0.03980717460001824
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "tailwind",
+                "share": 0.23229241336123074
+              },
+              {
+                "key": "dracometeor",
+                "share": 0.23114107566247163
+              },
+              {
+                "key": "protect",
+                "share": 0.13009768469771082
+              },
+              {
+                "key": "airslash",
+                "share": 0.09400832078196189
+              },
+              {
+                "key": "hurricane",
+                "share": 0.06052495227409782
+              },
+              {
+                "key": "dragoncheer",
+                "share": 0.05374384198366674
+              },
+              {
+                "key": "whirlwind",
+                "share": 0.0437380982731285
+              },
+              {
+                "key": "taunt",
+                "share": 0.03458846270202851
+              },
+              {
+                "key": "boomburst",
+                "share": 0.024723605267704906
+              },
+              {
+                "key": "flamethrower",
+                "share": 0.023074280605037453
+              }
+            ],
+            "viability": [
+              1332,
+              77,
+              67,
+              54
+            ]
+          }
+        },
+        {
+          "species": "Cinderace",
+          "battleForme": "Cinderace",
+          "nature": "Jolly",
+          "sps": {
+            "hp": 2,
+            "atk": 32,
+            "spe": 32
+          },
+          "item": "sitrusberry",
+          "ability": "libero",
+          "moves": [
+            "flareblitz",
+            "acrobatics",
+            "highjumpkick",
+            "protect"
+          ]
+        },
+        {
+          "species": "Volcarona",
+          "battleForme": "Volcarona",
+          "nature": "Bold",
+          "sps": {
+            "hp": 32,
+            "atk": 0,
+            "def": 26,
+            "spa": 0,
+            "spd": 8,
+            "spe": 0
+          },
+          "item": "wiseglasses",
+          "ability": "flamebody",
+          "moves": [
+            "protect",
+            "ragepowder",
+            "quiverdance",
+            "heatwave"
+          ],
+          "meta": {
+            "usage": 0.0099584,
+            "rawCount": 58632,
+            "topSpreads": [
+              {
+                "key": "Bold:32/0/26/0/8/0",
+                "share": 0.17040285402554844
+              },
+              {
+                "key": "Bold:32/0/25/0/3/6",
+                "share": 0.07797058227954459
+              },
+              {
+                "key": "Modest:12/0/31/5/0/18",
+                "share": 0.07030476446298659
+              }
+            ],
+            "topItems": [
+              {
+                "key": "sitrusberry",
+                "share": 0.4660981225320182
+              },
+              {
+                "key": "leftovers",
+                "share": 0.18494328283300615
+              },
+              {
+                "key": "chartiberry",
+                "share": 0.12830315096289213
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "protect",
+                "share": 0.18680612280818054
+              },
+              {
+                "key": "ragepowder",
+                "share": 0.15306674910173124
+              },
+              {
+                "key": "quiverdance",
+                "share": 0.10558349377964504
+              },
+              {
+                "key": "heatwave",
+                "share": 0.10148419016820479
+              },
+              {
+                "key": "fierydance",
+                "share": 0.08725209583867904
+              },
+              {
+                "key": "strugglebug",
+                "share": 0.0808884924184887
+              },
+              {
+                "key": "tailwind",
+                "share": 0.07375466196289766
+              },
+              {
+                "key": "bugbuzz",
+                "share": 0.061687113014253246
+              },
+              {
+                "key": "gigadrain",
+                "share": 0.05943501953918174
+              },
+              {
+                "key": "overheat",
+                "share": 0.03462571085750312
+              }
+            ],
+            "viability": [
+              4959,
+              82,
+              69,
+              56
+            ]
+          }
+        },
+        {
+          "species": "Golisopod",
+          "battleForme": "Golisopod",
+          "nature": "Adamant",
+          "sps": {
+            "hp": 32,
+            "atk": 32,
+            "def": 2
+          },
+          "item": "expertbelt",
+          "ability": "emergencyexit",
+          "moves": [
+            "liquidation",
+            "firstimpression",
+            "gunkshot",
+            "protect"
+          ],
+          "meta": {
+            "usage": 0,
+            "auto": true
+          }
+        },
+        {
+          "species": "Mr. Mime",
+          "battleForme": "Mr. Mime",
+          "nature": "Timid",
+          "sps": {
+            "hp": 2,
+            "spa": 32,
+            "spe": 32
+          },
+          "item": "lifeorb",
+          "ability": "technician",
+          "moves": [
+            "psychic",
+            "fakeout",
+            "mysticalfire",
+            "protect"
+          ]
+        }
+      ],
+      "paste": "Swampert @ Swampertite\nAbility: Torrent\nLevel: 50\nEVs: 32 HP / 14 Def / 20 SpD\nCareful Nature\n- Protect\n- Wave Crash\n- Earthquake\n- Ice Punch\n\nNoivern @ Focus Sash\nAbility: Frisk\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Tailwind\n- Draco Meteor\n- Protect\n- Air Slash\n\nCinderace @ Sitrus Berry\nAbility: Libero\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nJolly Nature\n- Flare Blitz\n- Acrobatics\n- High Jump Kick\n- Protect\n\nVolcarona @ Wise Glasses\nAbility: Flame Body\nLevel: 50\nEVs: 32 HP / 26 Def / 8 SpD\nBold Nature\n- Protect\n- Rage Powder\n- Quiver Dance\n- Heat Wave\n\nGolisopod @ Expert Belt\nAbility: Emergency Exit\nLevel: 50\nEVs: 32 HP / 32 Atk / 2 Def\nAdamant Nature\n- Liquidation\n- First Impression\n- Gunk Shot\n- Protect\n\nMr. Mime @ Life Orb\nAbility: Technician\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Psychic\n- Fake Out\n- Mystical Fire\n- Protect",
+      "roster": [
+        "Swampert",
+        "Noivern",
+        "Cinderace",
+        "Volcarona",
+        "Golisopod",
+        "Mr. Mime"
+      ],
+      "formes": [
+        "Swampert-Mega",
+        "Noivern",
+        "Cinderace",
+        "Volcarona",
+        "Golisopod",
+        "Mr. Mime"
+      ],
+      "semanticHash": "358b2bf19dc391ba9a1c52e85404b845071de37f7a4cfba6dd0fd3cf317d059d",
+      "record": {
+        "wins": 13,
+        "losses": 3,
+        "draws": 0,
+        "games": 16,
+        "winRate": 0.8125
+      },
+      "diagnostics": {
+        "unqualifiedGames": 0,
+        "incomplete": 0,
+        "note": null
+      },
+      "opposition": {
+        "distinctOpponents": 4,
+        "opponentIds": [
+          "panel-0-11eb1084902a0e641bb91a76b384590fbf88cac3647eed36f716962b2ac3fa72",
+          "panel-1-mc-addition-a",
+          "panel-2-e976e7e462f3973f55a41a56cf67cf6a4eceef61fe606b9705fb91d680e61776",
+          "panel-3-carried-fixture-b"
+        ],
+        "opponentHashes": [
+          "6d2c3fdf5fcbb1ba2a991a1a312529ec766de09f4b02516629ec649c453f2e0b",
+          "7d1f4902c00c7849184300a1ae37d19a93893665258d2a20e22feb520eb04cbd",
+          "097fb17fd58f42a5850f3f86df96acc726b87f4e20dc57d1d1e253793236ca7e",
+          "6aeff201844d690c93c80a774bfb7b8f9de0dbe12ab68269ff04f644d74afd47"
+        ],
+        "declaredPanel": 4,
+        "aliasedOpponentIds": [],
+        "opponentsWithUnqualifiedGamesOnly": 0,
+        "opponentsWithIncompleteAttemptsOnly": 0,
+        "frozenBeforeResults": true,
+        "basis": "distinctOpponents counts opponents supporting the QUALIFIED record, deduplicated by semantic team identity so aliases of one team count once; declaredPanel is the size of the declared training panel; the two \"...Only\" counts exclude opponents that also have qualified games"
+      },
+      "thin": false,
+      "provisionalBasis": "16 qualified games vs 4 distinct opponents (declared panel of 4)",
+      "mcEvidence": {
+        "qualifiedGames": 16,
+        "qualifiedOpponents": 4,
+        "declaredPanel": 4,
+        "unqualifiedGames": 0,
+        "incomplete": 0,
+        "generations": [
+          31
+        ],
+        "thin": false,
+        "narrow": true,
+        "thinReason": null
+      },
+      "elo": null,
+      "games": 16,
+      "player": "champions-incumbent-open-sheet-v1",
+      "informationMode": "open-sheet",
+      "lineageId": "7428a95979e17ef2c6d7a3de34e4fccde32f77870323f87fe6ce42685cf87e26"
+    },
+    {
       "id": "g5-c0-cfe8e6cd",
       "identity": "cfe8e6cd5d0bce51ccbbc6456f3b791c4090f6ff81d92c10af6890c910570a07",
       "searchKey": "42fd5003e124c3e5",
@@ -38201,6 +39315,600 @@
         "incomplete": 0,
         "generations": [
           28
+        ],
+        "thin": false,
+        "narrow": true,
+        "thinReason": null
+      },
+      "elo": null,
+      "games": 16,
+      "player": "champions-incumbent-open-sheet-v1",
+      "informationMode": "open-sheet",
+      "lineageId": "7428a95979e17ef2c6d7a3de34e4fccde32f77870323f87fe6ce42685cf87e26"
+    },
+    {
+      "id": "g31-c4-fbfed11e",
+      "identity": "fbfed11efbff18c65d13141aeec5d6f5d50725077889d7dd8831ca0efaf1eb12",
+      "searchKey": "01c9a31108ee1159",
+      "generation": 31,
+      "generations": [
+        31
+      ],
+      "candidateIds": [
+        "g31-c4-fbfed11e"
+      ],
+      "origin": "mc-unsteered",
+      "provisional": true,
+      "sets": [
+        {
+          "species": "Feraligatr",
+          "battleForme": "Feraligatr-Mega",
+          "nature": "Adamant",
+          "sps": {
+            "hp": 24,
+            "atk": 10,
+            "def": 0,
+            "spa": 0,
+            "spd": 3,
+            "spe": 29
+          },
+          "item": "feraligite",
+          "ability": "torrent",
+          "moves": [
+            "protect",
+            "liquidation",
+            "aquajet",
+            "doubleedge"
+          ],
+          "meta": {
+            "usage": 0.0023284,
+            "rawCount": 17780,
+            "topSpreads": [
+              {
+                "key": "Adamant:24/10/0/0/3/29",
+                "share": 0.16009272296326219
+              },
+              {
+                "key": "Adamant:24/32/0/0/0/10",
+                "share": 0.14143633890839155
+              },
+              {
+                "key": "Adamant:32/32/0/0/2/0",
+                "share": 0.1366997329139976
+              }
+            ],
+            "topItems": [
+              {
+                "key": "feraligite",
+                "share": 1
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "protect",
+                "share": 0.2380709466683664
+              },
+              {
+                "key": "liquidation",
+                "share": 0.1840421964464201
+              },
+              {
+                "key": "aquajet",
+                "share": 0.1410049844513651
+              },
+              {
+                "key": "doubleedge",
+                "share": 0.1407420887174089
+              },
+              {
+                "key": "bodyslam",
+                "share": 0.09194499864685365
+              },
+              {
+                "key": "dragondance",
+                "share": 0.0841502945982189
+              },
+              {
+                "key": "swordsdance",
+                "share": 0.0275321625029494
+              },
+              {
+                "key": "lowkick",
+                "share": 0.021548141830854423
+              },
+              {
+                "key": "stompingtantrum",
+                "share": 0.020077466190365774
+              },
+              {
+                "key": "facade",
+                "share": 0.01735304256825255
+              }
+            ],
+            "viability": [
+              1533,
+              80,
+              67,
+              55
+            ]
+          }
+        },
+        {
+          "species": "Umbreon",
+          "battleForme": "Umbreon",
+          "item": "leftovers",
+          "ability": "synchronize",
+          "nature": "Impish",
+          "sps": {
+            "hp": 32,
+            "def": 32,
+            "spd": 2
+          },
+          "moves": [
+            "foulplay",
+            "moonlight",
+            "flail",
+            "yawn"
+          ]
+        },
+        {
+          "species": "Cofagrigus",
+          "battleForme": "Cofagrigus",
+          "nature": "Sassy",
+          "sps": {
+            "hp": 32,
+            "atk": 0,
+            "def": 3,
+            "spa": 0,
+            "spd": 31,
+            "spe": 0
+          },
+          "item": "sitrusberry",
+          "ability": "mummy",
+          "moves": [
+            "trickroom",
+            "bodypress",
+            "hex",
+            "raindance"
+          ],
+          "meta": {
+            "usage": 0.0023275,
+            "rawCount": 16921,
+            "topSpreads": [
+              {
+                "key": "Sassy:32/0/3/0/31/0",
+                "share": 0.5597695797085472
+              },
+              {
+                "key": "Bold:32/0/17/0/17/0",
+                "share": 0.1037111642071102
+              },
+              {
+                "key": "Relaxed:27/0/32/0/7/0",
+                "share": 0.05245342781775953
+              }
+            ],
+            "topItems": [
+              {
+                "key": "sitrusberry",
+                "share": 0.7502884002038008
+              },
+              {
+                "key": "leftovers",
+                "share": 0.1257390335136321
+              },
+              {
+                "key": "mentalherb",
+                "share": 0.07026770121196711
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "trickroom",
+                "share": 0.2370932649967501
+              },
+              {
+                "key": "bodypress",
+                "share": 0.17726892729144755
+              },
+              {
+                "key": "hex",
+                "share": 0.14717991168292424
+              },
+              {
+                "key": "raindance",
+                "share": 0.09163619969634022
+              },
+              {
+                "key": "shadowball",
+                "share": 0.08549006903934123
+              },
+              {
+                "key": "irondefense",
+                "share": 0.06908441598232591
+              },
+              {
+                "key": "willowisp",
+                "share": 0.06414087237721817
+              },
+              {
+                "key": "protect",
+                "share": 0.04867623571953157
+              },
+              {
+                "key": "allyswitch",
+                "share": 0.021881746667063107
+              },
+              {
+                "key": "faketears",
+                "share": 0.008643127233643315
+              }
+            ],
+            "viability": [
+              1079,
+              79,
+              68,
+              55
+            ]
+          }
+        },
+        {
+          "species": "Gholdengo",
+          "battleForme": "Gholdengo",
+          "nature": "Timid",
+          "sps": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "item": "lifeorb",
+          "ability": "goodasgold",
+          "moves": [
+            "shadowball",
+            "makeitrain",
+            "protect",
+            "nastyplot"
+          ],
+          "meta": {
+            "usage": 0.0741925,
+            "rawCount": 265046,
+            "topSpreads": [
+              {
+                "key": "Timid:2/0/0/32/0/32",
+                "share": 0.12777142320430804
+              },
+              {
+                "key": "Modest:2/0/0/32/0/32",
+                "share": 0.10621183083606212
+              },
+              {
+                "key": "Modest:27/0/13/0/16/10",
+                "share": 0.06782811878215189
+              }
+            ],
+            "topItems": [
+              {
+                "key": "lifeorb",
+                "share": 0.5941742082240892
+              },
+              {
+                "key": "choicescarf",
+                "share": 0.12818838318043416
+              },
+              {
+                "key": "focussash",
+                "share": 0.10848289583749812
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "shadowball",
+                "share": 0.24801555701490785
+              },
+              {
+                "key": "makeitrain",
+                "share": 0.2449794704794752
+              },
+              {
+                "key": "protect",
+                "share": 0.21064505389545093
+              },
+              {
+                "key": "nastyplot",
+                "share": 0.1581322640123674
+              },
+              {
+                "key": "powergem",
+                "share": 0.06993780832548195
+              },
+              {
+                "key": "trick",
+                "share": 0.019770965440670626
+              },
+              {
+                "key": "thunderbolt",
+                "share": 0.015024935685816357
+              },
+              {
+                "key": "focusblast",
+                "share": 0.01389195021864411
+              },
+              {
+                "key": "substitute",
+                "share": 0.005544157903071024
+              },
+              {
+                "key": "dazzlinggleam",
+                "share": 0.003632191033781466
+              }
+            ],
+            "viability": [
+              16591,
+              83,
+              72,
+              59
+            ]
+          }
+        },
+        {
+          "species": "Hawlucha",
+          "battleForme": "Hawlucha",
+          "nature": "Adamant",
+          "sps": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "item": "whiteherb",
+          "ability": "unburden",
+          "moves": [
+            "closecombat",
+            "acrobatics",
+            "protect",
+            "coaching"
+          ],
+          "meta": {
+            "usage": 0.00055,
+            "rawCount": 4415,
+            "topSpreads": [
+              {
+                "key": "Adamant:2/32/0/0/0/32",
+                "share": 0.22892560312416982
+              },
+              {
+                "key": "Jolly:2/32/0/0/0/32",
+                "share": 0.21807725340652828
+              },
+              {
+                "key": "Jolly:0/32/0/0/0/32",
+                "share": 0.1960021197066453
+              }
+            ],
+            "topItems": [
+              {
+                "key": "whiteherb",
+                "share": 0.7463774907375177
+              },
+              {
+                "key": "focussash",
+                "share": 0.10631560637900693
+              },
+              {
+                "key": "sitrusberry",
+                "share": 0.08735991127113432
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "closecombat",
+                "share": 0.22082923788898356
+              },
+              {
+                "key": "acrobatics",
+                "share": 0.1646724307406918
+              },
+              {
+                "key": "protect",
+                "share": 0.12330469216045342
+              },
+              {
+                "key": "coaching",
+                "share": 0.11631363985204653
+              },
+              {
+                "key": "entrainment",
+                "share": 0.06916043236384561
+              },
+              {
+                "key": "bravebird",
+                "share": 0.05516130311652241
+              },
+              {
+                "key": "raindance",
+                "share": 0.04332941004558944
+              },
+              {
+                "key": "detect",
+                "share": 0.037943340467120376
+              },
+              {
+                "key": "encore",
+                "share": 0.030491231394842944
+              },
+              {
+                "key": "flyingpress",
+                "share": 0.02196838465407854
+              }
+            ],
+            "viability": [
+              467,
+              71,
+              67,
+              54
+            ]
+          }
+        },
+        {
+          "species": "Drampa",
+          "battleForme": "Drampa-Mega",
+          "nature": "Quiet",
+          "sps": {
+            "hp": 32,
+            "atk": 0,
+            "def": 2,
+            "spa": 32,
+            "spd": 0,
+            "spe": 0
+          },
+          "item": "drampanite",
+          "ability": "berserk",
+          "moves": [
+            "hypervoice",
+            "protect",
+            "earthpower",
+            "dragonpulse"
+          ],
+          "meta": {
+            "usage": 0.0027488,
+            "rawCount": 25402,
+            "topSpreads": [
+              {
+                "key": "Quiet:32/0/2/32/0/0",
+                "share": 0.32323719036739235
+              },
+              {
+                "key": "Quiet:32/0/0/32/2/0",
+                "share": 0.201014307956115
+              },
+              {
+                "key": "Modest:32/0/0/32/2/0",
+                "share": 0.06394179252465557
+              }
+            ],
+            "topItems": [
+              {
+                "key": "drampanite",
+                "share": 1
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "hypervoice",
+                "share": 0.22436876510106307
+              },
+              {
+                "key": "protect",
+                "share": 0.22146498075850987
+              },
+              {
+                "key": "earthpower",
+                "share": 0.1579469424230504
+              },
+              {
+                "key": "dragonpulse",
+                "share": 0.11163088769397622
+              },
+              {
+                "key": "dracometeor",
+                "share": 0.08431503166412543
+              },
+              {
+                "key": "calmmind",
+                "share": 0.07177225424943123
+              },
+              {
+                "key": "heatwave",
+                "share": 0.02886845164072952
+              },
+              {
+                "key": "thunderbolt",
+                "share": 0.0237212770787673
+              },
+              {
+                "key": "flamethrower",
+                "share": 0.014702082034668582
+              },
+              {
+                "key": "energyball",
+                "share": 0.010509743719459168
+              }
+            ],
+            "viability": [
+              2263,
+              76,
+              69,
+              56
+            ]
+          }
+        }
+      ],
+      "paste": "Feraligatr @ Feraligite\nAbility: Torrent\nLevel: 50\nEVs: 24 HP / 10 Atk / 3 SpD / 29 Spe\nAdamant Nature\n- Protect\n- Liquidation\n- Aqua Jet\n- Double-Edge\n\nUmbreon @ Leftovers\nAbility: Synchronize\nLevel: 50\nEVs: 32 HP / 32 Def / 2 SpD\nImpish Nature\n- Foul Play\n- Moonlight\n- Flail\n- Yawn\n\nCofagrigus @ Sitrus Berry\nAbility: Mummy\nLevel: 50\nEVs: 32 HP / 3 Def / 31 SpD\nSassy Nature\n- Trick Room\n- Body Press\n- Hex\n- Rain Dance\n\nGholdengo @ Life Orb\nAbility: Good as Gold\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Shadow Ball\n- Make It Rain\n- Protect\n- Nasty Plot\n\nHawlucha @ White Herb\nAbility: Unburden\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nAdamant Nature\n- Close Combat\n- Acrobatics\n- Protect\n- Coaching\n\nDrampa @ Drampanite\nAbility: Berserk\nLevel: 50\nEVs: 32 HP / 2 Def / 32 SpA\nQuiet Nature\n- Hyper Voice\n- Protect\n- Earth Power\n- Dragon Pulse",
+      "roster": [
+        "Feraligatr",
+        "Umbreon",
+        "Cofagrigus",
+        "Gholdengo",
+        "Hawlucha",
+        "Drampa"
+      ],
+      "formes": [
+        "Feraligatr-Mega",
+        "Umbreon",
+        "Cofagrigus",
+        "Gholdengo",
+        "Hawlucha",
+        "Drampa-Mega"
+      ],
+      "semanticHash": "a17a86e5351de59618539bc2ea833b4565e19aedf842f6ef2b690428590d0d89",
+      "record": {
+        "wins": 12,
+        "losses": 4,
+        "draws": 0,
+        "games": 16,
+        "winRate": 0.75
+      },
+      "diagnostics": {
+        "unqualifiedGames": 0,
+        "incomplete": 0,
+        "note": null
+      },
+      "opposition": {
+        "distinctOpponents": 4,
+        "opponentIds": [
+          "panel-0-11eb1084902a0e641bb91a76b384590fbf88cac3647eed36f716962b2ac3fa72",
+          "panel-1-mc-addition-a",
+          "panel-2-e976e7e462f3973f55a41a56cf67cf6a4eceef61fe606b9705fb91d680e61776",
+          "panel-3-carried-fixture-b"
+        ],
+        "opponentHashes": [
+          "6d2c3fdf5fcbb1ba2a991a1a312529ec766de09f4b02516629ec649c453f2e0b",
+          "7d1f4902c00c7849184300a1ae37d19a93893665258d2a20e22feb520eb04cbd",
+          "097fb17fd58f42a5850f3f86df96acc726b87f4e20dc57d1d1e253793236ca7e",
+          "6aeff201844d690c93c80a774bfb7b8f9de0dbe12ab68269ff04f644d74afd47"
+        ],
+        "declaredPanel": 4,
+        "aliasedOpponentIds": [],
+        "opponentsWithUnqualifiedGamesOnly": 0,
+        "opponentsWithIncompleteAttemptsOnly": 0,
+        "frozenBeforeResults": true,
+        "basis": "distinctOpponents counts opponents supporting the QUALIFIED record, deduplicated by semantic team identity so aliases of one team count once; declaredPanel is the size of the declared training panel; the two \"...Only\" counts exclude opponents that also have qualified games"
+      },
+      "thin": false,
+      "provisionalBasis": "16 qualified games vs 4 distinct opponents (declared panel of 4)",
+      "mcEvidence": {
+        "qualifiedGames": 16,
+        "qualifiedOpponents": 4,
+        "declaredPanel": 4,
+        "unqualifiedGames": 0,
+        "incomplete": 0,
+        "generations": [
+          31
         ],
         "thin": false,
         "narrow": true,
@@ -48588,6 +50296,292 @@
         "incomplete": 0,
         "generations": [
           26
+        ],
+        "thin": false,
+        "narrow": true,
+        "thinReason": null
+      },
+      "elo": null,
+      "games": 16,
+      "player": "champions-incumbent-open-sheet-v1",
+      "informationMode": "open-sheet",
+      "lineageId": "7428a95979e17ef2c6d7a3de34e4fccde32f77870323f87fe6ce42685cf87e26"
+    },
+    {
+      "id": "g31-c1-f3463435",
+      "identity": "f3463435a957f4f21147323614b40075afe5c739fb04fce705728a36bbbb7454",
+      "searchKey": "7d900346b8726060",
+      "generation": 31,
+      "generations": [
+        31
+      ],
+      "candidateIds": [
+        "g31-c1-f3463435"
+      ],
+      "origin": "mc-steered",
+      "provisional": true,
+      "sets": [
+        {
+          "species": "Raichu-Alola",
+          "nature": "Calm",
+          "sps": {
+            "hp": 32,
+            "def": 14,
+            "spd": 20
+          },
+          "item": "wiseglasses",
+          "ability": "surgesurfer",
+          "moves": [
+            "fakeout",
+            "voltswitch",
+            "thunderbolt",
+            "psyshock"
+          ],
+          "battleForme": "Raichu-Alola"
+        },
+        {
+          "species": "Cinderace",
+          "battleForme": "Cinderace",
+          "nature": "Jolly",
+          "sps": {
+            "hp": 2,
+            "atk": 32,
+            "spe": 32
+          },
+          "item": "lifeorb",
+          "ability": "libero",
+          "moves": [
+            "flareblitz",
+            "acrobatics",
+            "highjumpkick",
+            "protect"
+          ],
+          "meta": {
+            "usage": 0,
+            "auto": true
+          }
+        },
+        {
+          "species": "Tinkaton",
+          "battleForme": "Tinkaton",
+          "nature": "Jolly",
+          "sps": {
+            "hp": 1,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 1,
+            "spe": 32
+          },
+          "item": "shucaberry",
+          "ability": "moldbreaker",
+          "moves": [
+            "fakeout",
+            "gigatonhammer",
+            "encore",
+            "protect"
+          ],
+          "meta": {
+            "usage": 0.005637,
+            "rawCount": 44469,
+            "topSpreads": [
+              {
+                "key": "Jolly:1/32/0/0/1/32",
+                "share": 0.10175685765176566
+              },
+              {
+                "key": "Jolly:32/0/2/0/0/32",
+                "share": 0.07422998404965628
+              },
+              {
+                "key": "Brave:32/32/0/0/2/0",
+                "share": 0.0730653447553014
+              }
+            ],
+            "topItems": [
+              {
+                "key": "shucaberry",
+                "share": 0.30920611889209654
+              },
+              {
+                "key": "leftovers",
+                "share": 0.22546548262214122
+              },
+              {
+                "key": "metalcoat",
+                "share": 0.0858767069159439
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "fakeout",
+                "share": 0.2453078063620207
+              },
+              {
+                "key": "gigatonhammer",
+                "share": 0.24403063476619768
+              },
+              {
+                "key": "encore",
+                "share": 0.16141701173851067
+              },
+              {
+                "key": "protect",
+                "share": 0.12765569139350916
+              },
+              {
+                "key": "playrough",
+                "share": 0.08778415042067393
+              },
+              {
+                "key": "feint",
+                "share": 0.02231187901373847
+              },
+              {
+                "key": "fling",
+                "share": 0.017095822911513264
+              },
+              {
+                "key": "helpinghand",
+                "share": 0.017057856622803538
+              },
+              {
+                "key": "knockoff",
+                "share": 0.0156873337717051
+              },
+              {
+                "key": "icehammer",
+                "share": 0.015561384215602854
+              }
+            ],
+            "viability": [
+              3549,
+              80,
+              69,
+              56
+            ]
+          }
+        },
+        {
+          "species": "Krookodile",
+          "item": "choicescarf",
+          "ability": "intimidate",
+          "nature": "Adamant",
+          "sps": {
+            "hp": 2,
+            "atk": 25,
+            "spd": 7,
+            "spe": 32
+          },
+          "moves": [
+            "earthquake",
+            "knockoff",
+            "rockslide",
+            "protect"
+          ],
+          "battleForme": "Krookodile"
+        },
+        {
+          "species": "Gyarados",
+          "nature": "Careful",
+          "sps": {
+            "hp": 32,
+            "atk": 28,
+            "def": 6
+          },
+          "item": "gyaradosite",
+          "ability": "intimidate",
+          "moves": [
+            "earthquake",
+            "stoneedge",
+            "powerwhip",
+            "icywind"
+          ],
+          "battleForme": "Gyarados"
+        },
+        {
+          "species": "Hawlucha",
+          "battleForme": "Hawlucha-Mega",
+          "item": "hawluchanite",
+          "ability": "moldbreaker",
+          "nature": "Jolly",
+          "sps": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "moves": [
+            "entrainment",
+            "bravebird",
+            "detect",
+            "closecombat"
+          ]
+        }
+      ],
+      "paste": "Raichu-Alola @ Wise Glasses\nAbility: Surge Surfer\nLevel: 50\nEVs: 32 HP / 14 Def / 20 SpD\nCalm Nature\n- Fake Out\n- Volt Switch\n- Thunderbolt\n- Psyshock\n\nCinderace @ Life Orb\nAbility: Libero\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nJolly Nature\n- Flare Blitz\n- Acrobatics\n- High Jump Kick\n- Protect\n\nTinkaton @ Shuca Berry\nAbility: Mold Breaker\nLevel: 50\nEVs: 1 HP / 32 Atk / 1 SpD / 32 Spe\nJolly Nature\n- Fake Out\n- Gigaton Hammer\n- Encore\n- Protect\n\nKrookodile @ Choice Scarf\nAbility: Intimidate\nLevel: 50\nEVs: 2 HP / 25 Atk / 7 SpD / 32 Spe\nAdamant Nature\n- Earthquake\n- Knock Off\n- Rock Slide\n- Protect\n\nGyarados @ Gyaradosite\nAbility: Intimidate\nLevel: 50\nEVs: 32 HP / 28 Atk / 6 Def\nCareful Nature\n- Earthquake\n- Stone Edge\n- Power Whip\n- Icy Wind\n\nHawlucha @ Hawluchanite\nAbility: Mold Breaker\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nJolly Nature\n- Entrainment\n- Brave Bird\n- Detect\n- Close Combat",
+      "roster": [
+        "Raichu-Alola",
+        "Cinderace",
+        "Tinkaton",
+        "Krookodile",
+        "Gyarados",
+        "Hawlucha"
+      ],
+      "formes": [
+        "Raichu-Alola",
+        "Cinderace",
+        "Tinkaton",
+        "Krookodile",
+        "Gyarados",
+        "Hawlucha-Mega"
+      ],
+      "semanticHash": "171f9d380576290525e94ed253e5b290a872cf6817689b6e614c227399efe499",
+      "record": {
+        "wins": 9,
+        "losses": 7,
+        "draws": 0,
+        "games": 16,
+        "winRate": 0.5625
+      },
+      "diagnostics": {
+        "unqualifiedGames": 0,
+        "incomplete": 0,
+        "note": null
+      },
+      "opposition": {
+        "distinctOpponents": 4,
+        "opponentIds": [
+          "panel-0-11eb1084902a0e641bb91a76b384590fbf88cac3647eed36f716962b2ac3fa72",
+          "panel-1-mc-addition-a",
+          "panel-2-e976e7e462f3973f55a41a56cf67cf6a4eceef61fe606b9705fb91d680e61776",
+          "panel-3-carried-fixture-b"
+        ],
+        "opponentHashes": [
+          "6d2c3fdf5fcbb1ba2a991a1a312529ec766de09f4b02516629ec649c453f2e0b",
+          "7d1f4902c00c7849184300a1ae37d19a93893665258d2a20e22feb520eb04cbd",
+          "097fb17fd58f42a5850f3f86df96acc726b87f4e20dc57d1d1e253793236ca7e",
+          "6aeff201844d690c93c80a774bfb7b8f9de0dbe12ab68269ff04f644d74afd47"
+        ],
+        "declaredPanel": 4,
+        "aliasedOpponentIds": [],
+        "opponentsWithUnqualifiedGamesOnly": 0,
+        "opponentsWithIncompleteAttemptsOnly": 0,
+        "frozenBeforeResults": true,
+        "basis": "distinctOpponents counts opponents supporting the QUALIFIED record, deduplicated by semantic team identity so aliases of one team count once; declaredPanel is the size of the declared training panel; the two \"...Only\" counts exclude opponents that also have qualified games"
+      },
+      "thin": false,
+      "provisionalBasis": "16 qualified games vs 4 distinct opponents (declared panel of 4)",
+      "mcEvidence": {
+        "qualifiedGames": 16,
+        "qualifiedOpponents": 4,
+        "declaredPanel": 4,
+        "unqualifiedGames": 0,
+        "incomplete": 0,
+        "generations": [
+          31
         ],
         "thin": false,
         "narrow": true,
