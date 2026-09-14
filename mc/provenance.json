@@ -1,0 +1,38 @@
+{
+  "schema": "champions-mc-page-provenance/v0",
+  "cycleRunFile": "../impl109/cycle/cycle-run.json",
+  "cycleRunDigest": "b5fb72eee5198215b8c0c47c57ee36f0c27c826c425ed6b3aef12f4b2440c74b",
+  "lineageId": "7428a95979e17ef2c6d7a3de34e4fccde32f77870323f87fe6ce42685cf87e26",
+  "policyViewDigest": "71a11aa8206dd6cf053336ffec436026a58cd1f03e74829142e8ba1f097f2b60",
+  "databasePosture": "declared-archive-snapshot-read-only",
+  "archiveSnapshot": {
+    "file": "mc-archive-export-20260914.sqlite",
+    "sha256": "80e74bb9c0c9f389caff4e28fa33a7f1ea6ffef37e3ce23cc0eab95aa0a0efc9",
+    "bytes": 530681856,
+    "mode": "read-only"
+  },
+  "generations": [
+    {
+      "generation": 1,
+      "bundle": "generation-01",
+      "games": 80,
+      "qualified": 80
+    },
+    {
+      "generation": 2,
+      "bundle": "generation-02",
+      "games": 80,
+      "qualified": 80
+    },
+    {
+      "generation": 3,
+      "bundle": "generation-03",
+      "games": 80,
+      "qualified": 80
+    }
+  ],
+  "startedAt": "2026-09-14T08:10:57.707Z",
+  "finishedAt": "2026-09-14T08:18:27.194Z",
+  "pageSha256": "eded8fdc6c9ebcb222cd57f41cd21473e7244ac56c3e4cfec28bff1a2e206e23",
+  "meaning": "the page in this directory was rendered from the cycle record named above; a page whose provenance does not name the run it is published beside is the wrong artifact (review 109)"
+}
