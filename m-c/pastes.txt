@@ -2804,67 +2804,6 @@ Relaxed Nature
 - Rock Slide
 - Earthquake
 
-# g64-c1-0353354a · 18W-18L-0D vs 9 declared opponents · identity 0353354af496f44827b0721f638a10b1d97f0f6b11f98fa1e1ca257b8d6a5f0e
-Skarmory @ Skarmorite
-Ability: Sturdy
-Level: 50
-EVs: 2 HP / 32 Atk / 32 Spe
-Adamant Nature
-- Iron Head
-- Brave Bird
-- Protect
-- Tailwind
-
-Baxcalibur @ Life Orb
-Ability: Thermal Exchange
-Level: 50
-EVs: 2 HP / 32 Atk / 32 Spe
-Jolly Nature
-- Glaive Rush
-- Icicle Crash
-- High Horsepower
-- Brick Break
-
-Salamence @ Choice Scarf
-Ability: Intimidate
-Level: 50
-EVs: 2 HP / 32 Atk / 32 Spe
-Jolly Nature
-- Outrage
-- Fire Blast
-- Iron Head
-- Protect
-
-Salazzle @ Focus Sash
-Ability: Oblivious
-Level: 50
-EVs: 2 HP / 32 SpA / 32 Spe
-Timid Nature
-- Fake Out
-- Sludge Bomb
-- Overheat
-- Will-O-Wisp
-
-Samurott-Hisui @ Muscle Band
-Ability: Sharpness
-Level: 50
-EVs: 32 HP / 14 Def / 20 SpD
-Careful Nature
-- Sacred Sword
-- Ceaseless Edge
-- Aqua Cutter
-- Sucker Punch
-
-Serperior @ Sitrus Berry
-Ability: Contrary
-Level: 50
-EVs: 32 HP / 5 Def / 1 SpA / 2 SpD / 26 Spe
-Timid Nature
-- Leaf Storm
-- Glare
-- Reflect
-- Light Screen
-
 # g254-c1-9a642865 · 25W-11L-0D vs 9 declared opponents · identity 9a6428656f2e626c7f9718d5992d20c7b7b9f88c298dcd98aa62d5c80878be54
 Pyroar @ Pyroarite
 Ability: Rivalry
@@ -7257,7 +7196,7 @@ Timid Nature
 - Foul Play
 - Protect
 
-# g458-c3-2b8fddcf · 12W-4L-0D vs 4 declared opponents · identity 2b8fddcf4cd5156e2c3b6027097ea15971dd50d6d5fafc441b5ebf3472777f81
+# g458-c3-2b8fddcf · 14W-22L-0D vs 9 declared opponents · identity 2b8fddcf4cd5156e2c3b6027097ea15971dd50d6d5fafc441b5ebf3472777f81
 Hippowdon @ Muscle Band
 Ability: Sand Stream
 Level: 50
@@ -11405,6 +11344,67 @@ Quiet Nature
 - Protect
 - Trick Room
 
+# g459-c3-ffcab72b · 13W-3L-0D vs 4 declared opponents · identity ffcab72b28e474b0b8775a177720a7e473bdcbc26e97e7ba597961182401a4f0
+Musharna @ Leftovers
+Ability: Telepathy
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Quiet Nature
+- Trick Room
+- Psychic
+- Moonblast
+- Expanding Force
+
+Ampharos @ Magnet
+Ability: Plus
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Rising Voltage
+- Protect
+- Dazzling Gleam
+- Thunderbolt
+
+Swampert @ Swampertite
+Ability: Torrent
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Protect
+- Wave Crash
+- Earthquake
+- Ice Punch
+
+Houndoom @ Houndoominite
+Ability: Early Bird
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Modest Nature
+- Heat Wave
+- Dark Pulse
+- Protect
+- Overheat
+
+Dragalge @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Sludge Bomb
+- Protect
+- Draco Meteor
+- Dragon Pulse
+
+Rotom-Heat @ Wise Glasses
+Ability: Levitate
+Level: 50
+EVs: 11 HP / 3 Def / 25 SpA / 27 Spe
+Modest Nature
+- Overheat
+- Rest
+- Thunderbolt
+- Protect
+
 # g73-c0-24c7f993 · 13W-3L-0D vs 4 declared opponents · identity 24c7f993a2aa4ed2feffe3f8ae99b1531ee53582c949bcd11eac920b030d9aa9
 Pelipper @ Sitrus Berry
 Ability: Drizzle
@@ -14149,6 +14149,67 @@ Adamant Nature
 - Earthquake
 - Protect
 - Dual Wingbeat
+
+# g459-c2-deb43c9a · 11W-5L-0D vs 4 declared opponents · identity deb43c9a6c46f5501d00155452aefeb3f83910a6fab5f9cf8001968e6cc1909a
+Malamar @ Malamarite
+Ability: Contrary
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpD
+Sassy Nature
+- Superpower
+- Knock Off
+- Protect
+- Trick Room
+
+Gallade @ Focus Sash
+Ability: Sharpness
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Sacred Sword
+- Psycho Cut
+- Leaf Blade
+- Trick Room
+
+Flapple @ Life Orb
+Ability: Hustle
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Grav Apple
+- Sucker Punch
+- Dragon Rush
+- Protect
+
+Mawile @ Mawilite
+Ability: Hyper Cutter
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Play Rough
+- Sucker Punch
+- Protect
+- Iron Head
+
+Steelix @ Steelixite
+Ability: Sturdy
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Heavy Slam
+- Wide Guard
+- Protect
+- High Horsepower
+
+Noivern @ Wise Glasses
+Ability: Frisk
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Hurricane
+- Draco Meteor
+- Protect
+- Air Slash
 
 # g128-c0-674ab5e8 · 28W-8L-0D vs 9 declared opponents · identity 674ab5e83c9b357891640dc50ae976e4ca9afac74de8ad507e76837f4a7f3610
 Froslass @ Froslassite
@@ -38550,6 +38611,67 @@ Modest Nature
 - Dark Pulse
 - Overheat
 
+# g64-c1-0353354a · 29W-23L-0D vs 11 declared opponents · identity 0353354af496f44827b0721f638a10b1d97f0f6b11f98fa1e1ca257b8d6a5f0e
+Skarmory @ Skarmorite
+Ability: Sturdy
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Iron Head
+- Brave Bird
+- Protect
+- Tailwind
+
+Baxcalibur @ Life Orb
+Ability: Thermal Exchange
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Glaive Rush
+- Icicle Crash
+- High Horsepower
+- Brick Break
+
+Salamence @ Choice Scarf
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Outrage
+- Fire Blast
+- Iron Head
+- Protect
+
+Salazzle @ Focus Sash
+Ability: Oblivious
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Fake Out
+- Sludge Bomb
+- Overheat
+- Will-O-Wisp
+
+Samurott-Hisui @ Muscle Band
+Ability: Sharpness
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Sacred Sword
+- Ceaseless Edge
+- Aqua Cutter
+- Sucker Punch
+
+Serperior @ Sitrus Berry
+Ability: Contrary
+Level: 50
+EVs: 32 HP / 5 Def / 1 SpA / 2 SpD / 26 Spe
+Timid Nature
+- Leaf Storm
+- Glare
+- Reflect
+- Light Screen
+
 # g42-c0-8df34751 · 23W-9L-0D vs 6 declared opponents · identity 8df34751c04399d59df1b78cda0727e1f11252c900cd77d65c7e471d34c8f1a8
 Hawlucha @ White Herb
 Ability: Unburden
@@ -42393,6 +42515,67 @@ Adamant Nature
 - Head Smash
 - Protect
 
+# g459-c1-d8bfb68c · 13W-3L-0D vs 4 declared opponents · identity d8bfb68c0f8f84cc69c401d5e773cd299ea83f29318780a1d44fb288eaed5fe1
+Excadrill @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Iron Head
+- Protect
+- Rock Slide
+- High Horsepower
+
+Rotom-Heat @ Sitrus Berry
+Ability: Levitate
+Level: 50
+EVs: 11 HP / 3 Def / 25 SpA / 27 Spe
+Modest Nature
+- Overheat
+- Volt Switch
+- Thunderbolt
+- Protect
+
+Kangaskhan @ Kangaskhanite
+Ability: Early Bird
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Fake Out
+- Double-Edge
+- Sucker Punch
+- Ice Punch
+
+Tyranitar @ Choice Scarf
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Knock Off
+- Low Kick
+- Ice Punch
+
+Annihilape @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 32 Atk / 1 Def / 1 SpD / 32 Spe
+Jolly Nature
+- Drain Punch
+- Close Combat
+- Rage Fist
+- Phantom Force
+
+Metagross @ Muscle Band
+Ability: Clear Body
+Level: 50
+EVs: 32 HP / 5 Atk / 5 SpD / 24 Spe
+Adamant Nature
+- Psychic Fangs
+- Bullet Punch
+- Ice Punch
+- Psych Up
+
 # g19-c2-af27ec62 · 25W-7L-0D vs 6 declared opponents · identity af27ec62577a5465890d09715264acefc18b6e6cbca9fdfb6d50524dd3c2778b
 Krookodile @ Choice Scarf
 Ability: Intimidate
@@ -45683,6 +45866,67 @@ Adamant Nature
 - Body Slam
 - Earthquake
 - Throat Chop
+
+# g459-c4-d84dde19 · 13W-3L-0D vs 4 declared opponents · identity d84dde194dfe004c6193d15e091d119ff804b7a0d4bf3cc38cc5f0dbc52bec14
+Orthworm @ Sitrus Berry
+Ability: Earth Eater
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Impish Nature
+- Body Press
+- Shed Tail
+- Heavy Slam
+- Protect
+
+Charizard @ Life Orb
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 Atk / 4 Def / 28 Spe
+Adamant Nature
+- Dragon Claw
+- Flare Blitz
+- Bulldoze
+- Dragon Dance
+
+Armarouge @ Wise Glasses
+Ability: Flash Fire
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Calm Nature
+- Trick Room
+- Armor Cannon
+- Protect
+- Psychic
+
+Greninja @ Expert Belt
+Ability: Protean
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Ice Beam
+- Dark Pulse
+- Low Kick
+- Hydro Cannon
+
+Staraptor @ Choice Scarf
+Ability: Intimidate
+Level: 50
+EVs: 28 HP / 6 Def / 20 SpD / 12 Spe
+Jolly Nature
+- Final Gambit
+- Close Combat
+- Brave Bird
+- U-turn
+
+Altaria @ Altarianite
+Ability: Cloud Nine
+Level: 50
+EVs: 32 HP / 32 SpA / 2 Spe
+Timid Nature
+- Hyper Beam
+- Roost
+- Solar Beam
+- Bulldoze
 
 # g411-c3-342e110a · 9W-7L-0D vs 4 declared opponents · identity 342e110af96fb8c14bb3e1b078214003ede9a90138f5534d0bfef2cb2cb9b6a8
 Samurott-Hisui @ Life Orb
