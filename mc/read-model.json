@@ -1,15 +1,15 @@
 {
   "schema": "champions-mc-read-model/v0",
-  "generatedAt": "2026-09-15T00:26:09.039Z",
+  "generatedAt": "2026-09-15T00:27:46.272Z",
   "provenance": {
     "source": "committed generation index",
     "generationIndex": "mc-generations/index.json",
-    "lastCommittedGeneration": 70,
-    "committedGenerations": 67,
+    "lastCommittedGeneration": 71,
+    "committedGenerations": 68,
     "lineageId": "7428a95979e17ef2c6d7a3de34e4fccde32f77870323f87fe6ce42685cf87e26",
     "learningPolicy": "mc-bounded-memory/v1",
-    "commitDigest": "88ab03860ae668afa5dad941fb4654bcc19b2de3c9c7529fe073e3899d282695",
-    "checkpointDigest": "e0b64bcb0ed0ebf4022337fe958fbc080d12ec79ab0d96b8a9fb176f28cd3f14",
+    "commitDigest": "7b4d8bb0a56549d70fd56527e75650352bba4f6143225ce80d869199cad62b11",
+    "checkpointDigest": "fa82783b4e7ccb21112a68248c07f5e5a8bead237aff50e6c7e502807b59b374",
     "policyViewDigest": null,
     "generations": [
       {
@@ -480,10 +480,17 @@
         "games": 80,
         "qualified": 80,
         "committedAt": "2026-09-15T00:25:54.984Z"
+      },
+      {
+        "generation": 71,
+        "bundle": "generation-71",
+        "games": 80,
+        "qualified": 80,
+        "committedAt": "2026-09-15T00:27:32.089Z"
       }
     ],
     "startedAt": "2026-09-14T20:53:05.476Z",
-    "finishedAt": "2026-09-15T00:25:54.984Z"
+    "finishedAt": "2026-09-15T00:27:32.089Z"
   },
   "regulation": null,
   "lineage": {
@@ -500,8 +507,8 @@
   },
   "opposition": {
     "composition": "champions-mc-opposition/v1",
-    "generations": 67,
-    "distinctOpponents": 81,
+    "generations": 68,
+    "distinctOpponents": 83,
     "references": [
       {
         "roster": [
@@ -580,7 +587,8 @@
           67,
           68,
           69,
-          70
+          70,
+          71
         ]
       },
       {
@@ -660,7 +668,8 @@
           67,
           68,
           69,
-          70
+          70,
+          71
         ]
       }
     ],
@@ -2050,6 +2059,42 @@
         "semanticHash": "5050c57f2acd2d451dc11196bdc73f5eaaf874c56a093cb02eeab07880abdc8a",
         "generations": [
           70
+        ]
+      },
+      {
+        "roster": [
+          "Archaludon",
+          "Pelipper",
+          "Swampert",
+          "Grimmsnarl",
+          "Sinistcha",
+          "Basculegion"
+        ],
+        "role": "rotating-historical",
+        "source": "revalidated-historical",
+        "archiveId": 256615,
+        "previouslySeen": null,
+        "semanticHash": "fbaed72750f7da8c03a1e2d28b8f782349b67b02c7cb208cc3b93451be4ddadd",
+        "generations": [
+          71
+        ]
+      },
+      {
+        "roster": [
+          "Musharna",
+          "Araquanid",
+          "Toxicroak",
+          "Gholdengo",
+          "Chesnaught",
+          "Skarmory"
+        ],
+        "role": "rotating-survivor",
+        "source": "mc-survivor",
+        "archiveId": null,
+        "previouslySeen": null,
+        "semanticHash": "84d17a4ea16931c0c729a1a8d3ee710d91b76ce8a88410da462c2f3dc4e13645",
+        "generations": [
+          71
         ]
       }
     ],
@@ -7572,6 +7617,87 @@
             ]
           }
         ]
+      },
+      {
+        "generation": 71,
+        "composition": "champions-mc-opposition/v1",
+        "cursor": 71,
+        "poolDigest": "6cfb4c58d294f6575eab701b2f643c2f8596ccac67b2f2505d9a749758f0055d",
+        "fallbacksUsed": [],
+        "seats": [
+          {
+            "slot": 0,
+            "id": "panel-0-reference-11eb1084902a0e641bb91a76b384590fbf88cac3647eed36f716962b2ac3fa72",
+            "role": "reference",
+            "source": "declared-fixture",
+            "archiveId": null,
+            "reference": true,
+            "previouslySeen": null,
+            "semanticHash": "6d2c3fdf5fcbb1ba2a991a1a312529ec766de09f4b02516629ec649c453f2e0b",
+            "roster": [
+              "Sinistcha",
+              "Incineroar",
+              "Garchomp",
+              "Whimsicott",
+              "Basculegion",
+              "Blaziken"
+            ]
+          },
+          {
+            "slot": 1,
+            "id": "panel-1-reference-mc-addition-a",
+            "role": "reference",
+            "source": "declared-fixture",
+            "archiveId": null,
+            "reference": true,
+            "previouslySeen": null,
+            "semanticHash": "7d1f4902c00c7849184300a1ae37d19a93893665258d2a20e22feb520eb04cbd",
+            "roster": [
+              "Wigglytuff",
+              "Salamence",
+              "Persian-Alola",
+              "Farfetch’d",
+              "Mr. Mime",
+              "Swalot"
+            ]
+          },
+          {
+            "slot": 2,
+            "id": "panel-2-rotating-historical-256615",
+            "role": "rotating-historical",
+            "source": "revalidated-historical",
+            "archiveId": 256615,
+            "reference": false,
+            "previouslySeen": null,
+            "semanticHash": "fbaed72750f7da8c03a1e2d28b8f782349b67b02c7cb208cc3b93451be4ddadd",
+            "roster": [
+              "Archaludon",
+              "Pelipper",
+              "Swampert",
+              "Grimmsnarl",
+              "Sinistcha",
+              "Basculegion"
+            ]
+          },
+          {
+            "slot": 3,
+            "id": "panel-3-rotating-survivor-dea178f4",
+            "role": "rotating-survivor",
+            "source": "mc-survivor",
+            "archiveId": null,
+            "reference": false,
+            "previouslySeen": null,
+            "semanticHash": "84d17a4ea16931c0c729a1a8d3ee710d91b76ce8a88410da462c2f3dc4e13645",
+            "roster": [
+              "Musharna",
+              "Araquanid",
+              "Toxicroak",
+              "Gholdengo",
+              "Chesnaught",
+              "Skarmory"
+            ]
+          }
+        ]
       }
     ],
     "pooledWinRatesComparable": false,
@@ -7579,9 +7705,9 @@
   },
   "archiveSlice": null,
   "counts": {
-    "publishable": 335,
+    "publishable": 340,
     "unpublishable": 0,
-    "qualifiedGames": 5360
+    "qualifiedGames": 5440
   },
   "historicalBoard": {
     "regulation": "M-B",
@@ -41455,6 +41581,776 @@
         "incomplete": 0,
         "generations": [
           70
+        ],
+        "thin": false,
+        "narrow": true,
+        "thinReason": null
+      },
+      "elo": null,
+      "games": 16,
+      "player": "champions-incumbent-open-sheet-v1",
+      "informationMode": "open-sheet",
+      "lineageId": "7428a95979e17ef2c6d7a3de34e4fccde32f77870323f87fe6ce42685cf87e26"
+    },
+    {
+      "id": "g71-c1-c2e5c741",
+      "identity": "c2e5c741fe495ed3fc79d85c592c7b3abbe49f1538a2a900199850f32592d788",
+      "searchKey": "030bc68b44280546",
+      "generation": 71,
+      "generations": [
+        71
+      ],
+      "candidateIds": [
+        "g71-c1-c2e5c741"
+      ],
+      "origin": "mc-steered",
+      "provisional": true,
+      "sets": [
+        {
+          "species": "Skarmory",
+          "battleForme": "Skarmory",
+          "nature": "Impish",
+          "sps": {
+            "hp": 28,
+            "atk": 0,
+            "def": 32,
+            "spa": 0,
+            "spd": 0,
+            "spe": 6
+          },
+          "item": "sitrusberry",
+          "ability": "sturdy",
+          "moves": [
+            "bodypress",
+            "tailwind",
+            "bravebird",
+            "whirlwind"
+          ],
+          "meta": {
+            "usage": 0.0013396,
+            "rawCount": 2592,
+            "topSpreads": [
+              {
+                "key": "Impish:28/0/32/0/0/6",
+                "share": 0.8256771137319429
+              },
+              {
+                "key": "Impish:32/0/30/0/4/0",
+                "share": 0.07134879203697235
+              },
+              {
+                "key": "Adamant:20/32/0/0/2/12",
+                "share": 0.042947514203235726
+              }
+            ],
+            "topItems": [
+              {
+                "key": "sitrusberry",
+                "share": 0.8585236132650071
+              },
+              {
+                "key": "leftovers",
+                "share": 0.09509762143919402
+              },
+              {
+                "key": "whiteherb",
+                "share": 0.0429475142032357
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "bodypress",
+                "share": 0.23101324030817386
+              },
+              {
+                "key": "tailwind",
+                "share": 0.2287054953488588
+              },
+              {
+                "key": "bravebird",
+                "share": 0.22311864390964284
+              },
+              {
+                "key": "whirlwind",
+                "share": 0.20652706805161458
+              },
+              {
+                "key": "irondefense",
+                "share": 0.02255832116607588
+              },
+              {
+                "key": "roost",
+                "share": 0.02254639100443271
+              },
+              {
+                "key": "drillpeck",
+                "share": 0.01804069745942385
+              },
+              {
+                "key": "swordsdance",
+                "share": 0.011117150128380477
+              },
+              {
+                "key": "rockslide",
+                "share": 0.011054539574649955
+              },
+              {
+                "key": "protect",
+                "share": 0.009297690738871435
+              }
+            ],
+            "viability": [
+              302,
+              78,
+              67,
+              54
+            ]
+          }
+        },
+        {
+          "species": "Venusaur",
+          "battleForme": "Venusaur-Mega",
+          "item": "venusaurite",
+          "ability": "chlorophyll",
+          "nature": "Modest",
+          "sps": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "moves": [
+            "sludgebomb",
+            "protect",
+            "earthpower",
+            "gigadrain"
+          ]
+        },
+        {
+          "species": "Golurk",
+          "battleForme": "Golurk",
+          "nature": "Brave",
+          "sps": {
+            "hp": 32,
+            "atk": 32,
+            "def": 2,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "item": "muscleband",
+          "ability": "noguard",
+          "moves": [
+            "poltergeist",
+            "headlongrush",
+            "stoneedge",
+            "protect"
+          ],
+          "meta": {
+            "usage": 0.0001538,
+            "rawCount": 4017,
+            "topSpreads": [
+              {
+                "key": "Brave:32/32/2/0/0/0",
+                "share": 0.4443385043780649
+              },
+              {
+                "key": "Brave:32/32/0/0/2/0",
+                "share": 0.26412439073403554
+              },
+              {
+                "key": "Adamant:14/32/0/0/0/20",
+                "share": 0.10371283123210669
+              }
+            ],
+            "topItems": [
+              {
+                "key": "lifeorb",
+                "share": 0.6138532626737673
+              },
+              {
+                "key": "whiteherb",
+                "share": 0.23924152427360598
+              },
+              {
+                "key": "softsand",
+                "share": 0.0719148493627699
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "poltergeist",
+                "share": 0.15771917148268189
+              },
+              {
+                "key": "headlongrush",
+                "share": 0.13395167521893067
+              },
+              {
+                "key": "stoneedge",
+                "share": 0.11619814329751438
+              },
+              {
+                "key": "protect",
+                "share": 0.08886454491095136
+              },
+              {
+                "key": "highhorsepower",
+                "share": 0.08812657857296033
+              },
+              {
+                "key": "icepunch",
+                "share": 0.07720815074857232
+              },
+              {
+                "key": "thunderpunch",
+                "share": 0.06736365965542834
+              },
+              {
+                "key": "phantomforce",
+                "share": 0.06734352765000536
+              },
+              {
+                "key": "gigaimpact",
+                "share": 0.05215583088050033
+              },
+              {
+                "key": "dynamicpunch",
+                "share": 0.044342477747287744
+              }
+            ],
+            "viability": [
+              372,
+              68,
+              65,
+              54
+            ]
+          }
+        },
+        {
+          "species": "Hippowdon",
+          "battleForme": "Hippowdon",
+          "nature": "Brave",
+          "sps": {
+            "hp": 9,
+            "atk": 32,
+            "def": 2,
+            "spa": 0,
+            "spd": 23,
+            "spe": 0
+          },
+          "item": "ironball",
+          "ability": "sandstream",
+          "moves": [
+            "highhorsepower",
+            "heavyslam",
+            "rockslide",
+            "protect"
+          ],
+          "meta": {
+            "usage": 0.0045328,
+            "rawCount": 21929,
+            "topSpreads": [
+              {
+                "key": "Brave:9/32/2/0/23/0",
+                "share": 0.4589549027034153
+              },
+              {
+                "key": "Brave:32/8/2/0/24/0",
+                "share": 0.2183020001960586
+              },
+              {
+                "key": "Brave:15/32/4/0/15/0",
+                "share": 0.0744692600159071
+              }
+            ],
+            "topItems": [
+              {
+                "key": "ironball",
+                "share": 0.5416396712385317
+              },
+              {
+                "key": "sitrusberry",
+                "share": 0.2876637036940499
+              },
+              {
+                "key": "leftovers",
+                "share": 0.10563839688555607
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "highhorsepower",
+                "share": 0.22981799977420028
+              },
+              {
+                "key": "heavyslam",
+                "share": 0.13673106385912437
+              },
+              {
+                "key": "rockslide",
+                "share": 0.13046872403150828
+              },
+              {
+                "key": "protect",
+                "share": 0.12549918322822043
+              },
+              {
+                "key": "icefang",
+                "share": 0.12034124332307594
+              },
+              {
+                "key": "slackoff",
+                "share": 0.091189212551206
+              },
+              {
+                "key": "rocktomb",
+                "share": 0.06429898897336626
+              },
+              {
+                "key": "yawn",
+                "share": 0.036992436535988375
+              },
+              {
+                "key": "earthquake",
+                "share": 0.014368399216521985
+              },
+              {
+                "key": "stoneedge",
+                "share": 0.00925508673616679
+              }
+            ],
+            "viability": [
+              1706,
+              78,
+              69,
+              56
+            ]
+          }
+        },
+        {
+          "species": "Samurott-Hisui",
+          "battleForme": "Samurott-Hisui",
+          "nature": "Jolly",
+          "sps": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "item": "choicescarf",
+          "ability": "sharpness",
+          "moves": [
+            "sacredsword",
+            "nightslash",
+            "suckerpunch",
+            "aquacutter"
+          ],
+          "meta": {
+            "usage": 0.0057135,
+            "rawCount": 36647,
+            "topSpreads": [
+              {
+                "key": "Jolly:2/32/0/0/0/32",
+                "share": 0.4234510353369917
+              },
+              {
+                "key": "Adamant:2/32/0/0/0/32",
+                "share": 0.12252925743543618
+              },
+              {
+                "key": "Adamant:32/32/0/0/2/0",
+                "share": 0.10257849581982688
+              }
+            ],
+            "topItems": [
+              {
+                "key": "choicescarf",
+                "share": 0.4573357524324629
+              },
+              {
+                "key": "blackglasses",
+                "share": 0.24310320477467146
+              },
+              {
+                "key": "lifeorb",
+                "share": 0.10513638372176493
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "sacredsword",
+                "share": 0.2210957211135705
+              },
+              {
+                "key": "nightslash",
+                "share": 0.1298198554152194
+              },
+              {
+                "key": "suckerpunch",
+                "share": 0.11474269410450932
+              },
+              {
+                "key": "aquacutter",
+                "share": 0.1075924279999782
+              },
+              {
+                "key": "ceaselessedge",
+                "share": 0.0982699849013363
+              },
+              {
+                "key": "flipturn",
+                "share": 0.09722100741797868
+              },
+              {
+                "key": "protect",
+                "share": 0.0911036501341749
+              },
+              {
+                "key": "razorshell",
+                "share": 0.0868649436706293
+              },
+              {
+                "key": "detect",
+                "share": 0.01958738906396803
+              },
+              {
+                "key": "swordsdance",
+                "share": 0.00883266605520044
+              }
+            ],
+            "viability": [
+              2960,
+              78,
+              71,
+              58
+            ]
+          }
+        },
+        {
+          "species": "Floette-Eternal",
+          "battleForme": "Floette-Eternal",
+          "nature": "Modest",
+          "sps": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "item": "lifeorb",
+          "ability": "flowerveil",
+          "moves": [
+            "dazzlinggleam",
+            "lightofruin",
+            "moonblast",
+            "energyball"
+          ],
+          "meta": {
+            "usage": 0.00022610000000000002,
+            "rawCount": 2836,
+            "topSpreads": [
+              {
+                "key": "Modest:2/0/0/32/0/32",
+                "share": 0.20872736518954707
+              },
+              {
+                "key": "Timid:2/0/0/32/0/32",
+                "share": 0.18783973840220078
+              },
+              {
+                "key": "Timid:0/0/12/32/0/22",
+                "share": 0.13538321257737831
+              }
+            ],
+            "topItems": [
+              {
+                "key": "choicescarf",
+                "share": 0.6274017895990721
+              },
+              {
+                "key": "lifeorb",
+                "share": 0.16575052760353262
+              },
+              {
+                "key": "mysticwater",
+                "share": 0.06665753044077095
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "dazzlinggleam",
+                "share": 0.1694497939890384
+              },
+              {
+                "key": "lightofruin",
+                "share": 0.1363095319562225
+              },
+              {
+                "key": "moonblast",
+                "share": 0.12709956466991038
+              },
+              {
+                "key": "energyball",
+                "share": 0.123110011314701
+              },
+              {
+                "key": "psychic",
+                "share": 0.09920284573869677
+              },
+              {
+                "key": "protect",
+                "share": 0.0791783766186516
+              },
+              {
+                "key": "lightscreen",
+                "share": 0.046066693992669244
+              },
+              {
+                "key": "drainingkiss",
+                "share": 0.045762921819027955
+              },
+              {
+                "key": "trick",
+                "share": 0.04002007026891633
+              },
+              {
+                "key": "pollenpuff",
+                "share": 0.037661334989679954
+              }
+            ],
+            "viability": [
+              336,
+              71,
+              69,
+              57
+            ]
+          }
+        }
+      ],
+      "paste": "Skarmory @ Sitrus Berry\nAbility: Sturdy\nLevel: 50\nEVs: 28 HP / 32 Def / 6 Spe\nImpish Nature\n- Body Press\n- Tailwind\n- Brave Bird\n- Whirlwind\n\nVenusaur @ Venusaurite\nAbility: Chlorophyll\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nModest Nature\n- Sludge Bomb\n- Protect\n- Earth Power\n- Giga Drain\n\nGolurk @ Muscle Band\nAbility: No Guard\nLevel: 50\nEVs: 32 HP / 32 Atk / 2 Def\nBrave Nature\n- Poltergeist\n- Headlong Rush\n- Stone Edge\n- Protect\n\nHippowdon @ Iron Ball\nAbility: Sand Stream\nLevel: 50\nEVs: 9 HP / 32 Atk / 2 Def / 23 SpD\nBrave Nature\n- High Horsepower\n- Heavy Slam\n- Rock Slide\n- Protect\n\nSamurott-Hisui @ Choice Scarf\nAbility: Sharpness\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nJolly Nature\n- Sacred Sword\n- Night Slash\n- Sucker Punch\n- Aqua Cutter\n\nFloette-Eternal @ Life Orb\nAbility: Flower Veil\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nModest Nature\n- Dazzling Gleam\n- Light of Ruin\n- Moonblast\n- Energy Ball",
+      "roster": [
+        "Skarmory",
+        "Venusaur",
+        "Golurk",
+        "Hippowdon",
+        "Samurott-Hisui",
+        "Floette-Eternal"
+      ],
+      "formes": [
+        "Skarmory",
+        "Venusaur-Mega",
+        "Golurk",
+        "Hippowdon",
+        "Samurott-Hisui",
+        "Floette-Eternal"
+      ],
+      "semanticHash": "f6ba98544d5e51160619f194fdb3bb39a372aa7986733f231e9d038f8d27aec2",
+      "record": {
+        "wins": 14,
+        "losses": 2,
+        "draws": 0,
+        "games": 16,
+        "winRate": 0.875
+      },
+      "diagnostics": {
+        "unqualifiedGames": 0,
+        "incomplete": 0,
+        "note": null
+      },
+      "opposition": {
+        "distinctOpponents": 4,
+        "opponentIds": [
+          "panel-0-reference-11eb1084902a0e641bb91a76b384590fbf88cac3647eed36f716962b2ac3fa72",
+          "panel-1-reference-mc-addition-a",
+          "panel-2-rotating-historical-256615",
+          "panel-3-rotating-survivor-dea178f4"
+        ],
+        "opponentHashes": [
+          "6d2c3fdf5fcbb1ba2a991a1a312529ec766de09f4b02516629ec649c453f2e0b",
+          "7d1f4902c00c7849184300a1ae37d19a93893665258d2a20e22feb520eb04cbd",
+          "fbaed72750f7da8c03a1e2d28b8f782349b67b02c7cb208cc3b93451be4ddadd",
+          "84d17a4ea16931c0c729a1a8d3ee710d91b76ce8a88410da462c2f3dc4e13645"
+        ],
+        "declaredPanel": 4,
+        "aliasedOpponentIds": [],
+        "opponentsWithUnqualifiedGamesOnly": 0,
+        "opponentsWithIncompleteAttemptsOnly": 0,
+        "frozenBeforeResults": true,
+        "basis": "distinctOpponents counts opponents supporting the QUALIFIED record, deduplicated by semantic team identity so aliases of one team count once; declaredPanel is the size of the declared training panel; the two \"...Only\" counts exclude opponents that also have qualified games"
+      },
+      "byRole": {
+        "reference": {
+          "wins": 8,
+          "losses": 0,
+          "draws": 0,
+          "games": 8,
+          "winRate": 1,
+          "generations": [
+            71
+          ],
+          "basis": "the fixed reference opponents, identical in every generation. The only record comparable across generations, and a narrow one."
+        },
+        "rotating": {
+          "wins": 6,
+          "losses": 2,
+          "draws": 0,
+          "games": 8,
+          "winRate": 0.75,
+          "basis": "rotating opponents, which differ between generations. Opposition-specific evidence: NOT comparable with another generation's rotating record, and never a ranking."
+        },
+        "unsplitGames": 0,
+        "unsplitBasis": null,
+        "reconciles": true,
+        "pooledComparable": false
+      },
+      "opponents": [
+        {
+          "ids": [
+            "panel-0-reference-11eb1084902a0e641bb91a76b384590fbf88cac3647eed36f716962b2ac3fa72"
+          ],
+          "role": "reference",
+          "source": "declared-fixture",
+          "archiveId": null,
+          "reference": true,
+          "roster": [
+            "Sinistcha",
+            "Incineroar",
+            "Garchomp",
+            "Whimsicott",
+            "Basculegion",
+            "Blaziken"
+          ],
+          "semanticHash": "6d2c3fdf5fcbb1ba2a991a1a312529ec766de09f4b02516629ec649c453f2e0b",
+          "generations": [
+            71
+          ],
+          "record": {
+            "wins": 4,
+            "losses": 0,
+            "draws": 0,
+            "games": 4,
+            "winRate": 1
+          }
+        },
+        {
+          "ids": [
+            "panel-1-reference-mc-addition-a"
+          ],
+          "role": "reference",
+          "source": "declared-fixture",
+          "archiveId": null,
+          "reference": true,
+          "roster": [
+            "Wigglytuff",
+            "Salamence",
+            "Persian-Alola",
+            "Farfetch’d",
+            "Mr. Mime",
+            "Swalot"
+          ],
+          "semanticHash": "7d1f4902c00c7849184300a1ae37d19a93893665258d2a20e22feb520eb04cbd",
+          "generations": [
+            71
+          ],
+          "record": {
+            "wins": 4,
+            "losses": 0,
+            "draws": 0,
+            "games": 4,
+            "winRate": 1
+          }
+        },
+        {
+          "ids": [
+            "panel-2-rotating-historical-256615"
+          ],
+          "role": "rotating-historical",
+          "source": "revalidated-historical",
+          "archiveId": 256615,
+          "reference": false,
+          "roster": [
+            "Archaludon",
+            "Pelipper",
+            "Swampert",
+            "Grimmsnarl",
+            "Sinistcha",
+            "Basculegion"
+          ],
+          "semanticHash": "fbaed72750f7da8c03a1e2d28b8f782349b67b02c7cb208cc3b93451be4ddadd",
+          "generations": [
+            71
+          ],
+          "record": {
+            "wins": 4,
+            "losses": 0,
+            "draws": 0,
+            "games": 4,
+            "winRate": 1
+          }
+        },
+        {
+          "ids": [
+            "panel-3-rotating-survivor-dea178f4"
+          ],
+          "role": "rotating-survivor",
+          "source": "mc-survivor",
+          "archiveId": null,
+          "reference": false,
+          "roster": [
+            "Musharna",
+            "Araquanid",
+            "Toxicroak",
+            "Gholdengo",
+            "Chesnaught",
+            "Skarmory"
+          ],
+          "semanticHash": "84d17a4ea16931c0c729a1a8d3ee710d91b76ce8a88410da462c2f3dc4e13645",
+          "generations": [
+            71
+          ],
+          "record": {
+            "wins": 2,
+            "losses": 2,
+            "draws": 0,
+            "games": 4,
+            "winRate": 0.5
+          }
+        }
+      ],
+      "thin": false,
+      "provisionalBasis": "16 qualified games vs 4 distinct opponents (declared panel of 4)",
+      "mcEvidence": {
+        "qualifiedGames": 16,
+        "qualifiedOpponents": 4,
+        "declaredPanel": 4,
+        "reference": {
+          "wins": 8,
+          "losses": 0,
+          "draws": 0,
+          "games": 8,
+          "winRate": 1
+        },
+        "rotating": {
+          "wins": 6,
+          "losses": 2,
+          "draws": 0,
+          "games": 8,
+          "winRate": 0.75
+        },
+        "referenceOpponents": 2,
+        "rotatingOpponents": 2,
+        "unsplitGames": 0,
+        "pooledComparable": false,
+        "unqualifiedGames": 0,
+        "incomplete": 0,
+        "generations": [
+          71
         ],
         "thin": false,
         "narrow": true,
@@ -106304,6 +107200,1059 @@
       "lineageId": "7428a95979e17ef2c6d7a3de34e4fccde32f77870323f87fe6ce42685cf87e26"
     },
     {
+      "id": "g71-c0-75035ef4",
+      "identity": "75035ef4a9ade97e29111d63bf60dc9a034a386dbefad3d02cb3737289d94c65",
+      "searchKey": "7fac57cf6d1e372e",
+      "generation": 71,
+      "generations": [
+        71
+      ],
+      "candidateIds": [
+        "g71-c0-75035ef4"
+      ],
+      "origin": "mc-steered",
+      "provisional": true,
+      "sets": [
+        {
+          "species": "Golisopod",
+          "battleForme": "Golisopod-Mega",
+          "nature": "Adamant",
+          "sps": {
+            "hp": 32,
+            "atk": 32,
+            "def": 2
+          },
+          "item": "golisopite",
+          "ability": "emergencyexit",
+          "moves": [
+            "liquidation",
+            "firstimpression",
+            "gunkshot",
+            "protect"
+          ],
+          "meta": {
+            "usage": 0,
+            "auto": true
+          }
+        },
+        {
+          "species": "Armarouge",
+          "battleForme": "Armarouge",
+          "item": "focussash",
+          "ability": "flashfire",
+          "nature": "Modest",
+          "sps": {
+            "hp": 32,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 2,
+            "spe": 0
+          },
+          "moves": [
+            "armorcannon",
+            "wideguard",
+            "psychic",
+            "trickroom"
+          ]
+        },
+        {
+          "species": "Baxcalibur",
+          "battleForme": "Baxcalibur",
+          "nature": "Jolly",
+          "sps": {
+            "hp": 2,
+            "atk": 32,
+            "spe": 32
+          },
+          "item": "lifeorb",
+          "ability": "thermalexchange",
+          "moves": [
+            "glaiverush",
+            "iciclecrash",
+            "highhorsepower",
+            "protect"
+          ],
+          "meta": {
+            "usage": 0,
+            "auto": true
+          }
+        },
+        {
+          "species": "Greninja",
+          "battleForme": "Greninja",
+          "nature": "Timid",
+          "sps": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "item": "wiseglasses",
+          "ability": "protean",
+          "moves": [
+            "icebeam",
+            "darkpulse",
+            "lowkick",
+            "hydrocannon"
+          ],
+          "meta": {
+            "usage": 0.000858,
+            "rawCount": 11308,
+            "topSpreads": [
+              {
+                "key": "Timid:2/0/0/32/0/32",
+                "share": 0.3716251475131797
+              },
+              {
+                "key": "Naive:0/14/0/20/0/32",
+                "share": 0.222353538887282
+              },
+              {
+                "key": "Naive:0/20/0/14/0/32",
+                "share": 0.1435389844635136
+              }
+            ],
+            "topItems": [
+              {
+                "key": "focussash",
+                "share": 0.6301983343103597
+              },
+              {
+                "key": "lifeorb",
+                "share": 0.1925906610508727
+              },
+              {
+                "key": "choicescarf",
+                "share": 0.1008350445825052
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "icebeam",
+                "share": 0.1496016265539938
+              },
+              {
+                "key": "darkpulse",
+                "share": 0.10691644632027873
+              },
+              {
+                "key": "lowkick",
+                "share": 0.10364577780195577
+              },
+              {
+                "key": "hydrocannon",
+                "share": 0.0989854428374274
+              },
+              {
+                "key": "rockslide",
+                "share": 0.09618631328224035
+              },
+              {
+                "key": "protect",
+                "share": 0.09610853564720345
+              },
+              {
+                "key": "watershuriken",
+                "share": 0.06409908559212724
+              },
+              {
+                "key": "weatherball",
+                "share": 0.0505713679065749
+              },
+              {
+                "key": "blizzard",
+                "share": 0.03641355133835761
+              },
+              {
+                "key": "hydropump",
+                "share": 0.028693692923260128
+              }
+            ],
+            "viability": [
+              972,
+              75,
+              68,
+              55
+            ]
+          }
+        },
+        {
+          "species": "Malamar",
+          "battleForme": "Malamar",
+          "nature": "Brave",
+          "sps": {
+            "hp": 32,
+            "atk": 32,
+            "spd": 2
+          },
+          "item": "muscleband",
+          "ability": "contrary",
+          "moves": [
+            "superpower",
+            "trickroom",
+            "knockoff",
+            "protect"
+          ]
+        },
+        {
+          "species": "Salazzle",
+          "battleForme": "Salazzle",
+          "item": "choicescarf",
+          "ability": "corrosion",
+          "nature": "Timid",
+          "sps": {
+            "hp": 2,
+            "spa": 32,
+            "spe": 32
+          },
+          "moves": [
+            "fakeout",
+            "sludgebomb",
+            "heatwave",
+            "toxic"
+          ]
+        }
+      ],
+      "paste": "Golisopod @ Golisopite\nAbility: Emergency Exit\nLevel: 50\nEVs: 32 HP / 32 Atk / 2 Def\nAdamant Nature\n- Liquidation\n- First Impression\n- Gunk Shot\n- Protect\n\nArmarouge @ Focus Sash\nAbility: Flash Fire\nLevel: 50\nEVs: 32 HP / 32 SpA / 2 SpD\nModest Nature\n- Armor Cannon\n- Wide Guard\n- Psychic\n- Trick Room\n\nBaxcalibur @ Life Orb\nAbility: Thermal Exchange\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nJolly Nature\n- Glaive Rush\n- Icicle Crash\n- High Horsepower\n- Protect\n\nGreninja @ Wise Glasses\nAbility: Protean\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Ice Beam\n- Dark Pulse\n- Low Kick\n- Hydro Cannon\n\nMalamar @ Muscle Band\nAbility: Contrary\nLevel: 50\nEVs: 32 HP / 32 Atk / 2 SpD\nBrave Nature\n- Superpower\n- Trick Room\n- Knock Off\n- Protect\n\nSalazzle @ Choice Scarf\nAbility: Corrosion\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nTimid Nature\n- Fake Out\n- Sludge Bomb\n- Heat Wave\n- Toxic",
+      "roster": [
+        "Golisopod",
+        "Armarouge",
+        "Baxcalibur",
+        "Greninja",
+        "Malamar",
+        "Salazzle"
+      ],
+      "formes": [
+        "Golisopod-Mega",
+        "Armarouge",
+        "Baxcalibur",
+        "Greninja",
+        "Malamar",
+        "Salazzle"
+      ],
+      "semanticHash": "ae36d85929176d844cfecc72e5b9893314857d62214e3b9dfb37a441e1879e13",
+      "record": {
+        "wins": 11,
+        "losses": 5,
+        "draws": 0,
+        "games": 16,
+        "winRate": 0.6875
+      },
+      "diagnostics": {
+        "unqualifiedGames": 0,
+        "incomplete": 0,
+        "note": null
+      },
+      "opposition": {
+        "distinctOpponents": 4,
+        "opponentIds": [
+          "panel-0-reference-11eb1084902a0e641bb91a76b384590fbf88cac3647eed36f716962b2ac3fa72",
+          "panel-1-reference-mc-addition-a",
+          "panel-2-rotating-historical-256615",
+          "panel-3-rotating-survivor-dea178f4"
+        ],
+        "opponentHashes": [
+          "6d2c3fdf5fcbb1ba2a991a1a312529ec766de09f4b02516629ec649c453f2e0b",
+          "7d1f4902c00c7849184300a1ae37d19a93893665258d2a20e22feb520eb04cbd",
+          "fbaed72750f7da8c03a1e2d28b8f782349b67b02c7cb208cc3b93451be4ddadd",
+          "84d17a4ea16931c0c729a1a8d3ee710d91b76ce8a88410da462c2f3dc4e13645"
+        ],
+        "declaredPanel": 4,
+        "aliasedOpponentIds": [],
+        "opponentsWithUnqualifiedGamesOnly": 0,
+        "opponentsWithIncompleteAttemptsOnly": 0,
+        "frozenBeforeResults": true,
+        "basis": "distinctOpponents counts opponents supporting the QUALIFIED record, deduplicated by semantic team identity so aliases of one team count once; declaredPanel is the size of the declared training panel; the two \"...Only\" counts exclude opponents that also have qualified games"
+      },
+      "byRole": {
+        "reference": {
+          "wins": 7,
+          "losses": 1,
+          "draws": 0,
+          "games": 8,
+          "winRate": 0.875,
+          "generations": [
+            71
+          ],
+          "basis": "the fixed reference opponents, identical in every generation. The only record comparable across generations, and a narrow one."
+        },
+        "rotating": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 0,
+          "games": 8,
+          "winRate": 0.5,
+          "basis": "rotating opponents, which differ between generations. Opposition-specific evidence: NOT comparable with another generation's rotating record, and never a ranking."
+        },
+        "unsplitGames": 0,
+        "unsplitBasis": null,
+        "reconciles": true,
+        "pooledComparable": false
+      },
+      "opponents": [
+        {
+          "ids": [
+            "panel-0-reference-11eb1084902a0e641bb91a76b384590fbf88cac3647eed36f716962b2ac3fa72"
+          ],
+          "role": "reference",
+          "source": "declared-fixture",
+          "archiveId": null,
+          "reference": true,
+          "roster": [
+            "Sinistcha",
+            "Incineroar",
+            "Garchomp",
+            "Whimsicott",
+            "Basculegion",
+            "Blaziken"
+          ],
+          "semanticHash": "6d2c3fdf5fcbb1ba2a991a1a312529ec766de09f4b02516629ec649c453f2e0b",
+          "generations": [
+            71
+          ],
+          "record": {
+            "wins": 3,
+            "losses": 1,
+            "draws": 0,
+            "games": 4,
+            "winRate": 0.75
+          }
+        },
+        {
+          "ids": [
+            "panel-1-reference-mc-addition-a"
+          ],
+          "role": "reference",
+          "source": "declared-fixture",
+          "archiveId": null,
+          "reference": true,
+          "roster": [
+            "Wigglytuff",
+            "Salamence",
+            "Persian-Alola",
+            "Farfetch’d",
+            "Mr. Mime",
+            "Swalot"
+          ],
+          "semanticHash": "7d1f4902c00c7849184300a1ae37d19a93893665258d2a20e22feb520eb04cbd",
+          "generations": [
+            71
+          ],
+          "record": {
+            "wins": 4,
+            "losses": 0,
+            "draws": 0,
+            "games": 4,
+            "winRate": 1
+          }
+        },
+        {
+          "ids": [
+            "panel-2-rotating-historical-256615"
+          ],
+          "role": "rotating-historical",
+          "source": "revalidated-historical",
+          "archiveId": 256615,
+          "reference": false,
+          "roster": [
+            "Archaludon",
+            "Pelipper",
+            "Swampert",
+            "Grimmsnarl",
+            "Sinistcha",
+            "Basculegion"
+          ],
+          "semanticHash": "fbaed72750f7da8c03a1e2d28b8f782349b67b02c7cb208cc3b93451be4ddadd",
+          "generations": [
+            71
+          ],
+          "record": {
+            "wins": 1,
+            "losses": 3,
+            "draws": 0,
+            "games": 4,
+            "winRate": 0.25
+          }
+        },
+        {
+          "ids": [
+            "panel-3-rotating-survivor-dea178f4"
+          ],
+          "role": "rotating-survivor",
+          "source": "mc-survivor",
+          "archiveId": null,
+          "reference": false,
+          "roster": [
+            "Musharna",
+            "Araquanid",
+            "Toxicroak",
+            "Gholdengo",
+            "Chesnaught",
+            "Skarmory"
+          ],
+          "semanticHash": "84d17a4ea16931c0c729a1a8d3ee710d91b76ce8a88410da462c2f3dc4e13645",
+          "generations": [
+            71
+          ],
+          "record": {
+            "wins": 3,
+            "losses": 1,
+            "draws": 0,
+            "games": 4,
+            "winRate": 0.75
+          }
+        }
+      ],
+      "thin": false,
+      "provisionalBasis": "16 qualified games vs 4 distinct opponents (declared panel of 4)",
+      "mcEvidence": {
+        "qualifiedGames": 16,
+        "qualifiedOpponents": 4,
+        "declaredPanel": 4,
+        "reference": {
+          "wins": 7,
+          "losses": 1,
+          "draws": 0,
+          "games": 8,
+          "winRate": 0.875
+        },
+        "rotating": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 0,
+          "games": 8,
+          "winRate": 0.5
+        },
+        "referenceOpponents": 2,
+        "rotatingOpponents": 2,
+        "unsplitGames": 0,
+        "pooledComparable": false,
+        "unqualifiedGames": 0,
+        "incomplete": 0,
+        "generations": [
+          71
+        ],
+        "thin": false,
+        "narrow": true,
+        "thinReason": null
+      },
+      "elo": null,
+      "games": 16,
+      "player": "champions-incumbent-open-sheet-v1",
+      "informationMode": "open-sheet",
+      "lineageId": "7428a95979e17ef2c6d7a3de34e4fccde32f77870323f87fe6ce42685cf87e26"
+    },
+    {
+      "id": "g71-c3-34853510",
+      "identity": "348535108e7e992f45f56ada111066484204ee704d389e9f9ca53a8f4a16ce02",
+      "searchKey": "adc602885eeaf946",
+      "generation": 71,
+      "generations": [
+        71
+      ],
+      "candidateIds": [
+        "g71-c3-34853510"
+      ],
+      "origin": "mc-unsteered",
+      "provisional": true,
+      "sets": [
+        {
+          "species": "Chandelure",
+          "battleForme": "Chandelure-Mega",
+          "item": "chandelurite",
+          "ability": "flashfire",
+          "nature": "Quiet",
+          "sps": {
+            "hp": 32,
+            "spa": 32,
+            "spd": 2
+          },
+          "moves": [
+            "shadowball",
+            "heatwave",
+            "protect",
+            "energyball"
+          ]
+        },
+        {
+          "species": "Klefki",
+          "battleForme": "Klefki",
+          "item": "lightclay",
+          "ability": "prankster",
+          "nature": "Bold",
+          "sps": {
+            "hp": 32,
+            "atk": 0,
+            "def": 29,
+            "spa": 0,
+            "spd": 5,
+            "spe": 0
+          },
+          "moves": [
+            "lightscreen",
+            "reflect",
+            "dazzlinggleam",
+            "drainingkiss"
+          ]
+        },
+        {
+          "species": "Stunfisk",
+          "battleForme": "Stunfisk",
+          "item": "leftovers",
+          "ability": "static",
+          "nature": "Modest",
+          "sps": {
+            "hp": 32,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 2,
+            "spe": 0
+          },
+          "moves": [
+            "earthpower",
+            "thunderbolt",
+            "protect",
+            "sludgebomb"
+          ]
+        },
+        {
+          "species": "Staraptor",
+          "battleForme": "Staraptor",
+          "nature": "Jolly",
+          "sps": {
+            "hp": 32,
+            "atk": 2,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "item": "choicescarf",
+          "ability": "intimidate",
+          "moves": [
+            "bravebird",
+            "uturn",
+            "closecombat",
+            "finalgambit"
+          ],
+          "meta": {
+            "usage": 0.014183,
+            "rawCount": 38862,
+            "topSpreads": [
+              {
+                "key": "Jolly:32/2/0/0/0/32",
+                "share": 0.2999253162521465
+              },
+              {
+                "key": "Adamant:2/32/0/0/0/32",
+                "share": 0.29364536459262774
+              },
+              {
+                "key": "Jolly:32/14/0/0/0/20",
+                "share": 0.27459242909458687
+              }
+            ],
+            "topItems": [
+              {
+                "key": "choicescarf",
+                "share": 0.9805443717379951
+              },
+              {
+                "key": "sharpbeak",
+                "share": 0.010760513571803923
+              },
+              {
+                "key": "focussash",
+                "share": 0.004378303877168456
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "bravebird",
+                "share": 0.24494330663336505
+              },
+              {
+                "key": "uturn",
+                "share": 0.2378100457497249
+              },
+              {
+                "key": "closecombat",
+                "share": 0.22851600206864536
+              },
+              {
+                "key": "finalgambit",
+                "share": 0.17548454234828573
+              },
+              {
+                "key": "doubleedge",
+                "share": 0.08037850597511752
+              },
+              {
+                "key": "tailwind",
+                "share": 0.010962865917024644
+              },
+              {
+                "key": "raindance",
+                "share": 0.005978749441040377
+              },
+              {
+                "key": "protect",
+                "share": 0.004788050822714938
+              },
+              {
+                "key": "dualwingbeat",
+                "share": 0.004430650232649475
+              },
+              {
+                "key": "whirlwind",
+                "share": 0.0012555273180244045
+              }
+            ],
+            "viability": [
+              3037,
+              83,
+              72,
+              59
+            ]
+          }
+        },
+        {
+          "species": "Froslass",
+          "battleForme": "Froslass",
+          "nature": "Timid",
+          "sps": {
+            "hp": 32,
+            "atk": 0,
+            "def": 0,
+            "spa": 2,
+            "spd": 0,
+            "spe": 32
+          },
+          "item": "widelens",
+          "ability": "cursedbody",
+          "moves": [
+            "willowisp",
+            "lightscreen",
+            "raindance",
+            "icywind"
+          ],
+          "meta": {
+            "usage": 0.0002717,
+            "rawCount": 2807,
+            "topSpreads": [
+              {
+                "key": "Timid:32/0/0/2/0/32",
+                "share": 0.7258768829430944
+              },
+              {
+                "key": "Timid:2/0/0/32/0/32",
+                "share": 0.11045727481896055
+              },
+              {
+                "key": "Timid:32/0/0/0/2/32",
+                "share": 0.06694683841729557
+              }
+            ],
+            "topItems": [
+              {
+                "key": "widelens",
+                "share": 0.6444081369309668
+              },
+              {
+                "key": "focussash",
+                "share": 0.22069331268505718
+              },
+              {
+                "key": "nevermeltice",
+                "share": 0.03256795774519899
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "willowisp",
+                "share": 0.19400030932915058
+              },
+              {
+                "key": "lightscreen",
+                "share": 0.16999745658656853
+              },
+              {
+                "key": "raindance",
+                "share": 0.1601971315376156
+              },
+              {
+                "key": "icywind",
+                "share": 0.12792829489199203
+              },
+              {
+                "key": "icebeam",
+                "share": 0.07681047605546518
+              },
+              {
+                "key": "protect",
+                "share": 0.03878297525666828
+              },
+              {
+                "key": "shadowball",
+                "share": 0.03779956265681766
+              },
+              {
+                "key": "taunt",
+                "share": 0.03364901402815828
+              },
+              {
+                "key": "frostbreath",
+                "share": 0.02830249095229079
+              },
+              {
+                "key": "destinybond",
+                "share": 0.025404446532843107
+              }
+            ],
+            "viability": [
+              325,
+              78,
+              69,
+              52
+            ]
+          }
+        },
+        {
+          "species": "Conkeldurr",
+          "battleForme": "Conkeldurr",
+          "nature": "Brave",
+          "sps": {
+            "hp": 31,
+            "atk": 32,
+            "def": 3,
+            "spa": 0,
+            "spd": 0,
+            "spe": 0
+          },
+          "item": "lifeorb",
+          "ability": "ironfist",
+          "moves": [
+            "drainpunch",
+            "machpunch",
+            "thunderpunch",
+            "knockoff"
+          ],
+          "meta": {
+            "usage": 0.0022274,
+            "rawCount": 16603,
+            "topSpreads": [
+              {
+                "key": "Brave:31/32/3/0/0/0",
+                "share": 0.6311920900217186
+              },
+              {
+                "key": "Brave:32/32/0/0/2/0",
+                "share": 0.09641121731234903
+              },
+              {
+                "key": "Adamant:32/32/0/0/2/0",
+                "share": 0.04411874249982218
+              }
+            ],
+            "topItems": [
+              {
+                "key": "lifeorb",
+                "share": 0.8432378849063877
+              },
+              {
+                "key": "blackbelt",
+                "share": 0.044043774014147746
+              },
+              {
+                "key": "leftovers",
+                "share": 0.03423925561442759
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "drainpunch",
+                "share": 0.22102650497206183
+              },
+              {
+                "key": "machpunch",
+                "share": 0.215534527444898
+              },
+              {
+                "key": "thunderpunch",
+                "share": 0.20359542343533837
+              },
+              {
+                "key": "knockoff",
+                "share": 0.1820832991450457
+              },
+              {
+                "key": "icepunch",
+                "share": 0.035445894800963475
+              },
+              {
+                "key": "protect",
+                "share": 0.026413109133545644
+              },
+              {
+                "key": "detect",
+                "share": 0.018801727373980965
+              },
+              {
+                "key": "closecombat",
+                "share": 0.018210507752113154
+              },
+              {
+                "key": "wideguard",
+                "share": 0.014089188907393389
+              },
+              {
+                "key": "poisonjab",
+                "share": 0.01388223074001294
+              }
+            ],
+            "viability": [
+              1460,
+              74,
+              69,
+              55
+            ]
+          }
+        }
+      ],
+      "paste": "Chandelure @ Chandelurite\nAbility: Flash Fire\nLevel: 50\nEVs: 32 HP / 32 SpA / 2 SpD\nQuiet Nature\n- Shadow Ball\n- Heat Wave\n- Protect\n- Energy Ball\n\nKlefki @ Light Clay\nAbility: Prankster\nLevel: 50\nEVs: 32 HP / 29 Def / 5 SpD\nBold Nature\n- Light Screen\n- Reflect\n- Dazzling Gleam\n- Draining Kiss\n\nStunfisk @ Leftovers\nAbility: Static\nLevel: 50\nEVs: 32 HP / 32 SpA / 2 SpD\nModest Nature\n- Earth Power\n- Thunderbolt\n- Protect\n- Sludge Bomb\n\nStaraptor @ Choice Scarf\nAbility: Intimidate\nLevel: 50\nEVs: 32 HP / 2 Atk / 32 Spe\nJolly Nature\n- Brave Bird\n- U-turn\n- Close Combat\n- Final Gambit\n\nFroslass @ Wide Lens\nAbility: Cursed Body\nLevel: 50\nEVs: 32 HP / 2 SpA / 32 Spe\nTimid Nature\n- Will-O-Wisp\n- Light Screen\n- Rain Dance\n- Icy Wind\n\nConkeldurr @ Life Orb\nAbility: Iron Fist\nLevel: 50\nEVs: 31 HP / 32 Atk / 3 Def\nBrave Nature\n- Drain Punch\n- Mach Punch\n- Thunder Punch\n- Knock Off",
+      "roster": [
+        "Chandelure",
+        "Klefki",
+        "Stunfisk",
+        "Staraptor",
+        "Froslass",
+        "Conkeldurr"
+      ],
+      "formes": [
+        "Chandelure-Mega",
+        "Klefki",
+        "Stunfisk",
+        "Staraptor",
+        "Froslass",
+        "Conkeldurr"
+      ],
+      "semanticHash": "6c8de376378cffa1a6c5a3b5abe603757d4659808760246936b6c4fa6dae04b6",
+      "record": {
+        "wins": 11,
+        "losses": 5,
+        "draws": 0,
+        "games": 16,
+        "winRate": 0.6875
+      },
+      "diagnostics": {
+        "unqualifiedGames": 0,
+        "incomplete": 0,
+        "note": null
+      },
+      "opposition": {
+        "distinctOpponents": 4,
+        "opponentIds": [
+          "panel-0-reference-11eb1084902a0e641bb91a76b384590fbf88cac3647eed36f716962b2ac3fa72",
+          "panel-1-reference-mc-addition-a",
+          "panel-2-rotating-historical-256615",
+          "panel-3-rotating-survivor-dea178f4"
+        ],
+        "opponentHashes": [
+          "6d2c3fdf5fcbb1ba2a991a1a312529ec766de09f4b02516629ec649c453f2e0b",
+          "7d1f4902c00c7849184300a1ae37d19a93893665258d2a20e22feb520eb04cbd",
+          "fbaed72750f7da8c03a1e2d28b8f782349b67b02c7cb208cc3b93451be4ddadd",
+          "84d17a4ea16931c0c729a1a8d3ee710d91b76ce8a88410da462c2f3dc4e13645"
+        ],
+        "declaredPanel": 4,
+        "aliasedOpponentIds": [],
+        "opponentsWithUnqualifiedGamesOnly": 0,
+        "opponentsWithIncompleteAttemptsOnly": 0,
+        "frozenBeforeResults": true,
+        "basis": "distinctOpponents counts opponents supporting the QUALIFIED record, deduplicated by semantic team identity so aliases of one team count once; declaredPanel is the size of the declared training panel; the two \"...Only\" counts exclude opponents that also have qualified games"
+      },
+      "byRole": {
+        "reference": {
+          "wins": 7,
+          "losses": 1,
+          "draws": 0,
+          "games": 8,
+          "winRate": 0.875,
+          "generations": [
+            71
+          ],
+          "basis": "the fixed reference opponents, identical in every generation. The only record comparable across generations, and a narrow one."
+        },
+        "rotating": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 0,
+          "games": 8,
+          "winRate": 0.5,
+          "basis": "rotating opponents, which differ between generations. Opposition-specific evidence: NOT comparable with another generation's rotating record, and never a ranking."
+        },
+        "unsplitGames": 0,
+        "unsplitBasis": null,
+        "reconciles": true,
+        "pooledComparable": false
+      },
+      "opponents": [
+        {
+          "ids": [
+            "panel-0-reference-11eb1084902a0e641bb91a76b384590fbf88cac3647eed36f716962b2ac3fa72"
+          ],
+          "role": "reference",
+          "source": "declared-fixture",
+          "archiveId": null,
+          "reference": true,
+          "roster": [
+            "Sinistcha",
+            "Incineroar",
+            "Garchomp",
+            "Whimsicott",
+            "Basculegion",
+            "Blaziken"
+          ],
+          "semanticHash": "6d2c3fdf5fcbb1ba2a991a1a312529ec766de09f4b02516629ec649c453f2e0b",
+          "generations": [
+            71
+          ],
+          "record": {
+            "wins": 3,
+            "losses": 1,
+            "draws": 0,
+            "games": 4,
+            "winRate": 0.75
+          }
+        },
+        {
+          "ids": [
+            "panel-1-reference-mc-addition-a"
+          ],
+          "role": "reference",
+          "source": "declared-fixture",
+          "archiveId": null,
+          "reference": true,
+          "roster": [
+            "Wigglytuff",
+            "Salamence",
+            "Persian-Alola",
+            "Farfetch’d",
+            "Mr. Mime",
+            "Swalot"
+          ],
+          "semanticHash": "7d1f4902c00c7849184300a1ae37d19a93893665258d2a20e22feb520eb04cbd",
+          "generations": [
+            71
+          ],
+          "record": {
+            "wins": 4,
+            "losses": 0,
+            "draws": 0,
+            "games": 4,
+            "winRate": 1
+          }
+        },
+        {
+          "ids": [
+            "panel-2-rotating-historical-256615"
+          ],
+          "role": "rotating-historical",
+          "source": "revalidated-historical",
+          "archiveId": 256615,
+          "reference": false,
+          "roster": [
+            "Archaludon",
+            "Pelipper",
+            "Swampert",
+            "Grimmsnarl",
+            "Sinistcha",
+            "Basculegion"
+          ],
+          "semanticHash": "fbaed72750f7da8c03a1e2d28b8f782349b67b02c7cb208cc3b93451be4ddadd",
+          "generations": [
+            71
+          ],
+          "record": {
+            "wins": 0,
+            "losses": 4,
+            "draws": 0,
+            "games": 4,
+            "winRate": 0
+          }
+        },
+        {
+          "ids": [
+            "panel-3-rotating-survivor-dea178f4"
+          ],
+          "role": "rotating-survivor",
+          "source": "mc-survivor",
+          "archiveId": null,
+          "reference": false,
+          "roster": [
+            "Musharna",
+            "Araquanid",
+            "Toxicroak",
+            "Gholdengo",
+            "Chesnaught",
+            "Skarmory"
+          ],
+          "semanticHash": "84d17a4ea16931c0c729a1a8d3ee710d91b76ce8a88410da462c2f3dc4e13645",
+          "generations": [
+            71
+          ],
+          "record": {
+            "wins": 4,
+            "losses": 0,
+            "draws": 0,
+            "games": 4,
+            "winRate": 1
+          }
+        }
+      ],
+      "thin": false,
+      "provisionalBasis": "16 qualified games vs 4 distinct opponents (declared panel of 4)",
+      "mcEvidence": {
+        "qualifiedGames": 16,
+        "qualifiedOpponents": 4,
+        "declaredPanel": 4,
+        "reference": {
+          "wins": 7,
+          "losses": 1,
+          "draws": 0,
+          "games": 8,
+          "winRate": 0.875
+        },
+        "rotating": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 0,
+          "games": 8,
+          "winRate": 0.5
+        },
+        "referenceOpponents": 2,
+        "rotatingOpponents": 2,
+        "unsplitGames": 0,
+        "pooledComparable": false,
+        "unqualifiedGames": 0,
+        "incomplete": 0,
+        "generations": [
+          71
+        ],
+        "thin": false,
+        "narrow": true,
+        "thinReason": null
+      },
+      "elo": null,
+      "games": 16,
+      "player": "champions-incumbent-open-sheet-v1",
+      "informationMode": "open-sheet",
+      "lineageId": "7428a95979e17ef2c6d7a3de34e4fccde32f77870323f87fe6ce42685cf87e26"
+    },
+    {
       "id": "g4-c4-393ed14b",
       "identity": "393ed14b32f88b7f39c95a33d190da31028d918d7f44d670975ac2338811a640",
       "searchKey": "7f054f6bbf37db14",
@@ -124818,6 +126767,526 @@
         "incomplete": 0,
         "generations": [
           69
+        ],
+        "thin": false,
+        "narrow": true,
+        "thinReason": null
+      },
+      "elo": null,
+      "games": 16,
+      "player": "champions-incumbent-open-sheet-v1",
+      "informationMode": "open-sheet",
+      "lineageId": "7428a95979e17ef2c6d7a3de34e4fccde32f77870323f87fe6ce42685cf87e26"
+    },
+    {
+      "id": "g71-c2-23e27c9a",
+      "identity": "23e27c9a08d6a045ad4f13e94adee09e5bacbb82d32222baa79d898cff154420",
+      "searchKey": "9c3dd9afdf46d12d",
+      "generation": 71,
+      "generations": [
+        71
+      ],
+      "candidateIds": [
+        "g71-c2-23e27c9a"
+      ],
+      "origin": "mc-steered",
+      "provisional": true,
+      "sets": [
+        {
+          "species": "Politoed",
+          "battleForme": "Politoed",
+          "item": "sitrusberry",
+          "ability": "drizzle",
+          "nature": "Calm",
+          "sps": {
+            "hp": 31,
+            "atk": 0,
+            "def": 23,
+            "spa": 0,
+            "spd": 12,
+            "spe": 0
+          },
+          "moves": [
+            "hypnosis",
+            "encore",
+            "earthpower",
+            "icywind"
+          ]
+        },
+        {
+          "species": "Swampert",
+          "battleForme": "Swampert-Mega",
+          "nature": "Adamant",
+          "sps": {
+            "hp": 17,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 17
+          },
+          "item": "swampertite",
+          "ability": "torrent",
+          "moves": [
+            "protect",
+            "wavecrash",
+            "earthquake",
+            "icepunch"
+          ],
+          "meta": {
+            "usage": 0.0716422,
+            "rawCount": 179932,
+            "topSpreads": [
+              {
+                "key": "Adamant:2/32/0/0/0/32",
+                "share": 0.23060081989356307
+              },
+              {
+                "key": "Adamant:17/32/0/0/0/17",
+                "share": 0.05959578641953892
+              },
+              {
+                "key": "Adamant:18/30/0/0/0/18",
+                "share": 0.055273238255217336
+              }
+            ],
+            "topItems": [
+              {
+                "key": "swampertite",
+                "share": 1
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "protect",
+                "share": 0.24746153771104135
+              },
+              {
+                "key": "wavecrash",
+                "share": 0.23523821757417696
+              },
+              {
+                "key": "earthquake",
+                "share": 0.2092277673507773
+              },
+              {
+                "key": "icepunch",
+                "share": 0.2064897362183955
+              },
+              {
+                "key": "highhorsepower",
+                "share": 0.046928232165393116
+              },
+              {
+                "key": "flipturn",
+                "share": 0.017550020019303503
+              },
+              {
+                "key": "liquidation",
+                "share": 0.00840745458270863
+              },
+              {
+                "key": "bulkup",
+                "share": 0.006223592041017853
+              },
+              {
+                "key": "rockslide",
+                "share": 0.006098028806626413
+              },
+              {
+                "key": "waterfall",
+                "share": 0.005524518034364612
+              }
+            ],
+            "viability": [
+              12229,
+              84,
+              73,
+              59
+            ]
+          }
+        },
+        {
+          "species": "Dragalge",
+          "battleForme": "Dragalge",
+          "nature": "Modest",
+          "sps": {
+            "hp": 32,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 2,
+            "spe": 0
+          },
+          "item": "lifeorb",
+          "ability": "adaptability",
+          "moves": [
+            "sludgebomb",
+            "protect",
+            "dracometeor",
+            "dragonpulse"
+          ],
+          "meta": {
+            "usage": 0.0002033,
+            "rawCount": 4797,
+            "topSpreads": [
+              {
+                "key": "Modest:32/0/0/32/2/0",
+                "share": 0.1987922164323762
+              },
+              {
+                "key": "Modest:29/0/14/23/0/0",
+                "share": 0.13714355034060116
+              },
+              {
+                "key": "Modest:32/0/6/28/0/0",
+                "share": 0.1362411664886781
+              }
+            ],
+            "topItems": [
+              {
+                "key": "lifeorb",
+                "share": 0.6649460315951571
+              },
+              {
+                "key": "leftovers",
+                "share": 0.20698317624675033
+              },
+              {
+                "key": "scopelens",
+                "share": 0.040861059442626704
+              }
+            ],
+            "topMoves": [
+              {
+                "key": "sludgebomb",
+                "share": 0.23800235594924374
+              },
+              {
+                "key": "protect",
+                "share": 0.20301875317045756
+              },
+              {
+                "key": "dracometeor",
+                "share": 0.20123176362692902
+              },
+              {
+                "key": "dragonpulse",
+                "share": 0.13202643261029268
+              },
+              {
+                "key": "sludgewave",
+                "share": 0.05231209530666169
+              },
+              {
+                "key": "thunderbolt",
+                "share": 0.041142455797426807
+              },
+              {
+                "key": "icywind",
+                "share": 0.035551571319918096
+              },
+              {
+                "key": "substitute",
+                "share": 0.02738099107578698
+              },
+              {
+                "key": "toxic",
+                "share": 0.019949182415648102
+              },
+              {
+                "key": "flipturn",
+                "share": 0.01167110649889477
+              }
+            ],
+            "viability": [
+              394,
+              73,
+              69,
+              55
+            ]
+          }
+        },
+        {
+          "species": "Golisopod",
+          "battleForme": "Golisopod-Mega",
+          "nature": "Adamant",
+          "sps": {
+            "hp": 32,
+            "atk": 32,
+            "def": 2
+          },
+          "item": "golisopite",
+          "ability": "emergencyexit",
+          "moves": [
+            "liquidation",
+            "firstimpression",
+            "gunkshot",
+            "protect"
+          ],
+          "meta": {
+            "usage": 0,
+            "auto": true
+          }
+        },
+        {
+          "species": "Hydreigon",
+          "battleForme": "Hydreigon",
+          "item": "choicescarf",
+          "ability": "levitate",
+          "nature": "Modest",
+          "sps": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "moves": [
+            "darkpulse",
+            "dracometeor",
+            "earthpower",
+            "protect"
+          ]
+        },
+        {
+          "species": "Orthworm",
+          "battleForme": "Orthworm",
+          "item": "leftovers",
+          "ability": "eartheater",
+          "nature": "Impish",
+          "sps": {
+            "hp": 32,
+            "def": 32,
+            "spd": 2
+          },
+          "moves": [
+            "bodypress",
+            "shedtail",
+            "heavyslam",
+            "rockblast"
+          ]
+        }
+      ],
+      "paste": "Politoed @ Sitrus Berry\nAbility: Drizzle\nLevel: 50\nEVs: 31 HP / 23 Def / 12 SpD\nCalm Nature\n- Hypnosis\n- Encore\n- Earth Power\n- Icy Wind\n\nSwampert @ Swampertite\nAbility: Torrent\nLevel: 50\nEVs: 17 HP / 32 Atk / 17 Spe\nAdamant Nature\n- Protect\n- Wave Crash\n- Earthquake\n- Ice Punch\n\nDragalge @ Life Orb\nAbility: Adaptability\nLevel: 50\nEVs: 32 HP / 32 SpA / 2 SpD\nModest Nature\n- Sludge Bomb\n- Protect\n- Draco Meteor\n- Dragon Pulse\n\nGolisopod @ Golisopite\nAbility: Emergency Exit\nLevel: 50\nEVs: 32 HP / 32 Atk / 2 Def\nAdamant Nature\n- Liquidation\n- First Impression\n- Gunk Shot\n- Protect\n\nHydreigon @ Choice Scarf\nAbility: Levitate\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nModest Nature\n- Dark Pulse\n- Draco Meteor\n- Earth Power\n- Protect\n\nOrthworm @ Leftovers\nAbility: Earth Eater\nLevel: 50\nEVs: 32 HP / 32 Def / 2 SpD\nImpish Nature\n- Body Press\n- Shed Tail\n- Heavy Slam\n- Rock Blast",
+      "roster": [
+        "Politoed",
+        "Swampert",
+        "Dragalge",
+        "Golisopod",
+        "Hydreigon",
+        "Orthworm"
+      ],
+      "formes": [
+        "Politoed",
+        "Swampert-Mega",
+        "Dragalge",
+        "Golisopod-Mega",
+        "Hydreigon",
+        "Orthworm"
+      ],
+      "semanticHash": "0d1ee62f151f15c1c13af5ade4855248ef7082aed2e5e87247d9e3c583fb6fe8",
+      "record": {
+        "wins": 10,
+        "losses": 6,
+        "draws": 0,
+        "games": 16,
+        "winRate": 0.625
+      },
+      "diagnostics": {
+        "unqualifiedGames": 0,
+        "incomplete": 0,
+        "note": null
+      },
+      "opposition": {
+        "distinctOpponents": 4,
+        "opponentIds": [
+          "panel-0-reference-11eb1084902a0e641bb91a76b384590fbf88cac3647eed36f716962b2ac3fa72",
+          "panel-1-reference-mc-addition-a",
+          "panel-2-rotating-historical-256615",
+          "panel-3-rotating-survivor-dea178f4"
+        ],
+        "opponentHashes": [
+          "6d2c3fdf5fcbb1ba2a991a1a312529ec766de09f4b02516629ec649c453f2e0b",
+          "7d1f4902c00c7849184300a1ae37d19a93893665258d2a20e22feb520eb04cbd",
+          "fbaed72750f7da8c03a1e2d28b8f782349b67b02c7cb208cc3b93451be4ddadd",
+          "84d17a4ea16931c0c729a1a8d3ee710d91b76ce8a88410da462c2f3dc4e13645"
+        ],
+        "declaredPanel": 4,
+        "aliasedOpponentIds": [],
+        "opponentsWithUnqualifiedGamesOnly": 0,
+        "opponentsWithIncompleteAttemptsOnly": 0,
+        "frozenBeforeResults": true,
+        "basis": "distinctOpponents counts opponents supporting the QUALIFIED record, deduplicated by semantic team identity so aliases of one team count once; declaredPanel is the size of the declared training panel; the two \"...Only\" counts exclude opponents that also have qualified games"
+      },
+      "byRole": {
+        "reference": {
+          "wins": 6,
+          "losses": 2,
+          "draws": 0,
+          "games": 8,
+          "winRate": 0.75,
+          "generations": [
+            71
+          ],
+          "basis": "the fixed reference opponents, identical in every generation. The only record comparable across generations, and a narrow one."
+        },
+        "rotating": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 0,
+          "games": 8,
+          "winRate": 0.5,
+          "basis": "rotating opponents, which differ between generations. Opposition-specific evidence: NOT comparable with another generation's rotating record, and never a ranking."
+        },
+        "unsplitGames": 0,
+        "unsplitBasis": null,
+        "reconciles": true,
+        "pooledComparable": false
+      },
+      "opponents": [
+        {
+          "ids": [
+            "panel-0-reference-11eb1084902a0e641bb91a76b384590fbf88cac3647eed36f716962b2ac3fa72"
+          ],
+          "role": "reference",
+          "source": "declared-fixture",
+          "archiveId": null,
+          "reference": true,
+          "roster": [
+            "Sinistcha",
+            "Incineroar",
+            "Garchomp",
+            "Whimsicott",
+            "Basculegion",
+            "Blaziken"
+          ],
+          "semanticHash": "6d2c3fdf5fcbb1ba2a991a1a312529ec766de09f4b02516629ec649c453f2e0b",
+          "generations": [
+            71
+          ],
+          "record": {
+            "wins": 2,
+            "losses": 2,
+            "draws": 0,
+            "games": 4,
+            "winRate": 0.5
+          }
+        },
+        {
+          "ids": [
+            "panel-1-reference-mc-addition-a"
+          ],
+          "role": "reference",
+          "source": "declared-fixture",
+          "archiveId": null,
+          "reference": true,
+          "roster": [
+            "Wigglytuff",
+            "Salamence",
+            "Persian-Alola",
+            "Farfetch’d",
+            "Mr. Mime",
+            "Swalot"
+          ],
+          "semanticHash": "7d1f4902c00c7849184300a1ae37d19a93893665258d2a20e22feb520eb04cbd",
+          "generations": [
+            71
+          ],
+          "record": {
+            "wins": 4,
+            "losses": 0,
+            "draws": 0,
+            "games": 4,
+            "winRate": 1
+          }
+        },
+        {
+          "ids": [
+            "panel-2-rotating-historical-256615"
+          ],
+          "role": "rotating-historical",
+          "source": "revalidated-historical",
+          "archiveId": 256615,
+          "reference": false,
+          "roster": [
+            "Archaludon",
+            "Pelipper",
+            "Swampert",
+            "Grimmsnarl",
+            "Sinistcha",
+            "Basculegion"
+          ],
+          "semanticHash": "fbaed72750f7da8c03a1e2d28b8f782349b67b02c7cb208cc3b93451be4ddadd",
+          "generations": [
+            71
+          ],
+          "record": {
+            "wins": 0,
+            "losses": 4,
+            "draws": 0,
+            "games": 4,
+            "winRate": 0
+          }
+        },
+        {
+          "ids": [
+            "panel-3-rotating-survivor-dea178f4"
+          ],
+          "role": "rotating-survivor",
+          "source": "mc-survivor",
+          "archiveId": null,
+          "reference": false,
+          "roster": [
+            "Musharna",
+            "Araquanid",
+            "Toxicroak",
+            "Gholdengo",
+            "Chesnaught",
+            "Skarmory"
+          ],
+          "semanticHash": "84d17a4ea16931c0c729a1a8d3ee710d91b76ce8a88410da462c2f3dc4e13645",
+          "generations": [
+            71
+          ],
+          "record": {
+            "wins": 4,
+            "losses": 0,
+            "draws": 0,
+            "games": 4,
+            "winRate": 1
+          }
+        }
+      ],
+      "thin": false,
+      "provisionalBasis": "16 qualified games vs 4 distinct opponents (declared panel of 4)",
+      "mcEvidence": {
+        "qualifiedGames": 16,
+        "qualifiedOpponents": 4,
+        "declaredPanel": 4,
+        "reference": {
+          "wins": 6,
+          "losses": 2,
+          "draws": 0,
+          "games": 8,
+          "winRate": 0.75
+        },
+        "rotating": {
+          "wins": 4,
+          "losses": 4,
+          "draws": 0,
+          "games": 8,
+          "winRate": 0.5
+        },
+        "referenceOpponents": 2,
+        "rotatingOpponents": 2,
+        "unsplitGames": 0,
+        "pooledComparable": false,
+        "unqualifiedGames": 0,
+        "incomplete": 0,
+        "generations": [
+          71
         ],
         "thin": false,
         "narrow": true,
@@ -165029,6 +167498,369 @@
         "incomplete": 0,
         "generations": [
           68
+        ],
+        "thin": false,
+        "narrow": true,
+        "thinReason": null
+      },
+      "elo": null,
+      "games": 16,
+      "player": "champions-incumbent-open-sheet-v1",
+      "informationMode": "open-sheet",
+      "lineageId": "7428a95979e17ef2c6d7a3de34e4fccde32f77870323f87fe6ce42685cf87e26"
+    },
+    {
+      "id": "g71-c4-59114d61",
+      "identity": "59114d61776d91d385d19efa93410908c1382b50df96a0e15a0a3d72c324b33f",
+      "searchKey": "7515686828b3b5e7",
+      "generation": 71,
+      "generations": [
+        71
+      ],
+      "candidateIds": [
+        "g71-c4-59114d61"
+      ],
+      "origin": "mc-unsteered",
+      "provisional": true,
+      "sets": [
+        {
+          "species": "Scrafty",
+          "battleForme": "Scrafty-Mega",
+          "nature": "Brave",
+          "sps": {
+            "hp": 32,
+            "atk": 32,
+            "spd": 2
+          },
+          "item": "scraftinite",
+          "ability": "moxie",
+          "moves": [
+            "fakeout",
+            "knockoff",
+            "drainpunch",
+            "beatup"
+          ]
+        },
+        {
+          "species": "Polteageist",
+          "battleForme": "Polteageist",
+          "item": "whiteherb",
+          "ability": "cursedbody",
+          "nature": "Modest",
+          "sps": {
+            "hp": 2,
+            "atk": 0,
+            "def": 0,
+            "spa": 32,
+            "spd": 0,
+            "spe": 32
+          },
+          "moves": [
+            "shadowball",
+            "shellsmash",
+            "storedpower",
+            "batonpass"
+          ]
+        },
+        {
+          "species": "Slowking",
+          "battleForme": "Slowking",
+          "item": "lifeorb",
+          "ability": "regenerator",
+          "nature": "Quiet",
+          "sps": {
+            "hp": 32,
+            "def": 32,
+            "spd": 2
+          },
+          "moves": [
+            "trickroom",
+            "scald",
+            "psychic",
+            "blizzard"
+          ]
+        },
+        {
+          "species": "Feraligatr",
+          "battleForme": "Feraligatr-Mega",
+          "item": "feraligite",
+          "ability": "sheerforce",
+          "nature": "Adamant",
+          "sps": {
+            "hp": 2,
+            "atk": 32,
+            "def": 0,
+            "spa": 0,
+            "spd": 0,
+            "spe": 32
+          },
+          "moves": [
+            "liquidation",
+            "protect",
+            "icepunch",
+            "aquajet"
+          ]
+        },
+        {
+          "species": "Golisopod",
+          "battleForme": "Golisopod-Mega",
+          "nature": "Adamant",
+          "sps": {
+            "hp": 32,
+            "atk": 32,
+            "def": 2
+          },
+          "item": "golisopite",
+          "ability": "emergencyexit",
+          "moves": [
+            "liquidation",
+            "firstimpression",
+            "gunkshot",
+            "protect"
+          ],
+          "meta": {
+            "usage": 0,
+            "auto": true
+          }
+        },
+        {
+          "species": "Chandelure",
+          "battleForme": "Chandelure-Mega",
+          "nature": "Quiet",
+          "sps": {
+            "hp": 32,
+            "def": 14,
+            "spa": 5,
+            "spd": 15
+          },
+          "item": "chandelurite",
+          "ability": "flashfire",
+          "moves": [
+            "heatwave",
+            "shadowball",
+            "protect",
+            "trickroom"
+          ]
+        }
+      ],
+      "paste": "Scrafty @ Scraftinite\nAbility: Moxie\nLevel: 50\nEVs: 32 HP / 32 Atk / 2 SpD\nBrave Nature\n- Fake Out\n- Knock Off\n- Drain Punch\n- Beat Up\n\nPolteageist @ White Herb\nAbility: Cursed Body\nLevel: 50\nEVs: 2 HP / 32 SpA / 32 Spe\nModest Nature\n- Shadow Ball\n- Shell Smash\n- Stored Power\n- Baton Pass\n\nSlowking @ Life Orb\nAbility: Regenerator\nLevel: 50\nEVs: 32 HP / 32 Def / 2 SpD\nQuiet Nature\n- Trick Room\n- Scald\n- Psychic\n- Blizzard\n\nFeraligatr @ Feraligite\nAbility: Sheer Force\nLevel: 50\nEVs: 2 HP / 32 Atk / 32 Spe\nAdamant Nature\n- Liquidation\n- Protect\n- Ice Punch\n- Aqua Jet\n\nGolisopod @ Golisopite\nAbility: Emergency Exit\nLevel: 50\nEVs: 32 HP / 32 Atk / 2 Def\nAdamant Nature\n- Liquidation\n- First Impression\n- Gunk Shot\n- Protect\n\nChandelure @ Chandelurite\nAbility: Flash Fire\nLevel: 50\nEVs: 32 HP / 14 Def / 5 SpA / 15 SpD\nQuiet Nature\n- Heat Wave\n- Shadow Ball\n- Protect\n- Trick Room",
+      "roster": [
+        "Scrafty",
+        "Polteageist",
+        "Slowking",
+        "Feraligatr",
+        "Golisopod",
+        "Chandelure"
+      ],
+      "formes": [
+        "Scrafty-Mega",
+        "Polteageist",
+        "Slowking",
+        "Feraligatr-Mega",
+        "Golisopod-Mega",
+        "Chandelure-Mega"
+      ],
+      "semanticHash": "a7b53673ba35628af0df030983cb670e61b674c78c14e4722cc57f1399fc7abc",
+      "record": {
+        "wins": 6,
+        "losses": 10,
+        "draws": 0,
+        "games": 16,
+        "winRate": 0.375
+      },
+      "diagnostics": {
+        "unqualifiedGames": 0,
+        "incomplete": 0,
+        "note": null
+      },
+      "opposition": {
+        "distinctOpponents": 4,
+        "opponentIds": [
+          "panel-0-reference-11eb1084902a0e641bb91a76b384590fbf88cac3647eed36f716962b2ac3fa72",
+          "panel-1-reference-mc-addition-a",
+          "panel-2-rotating-historical-256615",
+          "panel-3-rotating-survivor-dea178f4"
+        ],
+        "opponentHashes": [
+          "6d2c3fdf5fcbb1ba2a991a1a312529ec766de09f4b02516629ec649c453f2e0b",
+          "7d1f4902c00c7849184300a1ae37d19a93893665258d2a20e22feb520eb04cbd",
+          "fbaed72750f7da8c03a1e2d28b8f782349b67b02c7cb208cc3b93451be4ddadd",
+          "84d17a4ea16931c0c729a1a8d3ee710d91b76ce8a88410da462c2f3dc4e13645"
+        ],
+        "declaredPanel": 4,
+        "aliasedOpponentIds": [],
+        "opponentsWithUnqualifiedGamesOnly": 0,
+        "opponentsWithIncompleteAttemptsOnly": 0,
+        "frozenBeforeResults": true,
+        "basis": "distinctOpponents counts opponents supporting the QUALIFIED record, deduplicated by semantic team identity so aliases of one team count once; declaredPanel is the size of the declared training panel; the two \"...Only\" counts exclude opponents that also have qualified games"
+      },
+      "byRole": {
+        "reference": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0,
+          "games": 8,
+          "winRate": 0.625,
+          "generations": [
+            71
+          ],
+          "basis": "the fixed reference opponents, identical in every generation. The only record comparable across generations, and a narrow one."
+        },
+        "rotating": {
+          "wins": 1,
+          "losses": 7,
+          "draws": 0,
+          "games": 8,
+          "winRate": 0.125,
+          "basis": "rotating opponents, which differ between generations. Opposition-specific evidence: NOT comparable with another generation's rotating record, and never a ranking."
+        },
+        "unsplitGames": 0,
+        "unsplitBasis": null,
+        "reconciles": true,
+        "pooledComparable": false
+      },
+      "opponents": [
+        {
+          "ids": [
+            "panel-0-reference-11eb1084902a0e641bb91a76b384590fbf88cac3647eed36f716962b2ac3fa72"
+          ],
+          "role": "reference",
+          "source": "declared-fixture",
+          "archiveId": null,
+          "reference": true,
+          "roster": [
+            "Sinistcha",
+            "Incineroar",
+            "Garchomp",
+            "Whimsicott",
+            "Basculegion",
+            "Blaziken"
+          ],
+          "semanticHash": "6d2c3fdf5fcbb1ba2a991a1a312529ec766de09f4b02516629ec649c453f2e0b",
+          "generations": [
+            71
+          ],
+          "record": {
+            "wins": 1,
+            "losses": 3,
+            "draws": 0,
+            "games": 4,
+            "winRate": 0.25
+          }
+        },
+        {
+          "ids": [
+            "panel-1-reference-mc-addition-a"
+          ],
+          "role": "reference",
+          "source": "declared-fixture",
+          "archiveId": null,
+          "reference": true,
+          "roster": [
+            "Wigglytuff",
+            "Salamence",
+            "Persian-Alola",
+            "Farfetch’d",
+            "Mr. Mime",
+            "Swalot"
+          ],
+          "semanticHash": "7d1f4902c00c7849184300a1ae37d19a93893665258d2a20e22feb520eb04cbd",
+          "generations": [
+            71
+          ],
+          "record": {
+            "wins": 4,
+            "losses": 0,
+            "draws": 0,
+            "games": 4,
+            "winRate": 1
+          }
+        },
+        {
+          "ids": [
+            "panel-2-rotating-historical-256615"
+          ],
+          "role": "rotating-historical",
+          "source": "revalidated-historical",
+          "archiveId": 256615,
+          "reference": false,
+          "roster": [
+            "Archaludon",
+            "Pelipper",
+            "Swampert",
+            "Grimmsnarl",
+            "Sinistcha",
+            "Basculegion"
+          ],
+          "semanticHash": "fbaed72750f7da8c03a1e2d28b8f782349b67b02c7cb208cc3b93451be4ddadd",
+          "generations": [
+            71
+          ],
+          "record": {
+            "wins": 0,
+            "losses": 4,
+            "draws": 0,
+            "games": 4,
+            "winRate": 0
+          }
+        },
+        {
+          "ids": [
+            "panel-3-rotating-survivor-dea178f4"
+          ],
+          "role": "rotating-survivor",
+          "source": "mc-survivor",
+          "archiveId": null,
+          "reference": false,
+          "roster": [
+            "Musharna",
+            "Araquanid",
+            "Toxicroak",
+            "Gholdengo",
+            "Chesnaught",
+            "Skarmory"
+          ],
+          "semanticHash": "84d17a4ea16931c0c729a1a8d3ee710d91b76ce8a88410da462c2f3dc4e13645",
+          "generations": [
+            71
+          ],
+          "record": {
+            "wins": 1,
+            "losses": 3,
+            "draws": 0,
+            "games": 4,
+            "winRate": 0.25
+          }
+        }
+      ],
+      "thin": false,
+      "provisionalBasis": "16 qualified games vs 4 distinct opponents (declared panel of 4)",
+      "mcEvidence": {
+        "qualifiedGames": 16,
+        "qualifiedOpponents": 4,
+        "declaredPanel": 4,
+        "reference": {
+          "wins": 5,
+          "losses": 3,
+          "draws": 0,
+          "games": 8,
+          "winRate": 0.625
+        },
+        "rotating": {
+          "wins": 1,
+          "losses": 7,
+          "draws": 0,
+          "games": 8,
+          "winRate": 0.125
+        },
+        "referenceOpponents": 2,
+        "rotatingOpponents": 2,
+        "unsplitGames": 0,
+        "pooledComparable": false,
+        "unqualifiedGames": 0,
+        "incomplete": 0,
+        "generations": [
+          71
         ],
         "thin": false,
         "narrow": true,
