@@ -2,12 +2,12 @@
   "schema": "champions-mc-page-provenance/v0",
   "source": "committed generation index",
   "generationIndex": "mc-generations/index.json",
-  "lastCommittedGeneration": 229,
-  "committedGenerations": 226,
+  "lastCommittedGeneration": 230,
+  "committedGenerations": 227,
   "lineageId": "7428a95979e17ef2c6d7a3de34e4fccde32f77870323f87fe6ce42685cf87e26",
   "learningPolicy": "mc-bounded-memory/v1",
-  "commitDigest": "7b508ce398e28605c99046d9f2b4a212008e2bd167b3254db97681997cbf5f79",
-  "checkpointDigest": "11eecc02b875ed1eb9e8c68359a064dd4aa78bba5ca72d063b350f7580eca849",
+  "commitDigest": "c962052d88523d0b59744e58c1daccbd81f3a6a3b68420d36001ed642feb7400",
+  "checkpointDigest": "6839de6bfb343681e2ebad82e17213d19b233470768e55e28d4104192fb450b4",
   "policyViewDigest": null,
   "generations": [
     {
@@ -1591,10 +1591,17 @@
       "games": 80,
       "qualified": 80,
       "committedAt": "2026-09-15T05:33:56.057Z"
+    },
+    {
+      "generation": 230,
+      "bundle": "generation-230",
+      "games": 80,
+      "qualified": 80,
+      "committedAt": "2026-09-15T05:35:43.706Z"
     }
   ],
   "startedAt": "2026-09-14T20:53:05.476Z",
-  "finishedAt": "2026-09-15T05:33:56.057Z",
-  "pageSha256": "04faa9821c649f53dcc15bb53efbe7e8979ac89396bea49eaa2cd884f49024a0",
+  "finishedAt": "2026-09-15T05:35:43.706Z",
+  "pageSha256": "1a8f26115ec4aa9c3d1b1af79bf876c6da130bf7ea44d251ac6d7a90ab3ed148",
   "meaning": "the page in this directory was rendered from the cycle record named above; a page whose provenance does not name the run it is published beside is the wrong artifact (review 109)"
 }
