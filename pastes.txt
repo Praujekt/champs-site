@@ -13662,7 +13662,7 @@ Adamant Nature
 - Close Combat
 - Rock Slide
 
-# g1030-c4-8dcec461 · 13W-3L-0D vs 4 declared opponents · identity 8dcec461cb55cb2ca3f8df42e45daf04cd2473c779613d4afb05c3449492d1b1
+# g1030-c4-8dcec461 · 23W-13L-0D vs 9 declared opponents · identity 8dcec461cb55cb2ca3f8df42e45daf04cd2473c779613d4afb05c3449492d1b1
 Malamar @ Expert Belt
 Ability: Contrary
 Level: 50
@@ -55935,6 +55935,67 @@ Adamant Nature
 - Shell Smash
 - Headlong Rush
 
+# g1031-c3-e0f59b6e · 11W-5L-0D vs 4 declared opponents · identity e0f59b6eae078989951b378b7cd89e0c197aef3e6717ee87c991df2700755154
+Skarmory @ Skarmorite
+Ability: Sturdy
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Iron Head
+- Brave Bird
+- Protect
+- Tailwind
+
+Samurott-Hisui @ Expert Belt
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Sacred Sword
+- Taunt
+- Aqua Cutter
+- Sucker Punch
+
+Hydreigon @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dark Pulse
+- Draco Meteor
+- Earth Power
+- Protect
+
+Mudsdale @ Sitrus Berry
+Ability: Inner Focus
+Level: 50
+EVs: 31 HP / 32 Atk / 3 SpD
+Brave Nature
+- Protect
+- Heavy Slam
+- Earthquake
+- Curse
+
+Gliscor @ Life Orb
+Ability: Hyper Cutter
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Tailwind
+- Earthquake
+- Protect
+- Dual Wingbeat
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Tailwind
+- Protect
+- Flare Blitz
+- Dual Wingbeat
+
 # g1001-c2-2e547f8e · 13W-3L-0D vs 4 declared opponents · identity 2e547f8ef149b46ef297fcc33ff3b93d4e1459325021ec4f31e62d8d4f9048dc
 Swampert @ Swampertite
 Ability: Torrent
@@ -56117,67 +56178,6 @@ Modest Nature
 - Earth Power
 - Spiky Shield
 - Sludge Bomb
-
-# g6-c2-205d881f · 27W-5L-0D vs 6 declared opponents · identity 205d881f90bf7f5367678e98d0b0a3b2729435d858150a4fe674bdba2c981494
-Pelipper @ Focus Sash
-Ability: Drizzle
-Level: 50
-EVs: 2 HP / 32 SpA / 32 Spe
-Modest Nature
-- Surf
-- Weather Ball
-- Tailwind
-- Wide Guard
-
-Delphox @ Life Orb
-Ability: Blaze
-Level: 50
-EVs: 2 HP / 32 SpA / 32 Spe
-Timid Nature
-- Overheat
-- Psychic
-- Foul Play
-- Protect
-
-Skarmory @ Skarmorite
-Ability: Sturdy
-Level: 50
-EVs: 28 HP / 32 Def / 6 Spe
-Impish Nature
-- Body Press
-- Tailwind
-- Brave Bird
-- Whirlwind
-
-Baxcalibur @ Baxcalibrite
-Ability: Thermal Exchange
-Level: 50
-EVs: 2 HP / 32 Atk / 32 Spe
-Jolly Nature
-- Glaive Rush
-- Icicle Crash
-- High Horsepower
-- Protect
-
-Swampert @ Swampertite
-Ability: Torrent
-Level: 50
-EVs: 17 HP / 32 Atk / 17 Spe
-Adamant Nature
-- Protect
-- Wave Crash
-- Earthquake
-- Ice Punch
-
-Scrafty @ Scraftinite
-Ability: Intimidate
-Level: 50
-EVs: 32 HP / 32 Atk / 2 SpD
-Adamant Nature
-- Knock Off
-- Fake Out
-- Drain Punch
-- Close Combat
 
 # g535-c1-2d4838fc · 10W-6L-0D vs 4 declared opponents · identity 2d4838fc6a6a05082f60ce7834231f65e3bc1bfb4a014cdc8b4a22f83098eb8d
 Emboar @ Iron Ball
@@ -83446,6 +83446,67 @@ Timid Nature
 - Heat Wave
 - Overheat
 
+# g6-c2-205d881f · 39W-9L-0D vs 8 declared opponents · identity 205d881f90bf7f5367678e98d0b0a3b2729435d858150a4fe674bdba2c981494
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Surf
+- Weather Ball
+- Tailwind
+- Wide Guard
+
+Delphox @ Life Orb
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Overheat
+- Psychic
+- Foul Play
+- Protect
+
+Skarmory @ Skarmorite
+Ability: Sturdy
+Level: 50
+EVs: 28 HP / 32 Def / 6 Spe
+Impish Nature
+- Body Press
+- Tailwind
+- Brave Bird
+- Whirlwind
+
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Glaive Rush
+- Icicle Crash
+- High Horsepower
+- Protect
+
+Swampert @ Swampertite
+Ability: Torrent
+Level: 50
+EVs: 17 HP / 32 Atk / 17 Spe
+Adamant Nature
+- Protect
+- Wave Crash
+- Earthquake
+- Ice Punch
+
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Knock Off
+- Fake Out
+- Drain Punch
+- Close Combat
+
 # g123-c3-322f28b2 · 23W-9L-0D vs 6 declared opponents · identity 322f28b2c7e4d5cca7ff87019f7a3c4018a4a99021b7c3074c50f6b225ba636b
 Cinderace @ Life Orb
 Ability: Libero
@@ -101070,6 +101131,67 @@ Adamant Nature
 - Rock Slide
 - Accelerock
 - Close Combat
+- Protect
+
+# g1031-c1-69462c7b · 10W-6L-0D vs 4 declared opponents · identity 69462c7b79e0d0ace047edf83cd2fda82367b8b08ba672117f68f104e9aed07a
+Swampert @ Swampertite
+Ability: Damp
+Level: 50
+EVs: 17 HP / 32 Atk / 17 Spe
+Adamant Nature
+- Protect
+- Wave Crash
+- Earthquake
+- Ice Punch
+
+Malamar @ Malamarite
+Ability: Contrary
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Superpower
+- Knock Off
+- Protect
+- Trick Room
+
+Skarmory @ Sitrus Berry
+Ability: Sturdy
+Level: 50
+EVs: 28 HP / 32 Def / 6 Spe
+Impish Nature
+- Body Press
+- Tailwind
+- Brave Bird
+- Whirlwind
+
+Salamence @ Salamencite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Outrage
+- Fire Blast
+- Iron Head
+- Protect
+
+Sharpedo @ Life Orb
+Ability: Speed Boost
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Liquidation
+- Close Combat
+- Crunch
+- Protect
+
+Cinderace @ Muscle Band
+Ability: Libero
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Flare Blitz
+- Acrobatics
+- High Jump Kick
 - Protect
 
 # g988-c1-1d91e4d5 · 11W-5L-0D vs 4 declared opponents · identity 1d91e4d52d98de1d820534aa240166539d7b3ae78e79b590e00773de56a3a93f
@@ -149871,6 +149993,67 @@ Adamant Nature
 - Storm Throw
 - Bullet Punch
 - Quick Guard
+
+# g1031-c2-a5e924d8 · 7W-9L-0D vs 4 declared opponents · identity a5e924d8cd09cd793751fe97b72caae07708afa27e64a3a5e36c1153d20ab9ac
+Gallade @ Focus Sash
+Ability: Sharpness
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Sacred Sword
+- Psycho Cut
+- Leaf Blade
+- Trick Room
+
+Vivillon @ Life Orb
+Ability: Compound Eyes
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Rage Powder
+- Sleep Powder
+- Hurricane
+- Protect
+
+Armarouge @ Sitrus Berry
+Ability: Flash Fire
+Level: 50
+EVs: 7 HP / 21 Def / 32 SpA / 6 Spe
+Modest Nature
+- Wide Guard
+- Armor Cannon
+- Psychic
+- Protect
+
+Quaquaval @ Choice Scarf
+Ability: Moxie
+Level: 50
+EVs: 1 HP / 32 Atk / 1 SpD / 32 Spe
+Jolly Nature
+- Close Combat
+- Aqua Step
+- Protect
+- Detect
+
+Appletun @ Expert Belt
+Ability: Thick Fat
+Level: 50
+EVs: 29 HP / 17 Def / 20 SpD
+Sassy Nature
+- Protect
+- Apple Acid
+- Recover
+- Leech Seed
+
+Steelix @ Steelixite
+Ability: Rock Head
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Protect
+- Heavy Slam
+- High Horsepower
+- Wide Guard
 
 # g861-c1-964b4017 · 23W-13L-0D vs 9 declared opponents · identity 964b40171d0232df42a8531a5140dc96f4937e080fb94e23de2e4ebf1c9b0c78
 Swampert @ Swampertite
@@ -258207,6 +258390,67 @@ Modest Nature
 - Rage Powder
 - Flamethrower
 - Overheat
+
+# g1031-c4-aff0bf7d · 6W-10L-0D vs 4 declared opponents · identity aff0bf7d6f9c566ddb4e16275e78221f6b7fb21ee5545279fe42fe853dac7352
+Hippowdon @ Sitrus Berry
+Ability: Sand Stream
+Level: 50
+EVs: 32 HP / 8 Atk / 2 Def / 24 SpD
+Brave Nature
+- Protect
+- Slack Off
+- High Horsepower
+- Earthquake
+
+Typhlosion-Hisui @ Choice Scarf
+Ability: Frisk
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Eruption
+- Shadow Ball
+- Heat Wave
+- Overheat
+
+Orthworm @ Leftovers
+Ability: Earth Eater
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Impish Nature
+- Body Press
+- Shed Tail
+- Heavy Slam
+- Protect
+
+Skarmory @ Skarmorite
+Ability: Keen Eye
+Level: 50
+EVs: 32 HP / 11 Atk / 5 Def / 15 SpD / 3 Spe
+Adamant Nature
+- Brave Bird
+- Roost
+- Iron Head
+- Tailwind
+
+Hydreigon @ Wise Glasses
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Calm Nature
+- Draco Meteor
+- Dark Pulse
+- Snarl
+- Earth Power
+
+Flareon @ Charcoal
+Ability: Flash Fire
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Flare Blitz
+- Superpower
+- Quick Attack
+- Bite
 
 # g538-c2-74075939 · 5W-11L-0D vs 4 declared opponents · identity 74075939fcfadea0ba812c8de5b1f35d74d7ac181af4fbd61dd4a6347f486598
 Tauros-Paldea-Blaze @ Sitrus Berry
