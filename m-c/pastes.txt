@@ -3109,7 +3109,7 @@ Timid Nature
 - Overheat
 - Will-O-Wisp
 
-# g127-c1-4eb7c4b2 · 24W-8L-0D vs 6 declared opponents · identity 4eb7c4b2c9a532eb0cefa612e10969dd77ac06b209e715f43112090274fa2ca6
+# g127-c1-4eb7c4b2 · 33W-19L-0D vs 11 declared opponents · identity 4eb7c4b2c9a532eb0cefa612e10969dd77ac06b209e715f43112090274fa2ca6
 Emboar @ Sitrus Berry
 Ability: Reckless
 Level: 50
@@ -38001,6 +38001,67 @@ Relaxed Nature
 - Detect
 - Yawn
 
+# g778-c1-0467c000 · 14W-2L-0D vs 4 declared opponents · identity 0467c000ffcc7fcda7660a441eba0b26afae5290bb65e5c927b88b7b5fceca1e
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Dazzling Gleam
+- Trick Room
+- Protect
+- Psychic
+
+Sharpedo @ Sharpedonite
+Ability: Rough Skin
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Crunch
+- Protect
+- Ice Fang
+- Close Combat
+
+Pelipper @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hurricane
+- Weather Ball
+- Tailwind
+- Wide Guard
+
+Swampert @ Swampertite
+Ability: Torrent
+Level: 50
+EVs: 17 HP / 32 Atk / 17 Spe
+Adamant Nature
+- Protect
+- Wave Crash
+- Earthquake
+- Ice Punch
+
+Heracross @ Heracronite
+Ability: Swarm
+Level: 50
+EVs: 32 HP / 18 Atk / 16 SpD
+Adamant Nature
+- Close Combat
+- Pin Missile
+- Rock Blast
+- Detect
+
+Simisage @ Expert Belt
+Ability: Overgrow
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Fake Out
+- Rock Slide
+- Protect
+- Seed Bomb
+
 # g739-c4-edb31834 · 12W-4L-0D vs 4 declared opponents · identity edb3183412aa55d8e319401e0c3343a0200e16f0e970ea1be87ebe0ddf29e18c
 Aggron @ Aggronite
 Ability: Sturdy
@@ -58863,67 +58924,6 @@ Adamant Nature
 - Liquidation
 - Icicle Crash
 
-# g127-c0-7a430c1c · 9W-7L-0D vs 4 declared opponents · identity 7a430c1c081a3e1c79c797ef80c275ba76d4af5c830c8b5842d48fe0c88974e8
-Gliscor @ Sitrus Berry
-Ability: Hyper Cutter
-Level: 50
-EVs: 2 HP / 32 Atk / 32 Spe
-Adamant Nature
-- Tailwind
-- Earthquake
-- Protect
-- Dual Wingbeat
-
-Samurott-Hisui @ Choice Scarf
-Ability: Sharpness
-Level: 50
-EVs: 2 HP / 32 Atk / 32 Spe
-Jolly Nature
-- Sacred Sword
-- Night Slash
-- Sucker Punch
-- Aqua Cutter
-
-Gyarados @ Gyaradosite
-Ability: Intimidate
-Level: 50
-EVs: 2 HP / 32 Atk / 32 Spe
-Adamant Nature
-- Waterfall
-- Dragon Dance
-- Thrash
-- Crunch
-
-Skarmory @ Skarmorite
-Ability: Sturdy
-Level: 50
-EVs: 2 HP / 32 Atk / 32 Spe
-Adamant Nature
-- Iron Head
-- Brave Bird
-- Protect
-- Tailwind
-
-Gardevoir @ Life Orb
-Ability: Telepathy
-Level: 50
-EVs: 2 HP / 32 SpA / 32 Spe
-Modest Nature
-- Dazzling Gleam
-- Moonblast
-- Psychic
-- Icy Wind
-
-Hawlucha @ White Herb
-Ability: Unburden
-Level: 50
-EVs: 2 HP / 32 Atk / 32 Spe
-Adamant Nature
-- Close Combat
-- Acrobatics
-- Protect
-- Coaching
-
 # g693-c2-afc0698d · 17W-19L-0D vs 9 declared opponents · identity afc0698d0e2d646f1fae9ae64646572d2461663c32bdb941498888aff50ef200
 Ampharos @ Ampharosite
 Ability: Static
@@ -64840,6 +64840,67 @@ Timid Nature
 - Psychic
 - Foul Play
 - Protect
+
+# g127-c0-7a430c1c · 21W-11L-0D vs 6 declared opponents · identity 7a430c1c081a3e1c79c797ef80c275ba76d4af5c830c8b5842d48fe0c88974e8
+Gliscor @ Sitrus Berry
+Ability: Hyper Cutter
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Tailwind
+- Earthquake
+- Protect
+- Dual Wingbeat
+
+Samurott-Hisui @ Choice Scarf
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Sacred Sword
+- Night Slash
+- Sucker Punch
+- Aqua Cutter
+
+Gyarados @ Gyaradosite
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Waterfall
+- Dragon Dance
+- Thrash
+- Crunch
+
+Skarmory @ Skarmorite
+Ability: Sturdy
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Iron Head
+- Brave Bird
+- Protect
+- Tailwind
+
+Gardevoir @ Life Orb
+Ability: Telepathy
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dazzling Gleam
+- Moonblast
+- Psychic
+- Icy Wind
+
+Hawlucha @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Acrobatics
+- Protect
+- Coaching
 
 # g77-c3-48e6cc57 · 34W-18L-0D vs 11 declared opponents · identity 48e6cc576b0e2c84fa70e28c705e9b2dd680df4423fc74e0c93eb4cc75a4e42b
 Pyroar @ Pyroarite
@@ -102902,6 +102963,67 @@ Bold Nature
 - Overheat
 - Fake Tears
 
+# g778-c3-5dfa74ac · 7W-9L-0D vs 4 declared opponents · identity 5dfa74acee288709403e040ff1bf3043a4accfe879eb7ab2297adf2ed534304b
+Houndoom @ Houndoominite
+Ability: Flash Fire
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Heat Wave
+- Protect
+- Dark Pulse
+- Overheat
+
+Dragalge @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Sludge Bomb
+- Protect
+- Draco Meteor
+- Dragon Pulse
+
+Hawlucha @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Acrobatics
+- Protect
+- Coaching
+
+Serperior @ Sitrus Berry
+Ability: Contrary
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Leaf Storm
+- Glare
+- Reflect
+- Light Screen
+
+Diggersby @ Choice Scarf
+Ability: Huge Power
+Level: 50
+EVs: 2 HP / 31 Atk / 1 SpD / 32 Spe
+Adamant Nature
+- Earthquake
+- Ice Punch
+- High Horsepower
+- Rock Slide
+
+Musharna @ Wise Glasses
+Ability: Telepathy
+Level: 50
+EVs: 32 HP / 32 Def / 2 SpD
+Quiet Nature
+- Trick Room
+- Psychic
+- Moonblast
+- Expanding Force
+
 # g11-c2-db3a7ef2 · 33W-19L-0D vs 11 declared opponents · identity db3a7ef27ab3c46f9444591cbcea2c7739be05cf7284a85f00a3798c2246929e
 Baxcalibur @ Choice Scarf
 Ability: Thermal Exchange
@@ -112661,6 +112783,67 @@ Jolly Nature
 - Night Slash
 - Sucker Punch
 - Aqua Cutter
+
+# g778-c2-5716287f · 11W-5L-0D vs 4 declared opponents · identity 5716287fe1ed0a8955f0d3391b8738d9aa07c08187972066b5baaaa10a9c6960
+Delphox @ Life Orb
+Ability: Blaze
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Overheat
+- Psychic
+- Foul Play
+- Protect
+
+Swampert @ Muscle Band
+Ability: Torrent
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Protect
+- Wave Crash
+- Earthquake
+- Ice Punch
+
+Decidueye @ Focus Sash
+Ability: Overgrow
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Adamant Nature
+- Protect
+- Spirit Shackle
+- Leaf Blade
+- Tailwind
+
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Fake Out
+- Knock Off
+- Drain Punch
+- Close Combat
+
+Samurott @ Wise Glasses
+Ability: Torrent
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Modest Nature
+- Hydro Pump
+- Encore
+- Knock Off
+- Protect
+
+Glimmora @ Sitrus Berry
+Ability: Toxic Debris
+Level: 50
+EVs: 1 HP / 1 Def / 32 SpA / 32 Spe
+Timid Nature
+- Power Gem
+- Earth Power
+- Spiky Shield
+- Sludge Bomb
 
 # g267-c4-59a58350 · 8W-8L-0D vs 4 declared opponents · identity 59a58350230e92a4191e5933358bc97d933c78e9323f6a84f0d5fe851d7265fb
 Malamar @ Malamarite
@@ -157374,6 +157557,67 @@ Relaxed Nature
 - Shed Tail
 - Heavy Slam
 - Helping Hand
+
+# g778-c4-d0463260 · 8W-8L-0D vs 4 declared opponents · identity d0463260f49e48aed0098a867d5f2db48b08a7a370001a995aa44ecbb0932902
+Golurk @ Golurkite
+Ability: Iron Fist
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Headlong Rush
+- Protect
+- Poltergeist
+- Ice Punch
+
+Gliscor @ Life Orb
+Ability: Hyper Cutter
+Level: 50
+EVs: 1 HP / 32 Atk / 1 SpD / 32 Spe
+Jolly Nature
+- Dual Wingbeat
+- High Horsepower
+- Tailwind
+- Feint
+
+Rotom-Heat @ Choice Scarf
+Ability: Levitate
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Overheat
+- Volt Switch
+- Thunderbolt
+- Discharge
+
+Samurott-Hisui @ Muscle Band
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Sacred Sword
+- Snowscape
+- Aqua Cutter
+- Sucker Punch
+
+Hawlucha @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Dual Wingbeat
+- Protect
+- Coaching
+
+Krookodile @ Expert Belt
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Knock Off
+- Thunder Fang
+- Rock Slide
+- Earthquake
 
 # g539-c4-e3f063e2 · 11W-5L-0D vs 4 declared opponents · identity e3f063e20d9d250f7fc92dc7a39294141733a328fe06af86f97030063257bdc1
 Orthworm @ Sitrus Berry
