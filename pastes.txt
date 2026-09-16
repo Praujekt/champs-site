@@ -20921,67 +20921,6 @@ Impish Nature
 - Brave Bird
 - Whirlwind
 
-# g109-c1-1e4186d3 · 11W-5L-0D vs 4 declared opponents · identity 1e4186d323efef63619b096bd95cc72fac006a30ffaf24440a3e79be0ad42281
-Salazzle @ Focus Sash
-Ability: Oblivious
-Level: 50
-EVs: 2 HP / 32 SpA / 32 Spe
-Timid Nature
-- Fake Out
-- Sludge Bomb
-- Overheat
-- Will-O-Wisp
-
-Gyarados @ Expert Belt
-Ability: Intimidate
-Level: 50
-EVs: 18 HP / 16 Atk / 9 SpD / 23 Spe
-Adamant Nature
-- Waterfall
-- Protect
-- Thunder Wave
-- Ice Fang
-
-Samurott-Hisui @ Muscle Band
-Ability: Sharpness
-Level: 50
-EVs: 2 HP / 32 Atk / 32 Spe
-Adamant Nature
-- Sacred Sword
-- Ceaseless Edge
-- Aqua Cutter
-- Sucker Punch
-
-Gliscor @ Sitrus Berry
-Ability: Hyper Cutter
-Level: 50
-EVs: 2 HP / 32 Atk / 32 Spe
-Adamant Nature
-- Tailwind
-- Earthquake
-- Protect
-- Dual Wingbeat
-
-Golisopod @ Golisopite
-Ability: Emergency Exit
-Level: 50
-EVs: 32 HP / 32 Atk / 2 Def
-Adamant Nature
-- Liquidation
-- First Impression
-- Gunk Shot
-- Protect
-
-Hawlucha @ White Herb
-Ability: Unburden
-Level: 50
-EVs: 2 HP / 32 Atk / 32 Spe
-Jolly Nature
-- Close Combat
-- Acrobatics
-- Protect
-- Coaching
-
 # g219-c1-c00fccf3 · 9W-7L-0D vs 4 declared opponents · identity c00fccf33e2a0d3299d84398d04b775d0cb75b3a0fa0bb53a4b780ba540dc756
 Gliscor @ Sitrus Berry
 Ability: Hyper Cutter
@@ -25251,6 +25190,67 @@ Jolly Nature
 - Night Slash
 - Sucker Punch
 - Aqua Cutter
+
+# g686-c3-9c85c809 · 16W-0L-0D vs 4 declared opponents · identity 9c85c8092fb328698e8211eee956b12b92a3f259724c320c3b32e6783aea8001
+Froslass @ Froslassite
+Ability: Cursed Body
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Blizzard
+- Shadow Ball
+- Protect
+- Aurora Veil
+
+Beartic @ Life Orb
+Ability: Slush Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Icicle Crash
+- Protect
+- Close Combat
+- Rock Slide
+
+Flareon @ Charcoal
+Ability: Flash Fire
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Flare Blitz
+- Superpower
+- Quick Attack
+- Detect
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Tailwind
+- Flare Blitz
+- Protect
+- Brave Bird
+
+Samurott-Hisui @ Choice Scarf
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Sacred Sword
+- Night Slash
+- Sucker Punch
+- Aqua Cutter
+
+Malamar @ Expert Belt
+Ability: Contrary
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Superpower
+- Trick Room
+- Knock Off
+- Protect
 
 # g616-c4-1d00a6ca · 12W-4L-0D vs 4 declared opponents · identity 1d00a6cad4417869376598f1befe8949add47b56805b70143386463f0b694651
 Emboar @ Emboarite
@@ -50689,6 +50689,67 @@ Modest Nature
 - Light Screen
 - Earthquake
 
+# g686-c4-cb2398c8 · 12W-4L-0D vs 4 declared opponents · identity cb2398c8bf9070b6e000c42208fab55d432fc1e5d8ad07d057193ecb59aad34a
+Dragonite @ Dragoninite
+Ability: Multiscale
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dragon Pulse
+- Water Pulse
+- Heat Wave
+- Tailwind
+
+Mudsdale @ Sitrus Berry
+Ability: Inner Focus
+Level: 50
+EVs: 31 HP / 32 Atk / 3 SpD
+Brave Nature
+- Protect
+- Heavy Slam
+- Earthquake
+- High Horsepower
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Level: 50
+EVs: 32 HP / 5 Def / 26 SpD / 3 Spe
+Impish Nature
+- Brave Bird
+- Tailwind
+- Iron Head
+- Protect
+
+Golisopod @ Life Orb
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Liquidation
+- First Impression
+- Gunk Shot
+- Protect
+
+Salazzle @ Focus Sash
+Ability: Oblivious
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Fake Out
+- Sludge Bomb
+- Overheat
+- Will-O-Wisp
+
+Hawlucha @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Close Combat
+- Acrobatics
+- Protect
+- Coaching
+
 # g469-c4-c3406e12 · 12W-4L-0D vs 4 declared opponents · identity c3406e1293014a4bf0badefc7ab29c66b65b3f7cb5293a8bc18066d17083cc73
 Delphox @ Life Orb
 Ability: Blaze
@@ -54653,6 +54714,67 @@ Jolly Nature
 - Protect
 - Brave Bird
 - Tailwind
+
+# g109-c1-1e4186d3 · 19W-13L-0D vs 6 declared opponents · identity 1e4186d323efef63619b096bd95cc72fac006a30ffaf24440a3e79be0ad42281
+Salazzle @ Focus Sash
+Ability: Oblivious
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Fake Out
+- Sludge Bomb
+- Overheat
+- Will-O-Wisp
+
+Gyarados @ Expert Belt
+Ability: Intimidate
+Level: 50
+EVs: 18 HP / 16 Atk / 9 SpD / 23 Spe
+Adamant Nature
+- Waterfall
+- Protect
+- Thunder Wave
+- Ice Fang
+
+Samurott-Hisui @ Muscle Band
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Sacred Sword
+- Ceaseless Edge
+- Aqua Cutter
+- Sucker Punch
+
+Gliscor @ Sitrus Berry
+Ability: Hyper Cutter
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Tailwind
+- Earthquake
+- Protect
+- Dual Wingbeat
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Liquidation
+- First Impression
+- Gunk Shot
+- Protect
+
+Hawlucha @ White Herb
+Ability: Unburden
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Acrobatics
+- Protect
+- Coaching
 
 # g93-c2-6d2f0aef · 35W-17L-0D vs 11 declared opponents · identity 6d2f0aef2754136f562b847d60e3f46c6e507407f72b6110a81894dbe1a8a3b2
 Froslass @ Froslassite
@@ -62400,6 +62522,67 @@ Impish Nature
 - Tailwind
 - Brave Bird
 - Whirlwind
+
+# g686-c2-ae8d16d3 · 10W-6L-0D vs 4 declared opponents · identity ae8d16d3f5e9e0537f2e5b8db4663b11f79992d59bf69b20a6d8df14c0c6133e
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Thunder Fang
+- Icicle Crash
+- Bulldoze
+- Snowscape
+
+Heliolisk @ Choice Scarf
+Ability: Dry Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Thunderbolt
+- Hyper Voice
+- Shed Tail
+- Volt Switch
+
+Annihilape @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 32 Atk / 1 Def / 1 SpD / 32 Spe
+Jolly Nature
+- Drain Punch
+- Close Combat
+- Rage Fist
+- Phantom Force
+
+Mudsdale @ Muscle Band
+Ability: Inner Focus
+Level: 50
+EVs: 31 HP / 32 Atk / 3 SpD
+Brave Nature
+- Double-Edge
+- Heavy Slam
+- Earthquake
+- Curse
+
+Skarmory @ Sitrus Berry
+Ability: Sturdy
+Level: 50
+EVs: 28 HP / 32 Def / 6 Spe
+Impish Nature
+- Body Press
+- Tailwind
+- Brave Bird
+- Whirlwind
+
+Malamar @ Malamarite
+Ability: Contrary
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpD
+Sassy Nature
+- Superpower
+- Light Screen
+- Zen Headbutt
+- Baton Pass
 
 # g682-c2-cfbd59b1 · 14W-2L-0D vs 4 declared opponents · identity cfbd59b1a0b93a34f6d20d23c78bec54c49bcd9852dfa76f07a075fbb25a8404
 Houndoom @ Houndoominite
@@ -106867,7 +107050,7 @@ Jolly Nature
 - Brave Bird
 - Roost
 
-# g109-c3-6e77ff78 · 32W-20L-0D vs 11 declared opponents · identity 6e77ff7857e8214f0c6c394e3060d2568b0edc1caf2bfd9e4c363c1644bfedef
+# g109-c3-6e77ff78 · 45W-27L-0D vs 16 declared opponents · identity 6e77ff7857e8214f0c6c394e3060d2568b0edc1caf2bfd9e4c363c1644bfedef
 Garbodor @ Life Orb
 Ability: Aftermath
 Level: 50
@@ -155178,6 +155361,67 @@ Jolly Nature
 - Brave Bird
 - High Jump Kick
 - Close Combat
+
+# g686-c1-44cb6117 · 5W-11L-0D vs 4 declared opponents · identity 44cb611760b386e26bb038a9d0bca28d72c416fb27dd73903017f663ebb517ec
+Baxcalibur @ Baxcalibrite
+Ability: Thermal Exchange
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Glaive Rush
+- Icicle Crash
+- High Horsepower
+- Protect
+
+Armarouge @ Choice Scarf
+Ability: Flash Fire
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Armor Cannon
+- Wide Guard
+- Psychic
+- Trick Room
+
+Leafeon @ Miracle Seed
+Ability: Chlorophyll
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Leaf Blade
+- Solar Blade
+- Knock Off
+- Detect
+
+Aegislash @ Life Orb
+Ability: Stance Change
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- King's Shield
+- Poltergeist
+- Shadow Sneak
+- Iron Head
+
+Floette-Eternal @ Wise Glasses
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dazzling Gleam
+- Light of Ruin
+- Moonblast
+- Wish
+
+Ninetales @ Sitrus Berry
+Ability: Drought
+Level: 50
+EVs: 1 Def / 32 SpA / 1 SpD / 32 Spe
+Modest Nature
+- Solar Beam
+- Heat Wave
+- Overheat
+- Fake Tears
 
 # g27-c0-1817bc75 · 24W-8L-0D vs 6 declared opponents · identity 1817bc75fc609844acf5412f0479814a210c21fe89a33aff64f88210fabbf87e
 Golisopod @ Golisopite
