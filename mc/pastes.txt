@@ -30437,6 +30437,67 @@ Modest Nature
 - Earth Power
 - Leaf Storm
 
+# g1120-c3-cc932997 · 12W-4L-0D vs 4 declared opponents · identity cc932997dff3746faa714c503009b7364a4b658dfa523ccdff56e4a7d191dfcf
+Dragonite @ Dragoninite
+Ability: Multiscale
+Level: 50
+EVs: 29 HP / 2 Def / 32 SpA / 3 Spe
+Modest Nature
+- Flamethrower
+- Dragon Pulse
+- Hurricane
+- Superpower
+
+Floette-Eternal @ Choice Scarf
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Calm Nature
+- Wish
+- Light of Ruin
+- Moonblast
+- Psychic
+
+Malamar @ Malamarite
+Ability: Contrary
+Level: 50
+EVs: 32 HP / 29 Atk / 2 Def / 3 Spe
+Adamant Nature
+- Superpower
+- Protect
+- Knock Off
+- Psycho Cut
+
+Serperior @ Sitrus Berry
+Ability: Contrary
+Level: 50
+EVs: 32 HP / 5 Def / 1 SpA / 2 SpD / 26 Spe
+Timid Nature
+- Leaf Storm
+- Glare
+- Reflect
+- Light Screen
+
+Gyarados @ Expert Belt
+Ability: Moxie
+Level: 50
+EVs: 29 HP / 32 Atk / 5 Def
+Careful Nature
+- Waterfall
+- Protect
+- Power Whip
+- Earthquake
+
+Gliscor @ Life Orb
+Ability: Hyper Cutter
+Level: 50
+EVs: 19 HP / 32 Atk / 15 Spe
+Jolly Nature
+- Tailwind
+- High Horsepower
+- Protect
+- Acrobatics
+
 # g498-c3-8cc8b675 · 12W-4L-0D vs 4 declared opponents · identity 8cc8b675fc2179f288d1436154b230cfc5684bba023beee05526293400522b53
 Gardevoir @ Choice Scarf
 Ability: Telepathy
@@ -42881,7 +42942,7 @@ Timid Nature
 - Heat Wave
 - Toxic
 
-# g1119-c3-4fd557cb · 12W-4L-0D vs 4 declared opponents · identity 4fd557cb24cb0bea618361c97596165b4f444fc3f66072d45e78d4e0470782ff
+# g1119-c3-4fd557cb · 23W-13L-0D vs 9 declared opponents · identity 4fd557cb24cb0bea618361c97596165b4f444fc3f66072d45e78d4e0470782ff
 Tyranitar @ Expert Belt
 Ability: Sand Stream
 Level: 50
@@ -52213,67 +52274,6 @@ Brave Nature
 - Protect
 - Poltergeist
 - Ice Punch
-
-# g196-c3-e5f91e68 · 13W-3L-0D vs 4 declared opponents · identity e5f91e686e58e2356554d954ffe1db707d4b12c3b009265e19b6195604c978d4
-Dragalge @ Life Orb
-Ability: Adaptability
-Level: 50
-EVs: 32 HP / 32 SpA / 2 SpD
-Modest Nature
-- Sludge Bomb
-- Protect
-- Draco Meteor
-- Scald
-
-Emboar @ Emboarite
-Ability: Reckless
-Level: 50
-EVs: 2 HP / 32 Atk / 32 Spe
-Jolly Nature
-- Flare Blitz
-- Protect
-- Drain Punch
-- Sucker Punch
-
-Malamar @ Malamarite
-Ability: Contrary
-Level: 50
-EVs: 32 HP / 32 Atk / 2 SpD
-Adamant Nature
-- Superpower
-- Knock Off
-- Protect
-- Trick Room
-
-Floette-Eternal @ Choice Scarf
-Ability: Flower Veil
-Level: 50
-EVs: 2 HP / 32 SpA / 32 Spe
-Modest Nature
-- Dazzling Gleam
-- Light of Ruin
-- Moonblast
-- Energy Ball
-
-Serperior @ Miracle Seed
-Ability: Contrary
-Level: 50
-EVs: 2 HP / 32 SpA / 32 Spe
-Timid Nature
-- Leaf Storm
-- Protect
-- Dragon Pulse
-- Giga Drain
-
-Medicham @ Medichamite
-Ability: Pure Power
-Level: 50
-EVs: 2 HP / 32 Atk / 32 Spe
-Adamant Nature
-- Fake Out
-- Close Combat
-- Rock Slide
-- Psycho Cut
 
 # g898-c2-0f07eb40 · 11W-5L-0D vs 4 declared opponents · identity 0f07eb402e8669b149c7e583ae364cc533f30394d63a6f475ced97671e26f74c
 Talonflame @ Life Orb
@@ -98266,6 +98266,67 @@ Careful Nature
 - Power Whip
 - Earthquake
 
+# g196-c3-e5f91e68 · 25W-7L-0D vs 6 declared opponents · identity e5f91e686e58e2356554d954ffe1db707d4b12c3b009265e19b6195604c978d4
+Dragalge @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Sludge Bomb
+- Protect
+- Draco Meteor
+- Scald
+
+Emboar @ Emboarite
+Ability: Reckless
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Flare Blitz
+- Protect
+- Drain Punch
+- Sucker Punch
+
+Malamar @ Malamarite
+Ability: Contrary
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Superpower
+- Knock Off
+- Protect
+- Trick Room
+
+Floette-Eternal @ Choice Scarf
+Ability: Flower Veil
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Dazzling Gleam
+- Light of Ruin
+- Moonblast
+- Energy Ball
+
+Serperior @ Miracle Seed
+Ability: Contrary
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Leaf Storm
+- Protect
+- Dragon Pulse
+- Giga Drain
+
+Medicham @ Medichamite
+Ability: Pure Power
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Close Combat
+- Rock Slide
+- Psycho Cut
+
 # g56-c1-0eff6081 · 21W-11L-0D vs 6 declared opponents · identity 0eff60813475762c7eaa9e20301ebedab77ac4c2b1d2a7c1406c46c88d016787
 Golurk @ Golurkite
 Ability: Iron Fist
@@ -122848,6 +122909,67 @@ Impish Nature
 - Tailwind
 - Brave Bird
 - Whirlwind
+
+# g1120-c4-8ad83126 · 9W-7L-0D vs 4 declared opponents · identity 8ad83126710cf3d9ce46f965f254143741d3be42ca104488e3b4c36bd0dd7ae9
+Tyranitar @ Chople Berry
+Ability: Sand Stream
+Level: 50
+EVs: 32 Atk / 2 Def / 32 Spe
+Jolly Nature
+- Rock Slide
+- Knock Off
+- Low Kick
+- Protect
+
+Lycanroc @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Endure
+- Accelerock
+- Close Combat
+- Protect
+
+Cinderace @ Life Orb
+Ability: Libero
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Flare Blitz
+- Acrobatics
+- High Jump Kick
+- Protect
+
+Talonflame @ Sharp Beak
+Ability: Gale Wings
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Tailwind
+- Flare Blitz
+- Protect
+- Brave Bird
+
+Scrafty @ Scraftinite
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Adamant Nature
+- Knock Off
+- Fake Out
+- Drain Punch
+- Close Combat
+
+Serperior @ Miracle Seed
+Ability: Contrary
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Leaf Storm
+- Protect
+- Dragon Pulse
+- Giga Drain
 
 # g531-c3-34db332b · 9W-7L-0D vs 4 declared opponents · identity 34db332be0529d88646e32f4ad73ca6cde5580642f6deb3a094dd14f0a02b489
 Ninetales @ Choice Scarf
@@ -220815,6 +220937,67 @@ Brave Nature
 - High Horsepower
 - Earthquake
 
+# g1120-c1-90be417b · 8W-8L-0D vs 4 declared opponents · identity 90be417b91c1f44e0cf41becd4883b06db4417cb861598af75313d9ed5dfab90
+Wyrdeer @ Colbur Berry
+Ability: Intimidate
+Level: 50
+EVs: 29 HP / 1 Atk / 8 Def / 21 SpD / 7 Spe
+Adamant Nature
+- Trick Room
+- Skill Swap
+- Protect
+- Psychic
+
+Pelipper @ Life Orb
+Ability: Drizzle
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Hurricane
+- Weather Ball
+- Blizzard
+- Wide Guard
+
+Blaziken @ Choice Scarf
+Ability: Speed Boost
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Close Combat
+- Flare Blitz
+- Rock Slide
+- Detect
+
+Swampert @ Swampertite
+Ability: Damp
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Protect
+- Smack Down
+- Earthquake
+- Ice Punch
+
+Typhlosion-Hisui @ Wise Glasses
+Ability: Frisk
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Eruption
+- Shadow Ball
+- Heat Wave
+- Overheat
+
+Heliolisk @ Expert Belt
+Ability: Dry Skin
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Thunderbolt
+- Hyper Voice
+- Shed Tail
+- Volt Switch
+
 # g878-c4-93b58288 · 10W-6L-0D vs 4 declared opponents · identity 93b58288a0ef55685f5b866f558c987269e92d9bb03278681514ef46a9a5c3a4
 Gliscor @ Sitrus Berry
 Ability: Hyper Cutter
@@ -268516,6 +268699,67 @@ Jolly Nature
 - Night Slash
 - Sucker Punch
 - Aqua Cutter
+
+# g1120-c2-7c0c5dae · 4W-12L-0D vs 4 declared opponents · identity 7c0c5dae8d44f6b3f2f873d116e32e18a25b76fbc21caca6f48f6844120c85f8
+Feraligatr @ Feraligite
+Ability: Torrent
+Level: 50
+EVs: 24 HP / 10 Atk / 3 SpD / 29 Spe
+Adamant Nature
+- Protect
+- Liquidation
+- Aqua Jet
+- Double-Edge
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Protect
+- Knock Off
+- Low Kick
+
+Lycanroc @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Rock Slide
+- Accelerock
+- Close Combat
+- Protect
+
+Tauros-Paldea-Combat @ Muscle Band
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Close Combat
+- Stone Edge
+- Zen Headbutt
+- Protect
+
+Glimmora @ Life Orb
+Ability: Toxic Debris
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Power Gem
+- Earth Power
+- Spiky Shield
+- Sludge Bomb
+
+Gallade @ Expert Belt
+Ability: Justified
+Level: 50
+EVs: 32 HP / 32 Atk / 2 SpD
+Brave Nature
+- Sacred Sword
+- Psycho Cut
+- Leaf Blade
+- Trick Room
 
 # g289-c2-7a7dfaf9 · 5W-11L-0D vs 4 declared opponents · identity 7a7dfaf9074e2adf8f786f99a102b63386498218c6b814dd2a221dd1f1a322a3
 Krookodile @ Choice Scarf
