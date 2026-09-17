@@ -22995,6 +22995,67 @@ Modest Nature
 - Earth Power
 - Snarl
 
+# g1123-c1-c39ffbd4 · 10W-6L-0D vs 4 declared opponents · identity c39ffbd4336004ded610f4e60c928bff294bb40bcf568a2d47a48572bd2d3ee7
+Absol @ Absolite Z
+Ability: Pressure
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Knock Off
+- Close Combat
+- Psycho Cut
+- Protect
+
+Spiritomb @ Roseli Berry
+Ability: Infiltrator
+Level: 50
+EVs: 32 HP / 18 Def / 16 SpD
+Relaxed Nature
+- Trick Room
+- Will-O-Wisp
+- Snarl
+- Foul Play
+
+Vanilluxe @ Never-Melt Ice
+Ability: Snow Warning
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Quiet Nature
+- Blizzard
+- Freeze-Dry
+- Protect
+- Ice Shard
+
+Feraligatr @ Feraligite
+Ability: Torrent
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Protect
+- Stomping Tantrum
+- Aqua Jet
+- Double-Edge
+
+Aurorus @ Life Orb
+Ability: Snow Warning
+Level: 50
+EVs: 16 HP / 4 Def / 32 SpA / 5 SpD / 9 Spe
+Modest Nature
+- Freeze-Dry
+- Ancient Power
+- Protect
+- Blizzard
+
+Torterra @ White Herb
+Ability: Shell Armor
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Wood Hammer
+- Headlong Rush
+- Protect
+- Wide Guard
+
 # g494-c4-1b49111e · 30W-6L-0D vs 9 declared opponents · identity 1b49111e1f0a0b231a5ffc5ef6e161ad5128e624a8b392718d5ccc3f233a8b0d
 Froslass @ Froslassite
 Ability: Cursed Body
@@ -38488,67 +38549,6 @@ Calm Nature
 - Moonblast
 - Protect
 - Helping Hand
-
-# g197-c3-c1f49e2c · 12W-4L-0D vs 4 declared opponents · identity c1f49e2c4e122f9ecdae262e03f15073e37cdd5a43c3bff40f89e6a2e5865848
-Dragalge @ Life Orb
-Ability: Adaptability
-Level: 50
-EVs: 32 HP / 32 SpA / 2 SpD
-Modest Nature
-- Sludge Bomb
-- Protect
-- Sludge Wave
-- Scald
-
-Samurott-Hisui @ Choice Scarf
-Ability: Sharpness
-Level: 50
-EVs: 2 HP / 32 Atk / 32 Spe
-Jolly Nature
-- Sacred Sword
-- Night Slash
-- Sucker Punch
-- Aqua Cutter
-
-Malamar @ Malamarite
-Ability: Contrary
-Level: 50
-EVs: 32 HP / 14 Def / 20 SpD
-Careful Nature
-- Superpower
-- Knock Off
-- Protect
-- Trick Room
-
-Skarmory @ Skarmorite
-Ability: Sturdy
-Level: 50
-EVs: 2 HP / 32 Atk / 32 Spe
-Adamant Nature
-- Iron Head
-- Brave Bird
-- Protect
-- Tailwind
-
-Serperior @ Miracle Seed
-Ability: Contrary
-Level: 50
-EVs: 2 HP / 32 SpA / 32 Spe
-Timid Nature
-- Leaf Storm
-- Protect
-- Dragon Pulse
-- Giga Drain
-
-Medicham @ Roseli Berry
-Ability: Telepathy
-Level: 50
-EVs: 2 HP / 32 Atk / 32 Spe
-Adamant Nature
-- Fake Out
-- Close Combat
-- Recover
-- Psycho Cut
 
 # g619-c1-09bbdf3f · 17W-19L-0D vs 9 declared opponents · identity 09bbdf3f232b4a3a2802d616ca199a30ad582412b4097a2ff4d4bbe507c5f5e6
 Musharna @ Leftovers
@@ -87410,6 +87410,67 @@ Jolly Nature
 - Protect
 - Iron Head
 - Ice Punch
+
+# g197-c3-c1f49e2c · 22W-10L-0D vs 6 declared opponents · identity c1f49e2c4e122f9ecdae262e03f15073e37cdd5a43c3bff40f89e6a2e5865848
+Dragalge @ Life Orb
+Ability: Adaptability
+Level: 50
+EVs: 32 HP / 32 SpA / 2 SpD
+Modest Nature
+- Sludge Bomb
+- Protect
+- Sludge Wave
+- Scald
+
+Samurott-Hisui @ Choice Scarf
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Sacred Sword
+- Night Slash
+- Sucker Punch
+- Aqua Cutter
+
+Malamar @ Malamarite
+Ability: Contrary
+Level: 50
+EVs: 32 HP / 14 Def / 20 SpD
+Careful Nature
+- Superpower
+- Knock Off
+- Protect
+- Trick Room
+
+Skarmory @ Skarmorite
+Ability: Sturdy
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Iron Head
+- Brave Bird
+- Protect
+- Tailwind
+
+Serperior @ Miracle Seed
+Ability: Contrary
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Leaf Storm
+- Protect
+- Dragon Pulse
+- Giga Drain
+
+Medicham @ Roseli Berry
+Ability: Telepathy
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Fake Out
+- Close Combat
+- Recover
+- Psycho Cut
 
 # g111-c3-af733277 · 19W-13L-0D vs 6 declared opponents · identity af7332771eaae643d9b3dd9dfa3e689551f536f509c66f0b1aa7b82abbc91dd6
 Ampharos @ Ampharosite
@@ -138648,7 +138709,7 @@ Modest Nature
 - Earth Power
 - Snarl
 
-# g1122-c1-82a878f8 · 13W-3L-0D vs 4 declared opponents · identity 82a878f89c421a9af4a406a19dfa995abb798c0873ebe9620476266a32360d11
+# g1122-c1-82a878f8 · 27W-9L-0D vs 9 declared opponents · identity 82a878f89c421a9af4a406a19dfa995abb798c0873ebe9620476266a32360d11
 Swampert @ Swampertite
 Ability: Torrent
 Level: 50
@@ -200624,6 +200685,67 @@ Modest Nature
 - Heat Wave
 - Solar Beam
 
+# g1123-c3-7bd376bb · 10W-6L-0D vs 4 declared opponents · identity 7bd376bbfd9437f95a7f098efebcb21992e71c2361a55dc34a4f5adba0d1684a
+Salazzle @ Focus Sash
+Ability: Corrosion
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Fake Out
+- Sludge Bomb
+- Heat Wave
+- Toxic
+
+Tyranitar @ Choice Scarf
+Ability: Sand Stream
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Rock Slide
+- Knock Off
+- Low Kick
+- Ice Punch
+
+Typhlosion @ Life Orb
+Ability: Flash Fire
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Modest Nature
+- Eruption
+- Scorching Sands
+- Protect
+- Heat Wave
+
+Golisopod @ Golisopite
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Liquidation
+- First Impression
+- Gunk Shot
+- Protect
+
+Chandelure @ Wise Glasses
+Ability: Flash Fire
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Shadow Ball
+- Heat Wave
+- Trick Room
+- Spite
+
+Samurott-Hisui @ Muscle Band
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Sacred Sword
+- Night Slash
+- Sucker Punch
+- Aqua Cutter
+
 # g402-c4-1aa82990 · 9W-7L-0D vs 4 declared opponents · identity 1aa82990145e94825123c52521cc5387ddc76afb318f4b5b4d09a800ac1ce2f6
 Rotom-Heat @ Choice Scarf
 Ability: Levitate
@@ -226975,6 +227097,67 @@ Timid Nature
 - Light Screen
 - Rain Dance
 - Icy Wind
+
+# g1123-c2-5d79354e · 9W-7L-0D vs 4 declared opponents · identity 5d79354e1c47e5a7623a827bf253cec5ca5e0ec5e00762732af258c76c5692ff
+Salamence @ Lum Berry
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Outrage
+- Fire Blast
+- Iron Head
+- Protect
+
+Slowbro @ Slowbronite
+Ability: Oblivious
+Level: 50
+EVs: 32 HP / 2 Def / 31 SpD / 1 Spe
+Calm Nature
+- Slack Off
+- Body Press
+- Scald
+- Trick Room
+
+Arcanine @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Spe
+Adamant Nature
+- Flare Blitz
+- Extreme Speed
+- Protect
+- Will-O-Wisp
+
+Ninetales-Alola @ Never-Melt Ice
+Ability: Snow Warning
+Level: 50
+EVs: 2 HP / 32 SpA / 32 Spe
+Timid Nature
+- Blizzard
+- Freeze-Dry
+- Protect
+- Aurora Veil
+
+Feraligatr @ Life Orb
+Ability: Sheer Force
+Level: 50
+EVs: 32 HP / 17 Atk / 1 SpD / 16 Spe
+Adamant Nature
+- Liquidation
+- Ice Punch
+- Protect
+- Aqua Jet
+
+Mr. Rime @ Wise Glasses
+Ability: Screen Cleaner
+Level: 50
+EVs: 32 HP / 2 Def / 32 SpA
+Quiet Nature
+- Freeze-Dry
+- Fake Out
+- Frost Breath
+- Charm
 
 # g899-c1-46fdb2b1 · 6W-10L-0D vs 4 declared opponents · identity 46fdb2b15a16dd349c69880a553aa5ab2e3dd7cfbc7c273991ba76c336ba54c3
 Hydreigon @ Choice Scarf
@@ -267357,6 +267540,67 @@ Impish Nature
 - Belly Drum
 - Double-Edge
 - Curse
+
+# g1123-c4-4f9441da · 5W-11L-0D vs 4 declared opponents · identity 4f9441da0d766d474d2835dbf440276fb9d32ef9a366a719b399eb2cc8e325cc
+Golisopod @ Sitrus Berry
+Ability: Emergency Exit
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Adamant Nature
+- Liquidation
+- First Impression
+- Gunk Shot
+- Protect
+
+Skarmory @ Leftovers
+Ability: Sturdy
+Level: 50
+EVs: 28 HP / 32 Def / 6 Spe
+Impish Nature
+- Body Press
+- Tailwind
+- Brave Bird
+- Whirlwind
+
+Samurott-Hisui @ Choice Scarf
+Ability: Sharpness
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Jolly Nature
+- Sacred Sword
+- Night Slash
+- Sucker Punch
+- Aqua Cutter
+
+Golurk @ Golurkite
+Ability: Iron Fist
+Level: 50
+EVs: 32 HP / 32 Atk / 2 Def
+Brave Nature
+- Headlong Rush
+- Protect
+- Poltergeist
+- Ice Punch
+
+Gliscor @ Life Orb
+Ability: Hyper Cutter
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Tailwind
+- Earthquake
+- Protect
+- Dual Wingbeat
+
+Krookodile @ Muscle Band
+Ability: Intimidate
+Level: 50
+EVs: 2 HP / 32 Atk / 32 Spe
+Adamant Nature
+- Knock Off
+- High Horsepower
+- Rock Slide
+- Earthquake
 
 # g413-c2-5bac9fd9 · 7W-9L-0D vs 4 declared opponents · identity 5bac9fd9c840afbb1e1b942344a51455cc643ee5682de7ed11e5a3c734b345a6
 Golurk @ Golurkite
